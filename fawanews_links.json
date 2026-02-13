@@ -1,14 +1,14 @@
 [
     {
         "Id": "1",
-        "Rivels": "Australia vs Zimbabwe --- CH 1",
-        "Title": "Cricket T20 World Cup 06:30",
+        "Rivels": "Canada vs UAE --- CH 1",
+        "Title": "Cricket T20 World Cup 10:30",
         "Link": "http://195.178.110.27/hls/DZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Australia vs Zimbabwe --- CH 2",
-        "Title": "Cricket T20 World Cup 06:30",
+        "Rivels": "Canada vs UAE --- CH 2",
+        "Title": "Cricket T20 World Cup 10:30",
         "Link": "https://b.rtzsa.cfd/hls/DZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
@@ -43,32 +43,38 @@
     },
     {
         "Id": "8",
+        "Rivels": "Olympic Winter Games --- CH 4",
+        "Title": "Curling Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Olympic Winter Games --- CH 5",
+        "Title": "Curling Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXG.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
         "Rivels": "WS Wanderers vs Wellington Phoenix",
         "Title": "Australia A-League 09:35",
         "Link": "http://195.178.110.25/hls/ddddQQqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
-        "Rivels": "Brisbane Roar W vs Sydney W",
-        "Title": "Australia Women A-League 09:00",
-        "Link": "http://195.178.110.25/hls/ddddQQq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Canberra Raiders vs Melbourne Storm",
-        "Title": "NRL 07:30",
-        "Link": "http://195.178.110.25/hls/ddddQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "11",
-        "Rivels": "Highlanders vs Crusaders",
-        "Title": "Super Rugby 07:00",
-        "Link": "http://195.178.110.25/hls/dddd.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Persis Solo vs Madura United",
+        "Title": "Indonesia Liga 1 09:30",
+        "Link": "http://195.178.110.25/hls/AAAAQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "WS Wanderers W vs Newcastle W",
-        "Title": "Australia Women A-League 06:50",
-        "Link": "http://195.178.110.25/hls/WADADAQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Persik Kediri vs PSIM Yogyakarta",
+        "Title": "Indonesia Liga 1 09:30",
+        "Link": "http://195.178.110.25/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Brisbane Roar W vs Sydney W",
+        "Title": "Australia Women A-League 09:00",
+        "Link": "http://195.178.110.25/hls/ddddQQq.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
