@@ -37,74 +37,38 @@
     },
     {
         "Id": "7",
-        "Rivels": "Kashiwa Reysol vs Tokyo Verdy",
-        "Title": "Japan J League 05:00",
-        "Link": "http://205.237.105.46/hls/kyyyqQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 1",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Santa Clara vs Gonzaga",
-        "Title": "NCAA Basketball 04:30",
-        "Link": "http://205.237.105.46/hls/jpppqqqqqqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 2",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Chiba vs Kawasaki Frontale",
-        "Title": "Japan J League 04:00",
-        "Link": "http://205.237.105.46/hls/kyyyqQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 3",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Guadalajara Chivas vs Club America",
-        "Title": "Mexico Liga MX 03:07",
-        "Link": "http://195.178.110.37/hls/VKKKQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 4",
+        "Title": "Curling Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Arkansas vs Auburn",
-        "Title": "NCAA Basketball 02:30",
-        "Link": "http://205.237.105.46/hls/jpppqqqqqqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 5",
+        "Title": "Curling Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXG.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Dep Pasto vs Inter Bogota",
-        "Title": "Colombia Primera A 02:30",
-        "Link": "http://195.178.110.37/hls/GFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Monterrey vs Club Leon",
-        "Title": "Mexico Liga MX 02:00",
-        "Link": "http://195.178.110.37/hls/VKKKQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Juarez vs Necaxa",
-        "Title": "Mexico Liga MX 02:06",
-        "Link": "http://195.178.110.37/hls/VKKKQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Ind Rivadavia vs Belgrano",
-        "Title": "Argentina Liga Profesional 02:00",
-        "Link": "http://195.178.110.37/hls/VKKKQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Atl Tucuman vs Estudiantes Rio Cuarto",
-        "Title": "Argentina Liga Profesional 02:00",
-        "Link": "http://195.178.110.37/hls/VKKKQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Alianza Atl vs Alianza Lima",
-        "Title": "Peru Liga 1 Apertura 02:00",
-        "Link": "http://195.178.110.37/hls/VKKK.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Vasco vs Volta Redonda",
-        "Title": "Brazil Carioca - Taca Guanabara 01:30",
-        "Link": "http://195.178.110.37/hls/YYYLQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 6",
+        "Title": "Curling Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
