@@ -1,98 +1,92 @@
 [
     {
         "Id": "1",
-        "Rivels": "Afghanistan vs United Arab Emirates --- CH 1",
-        "Title": "Cricket T20 World Cup 05:30",
+        "Rivels": "England vs Italy --- CH 1",
+        "Title": "Cricket T20 World Cup 09:30",
         "Link": "http://195.178.110.27/hls/RIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Afghanistan vs United Arab Emirates --- CH 2",
-        "Title": "Cricket T20 World Cup 05:30",
+        "Rivels": "England vs Italy --- CH 2",
+        "Title": "Cricket T20 World Cup 09:30",
         "Link": "https://b.rtzsa.cfd/hls/RIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Fortaleza vs Chico",
-        "Title": "Colombia Primera A 01:30",
-        "Link": "http://195.178.110.25/hls/EPPPZQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Septemvri Sofia vs Montana",
+        "Title": "Bulgaria efbet League 13:00",
+        "Link": "http://195.178.110.37/hls/hrrrqQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Club America W vs Monterrey W",
-        "Title": "Mexico Women Liga MX 01:\u00b05",
-        "Link": "http://195.178.110.25/hls/EPPPZQq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Gabala vs Sabah Baku",
+        "Title": "Azerbaijan Premier League 13:00",
+        "Link": "http://195.178.110.37/hls/hrrrqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Rosario Central vs Barracas Central",
-        "Title": "Argentina Liga Profesional 01:00",
-        "Link": "http://195.178.110.25/hls/EPPPZ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Shamakhi vs Turan Tovuz",
+        "Title": "Azerbaijan Premier League 10:30",
+        "Link": "http://195.178.110.37/hls/hrrrq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Instituto vs Central Cordoba",
-        "Title": "Argentina Liga Profesional 01:00",
-        "Link": "http://195.178.110.25/hls/EPPP.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Doha",
+        "Title": "Tennis ATP 10:30",
+        "Link": "http://205.237.105.46/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Sao Bernardo vs Corinthians",
-        "Title": "Brazil Paulista 23:30",
-        "Link": "http://205.237.105.46/hls/FBBBBQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis WTA Dubai --- CH 1",
+        "Title": "Tennis WTA 09:00",
+        "Link": "http://195.178.110.37/hls/Yjjj.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Santos vs Velo Clube",
-        "Title": "Brazil Paulista 23:30",
-        "Link": "http://205.237.105.46/hls/FBBBBQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis WTA Dubai --- CH 2",
+        "Title": "Tennis WTA 09:00",
+        "Link": "http://195.178.110.37/hls/YjjjQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Ponte Preta vs Sao Paulo",
-        "Title": "Brazil Paulista 23:30",
-        "Link": "http://205.237.105.46/hls/FBBBBQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games Simulcast",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/DIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Mirassol vs Portuguesa",
-        "Title": "Brazil Paulista 23:30",
-        "Link": "http://205.237.105.46/hls/FOOOQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 1",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Bragantino vs Novorizontino",
-        "Title": "Brazil Paulista 23:30",
-        "Link": "http://205.237.105.46/hls/FOOOQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 2",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Ypiranga FC vs Internacional",
-        "Title": "Brazil Gaucho 23:30",
-        "Link": "http://205.237.105.46/hls/FOOOQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 3",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
-        "Rivels": "Dep Cali vs Atl Nacional",
-        "Title": "Colombia Primera A 23:30",
-        "Link": "http://205.237.105.46/hls/KFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 4",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
-        "Rivels": "FBC Melgar vs Moquegua",
-        "Title": "Peru Liga 1 Apertura 23:30",
-        "Link": "http://205.237.105.46/hls/FBBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 5",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXGXX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "15",
-        "Rivels": "Cerro Porteno vs Nacional Asuncion",
-        "Title": "Paraguay Primera Division 23:30",
-        "Link": "http://205.237.105.46/hls/FBBBBQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Colo Colo vs Union La Calera",
-        "Title": "Chile Liga de Primera 23:30",
-        "Link": "http://195.178.110.25/hls/CCCCCZZ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Olympic Winter Games --- CH 6",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
