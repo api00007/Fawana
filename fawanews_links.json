@@ -1,14 +1,14 @@
 [
     {
         "Id": "1",
-        "Rivels": "Ireland vs Zimbabwe --- CH 1",
-        "Title": "Cricket T20 World Cup 09:30",
+        "Rivels": "Nepal vs Scotland --- CH 1",
+        "Title": "Cricket T20 World Cup 13:30",
         "Link": "http://195.178.110.27/hls/rppp.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Ireland vs Zimbabwe --- CH 2",
-        "Title": "Cricket T20 World Cup 09:30",
+        "Rivels": "Nepal vs Scotland --- CH 2",
+        "Title": "Cricket T20 World Cup 13:30",
         "Link": "https://b.rtzsa.cfd/hls/rppp.m3u8|referer=http://www.fawanews.sc/"
     },
     {
@@ -43,84 +43,60 @@
     },
     {
         "Id": "8",
-        "Rivels": "Hatayspor vs Igdir FK",
-        "Title": "Turkey Lig 1 11:30",
-        "Link": "http://195.178.110.37/hls/DUUUQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "CAF Confederation Cup Draw",
-        "Title": "CAF Confederation Cup 11:00",
-        "Link": "http://195.178.110.37/hls/ufff.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Machida vs Chengdu Rongcheng",
-        "Title": "AFC Champions League 10:00",
-        "Link": "http://195.178.110.37/hls/DUUUQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Seoul vs Sanfrecce Hiroshima",
-        "Title": "AFC Champions League 10:00",
-        "Link": "http://195.178.110.37/hls/DUUUQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
         "Rivels": "Tennis ATP Doha",
         "Title": "Tennis ATP 10:00",
         "Link": "http://205.237.105.46/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "9",
         "Rivels": "Olympic Winter Games Simulcast",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/DIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
-        "Rivels": "Olympic Winter Games --- CH 1",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Olympic Winter Games --- CH 2",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Olympic Winter Games --- CH 3",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Olympic Winter Games --- CH 4",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
+        "Id": "10",
         "Rivels": "Olympic Winter Games --- CH 5",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/BAAAXGXX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "11",
+        "Rivels": "Olympic Winter Games --- CH 1",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Olympic Winter Games --- CH 2",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Olympic Winter Games --- CH 3",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Olympic Winter Games --- CH 4",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
         "Rivels": "Olympic Winter Games --- CH 6",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "16",
         "Rivels": "Tennis WTA Dubai --- CH 1",
         "Title": "Tennis WTA 08:00",
         "Link": "http://195.178.110.37/hls/Yjjj.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "17",
         "Rivels": "Tennis WTA Dubai --- CH 2",
         "Title": "Tennis WTA 08:00",
         "Link": "http://195.178.110.37/hls/YjjjQ.m3u8|referer=http://www.fawanews.sc/"
