@@ -37,140 +37,14 @@
     },
     {
         "Id": "7",
-        "Rivels": "Dep Riestra vs Newells Old Boys",
-        "Title": "Argentina Liga Profesional 22:00",
-        "Link": "http://195.178.110.27/hls/FNNNQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Albion vs CA Cerro",
-        "Title": "Uruguay Liga AUF 22:00",
-        "Link": "http://205.237.105.197/hls/YFFFQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Fluminense vs Bangu",
-        "Title": "Brazil Carioca - Taca Guanabara 21:00",
-        "Link": "http://205.237.105.197/hls/YFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Girona vs FC Barcelona --- CH 1",
-        "Title": "Spanish La Liga 20:00",
-        "Link": "http://195.178.110.37/hls/RMMM.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Girona vs FC Barcelona --- CH 2",
-        "Title": "Spanish La Liga 20:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/25/chunks.m3u8?x-sign=5637700e5d1a7b8e1120a82612157bd4&x-time=1771271100&is_vip=true&token=nobar-5f74333c-47f8-4f41-bae1-f6fd90a981ac|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Girona vs FC Barcelona --- CN HD",
-        "Title": "Spanish La Liga 20:00",
-        "Link": "https://e075216654b4bcf1d1f8d076300cb67e.livehwc4.com/pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=267d48eed88fb230901fb542c7e57e90|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Coventry vs Middlesbrough --- ENG 1",
-        "Title": "English Championship 20:00",
-        "Link": "http://195.178.110.2/hls/FNNNQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Coventry vs Middlesbrough --- ENG 2",
-        "Title": "English Championship 20:00",
-        "Link": "https://s.simskimsa.shop/hls/FNNNQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Coventry vs Middlesbrough --- SWE",
-        "Title": "English Championship 20:00",
-        "Link": "http://195.178.110.2/hls/PYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Coventry vs Middlesbrough --- CN HD",
-        "Title": "English Championship 20:00",
-        "Link": "https://e075216654b4bcf1d1f8d076300cb67e.livehwc4.com/pullsgp.yyzb456.top/live/stream-500894_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=267d48eed88fb230901fb542c7e57e90|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Rio Ave vs Moreirense",
-        "Title": "Portugal Primeira Liga 20:15",
+        "Rivels": "Toluca W vs Pachuca W",
+        "Title": "Mexico Women Liga MX 00:00",
         "Link": "http://205.237.105.197/hls/YFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
-        "Rivels": "Cagliari vs Lecce",
-        "Title": "Italy Serie A 19:45",
-        "Link": "http://205.237.105.197/hls/YFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Cagliari vs Lecce --- CN HD",
-        "Title": "Italy Serie A 19:45",
-        "Link": "https://e075216654b4bcf1d1f8d076300cb67e.livehwc4.com/pullsgp.yyzb456.top/live/stream-453781_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=267d48eed88fb230901fb542c7e57e90|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Chelmsford vs Maidstone",
-        "Title": "English National League 19:45",
-        "Link": "http://195.178.110.2/hls/FNNNQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Bastia vs Troyes",
-        "Title": "France Ligue 2 19:45",
-        "Link": "http://195.178.110.27/hls/FNNNQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
+        "Id": "8",
         "Rivels": "Tennis ATP Rio de Janeiro",
         "Title": "Tennis ATP 18:00",
         "Link": "http://205.237.105.46/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Tennis ATP Doha",
-        "Title": "Tennis ATP 10:30",
-        "Link": "http://205.237.105.46/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "Olympic Winter Games --- CH 5",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAXGXX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "25",
-        "Rivels": "Olympic Winter Games --- CH 3",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "26",
-        "Rivels": "Olympic Winter Games --- CH 1",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "27",
-        "Rivels": "Olympic Winter Games --- CH 2",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "28",
-        "Rivels": "Olympic Winter Games --- CH 4",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "Olympic Winter Games --- CH 6",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
