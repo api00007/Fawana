@@ -1,108 +1,174 @@
 [
     {
         "Id": "1",
+        "Rivels": "Orlando Pirates vs Mamelodi Sundowns",
+        "Title": "South Africa Premiership 17:30",
+        "Link": "http://205.237.107.90/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
         "Rivels": "Young Africans vs Cosmopolitan",
         "Title": "Tanzania FA Cup 16:00",
         "Link": "http://205.237.105.197/hls/UJJJJ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
-        "Rivels": "L Mikulas vs Komarno",
-        "Title": "Slovakia Cup 14:30",
-        "Link": "http://205.237.107.90/hls/jrrrQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "3",
+        "Rivels": "Qarabag vs Newcastle United --- CH 1",
+        "Title": "UEFA Champions League 17:45",
+        "Link": "http://195.178.110.2/hls/VCVCVC.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "4",
+        "Rivels": "Qarabag vs Newcastle United --- CH 2",
+        "Title": "UEFA Champions League 17:45",
+        "Link": "https://s.simskimsa.shop/hls/VCVCVC.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Qarabag vs Newcastle United --- ENG HD",
+        "Title": "UEFA Champions League 17:45",
+        "Link": "https://cfd5.cfdcdf.cfd/doopentea_m6/baygonhero26/chunks.m3u8?nimblesessionid=7991947&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDU6MzU6NDYgUE0maGFzaF92YWx1ZT1aYXY3Ni9HaTVhRmxTQkU1Yjg0VHpBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MCZpZD0xNzcxNDM2MTQ2MjYx|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Panathinaikos vs PAOK",
+        "Title": "Greece Basketball Cup 18:00",
+        "Link": "http://205.237.105.46/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
         "Rivels": "India vs Netherlands --- CH 1",
         "Title": "Cricket T20 World Cup 13:30",
         "Link": "http://195.178.110.27/hls/HNNN.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "8",
         "Rivels": "India vs Netherlands --- CH 2",
         "Title": "Cricket T20 World Cup 13:30",
         "Link": "https://b.rtzsa.cfd/hls/HNNN.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
-        "Rivels": "JTK Tanzania vs Pan African",
-        "Title": "Tanzania FA Cup 13:00",
-        "Link": "http://205.237.105.197/hls/UJJJJ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "South Africa W vs Malawi W",
-        "Title": "COSAFA Cup Women 13:00",
-        "Link": "http://205.237.107.90/hls/jrrrQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Tampines vs Cong An Ha Noi",
-        "Title": "AFC Champions League II 12:15",
-        "Link": "http://205.237.107.90/hls/jrrrQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Persib Bandung vs Ratchaburi",
-        "Title": "AFC Champions League II 12:15",
-        "Link": "http://205.237.107.90/hls/jrrrQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "9",
+        "Rivels": "Austria Vienna W vs Sparta Prague W",
+        "Title": "UEFA Women Europa Cup 18:30",
+        "Link": "http://205.237.105.46/hls/KKKKQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Al Nassr vs Arkadag",
+        "Title": "AFC Champions League II 18:15",
+        "Link": "http://205.237.105.46/hls/KKKKQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Al Ahli Doha vs Sepahan",
+        "Title": "AFC Champions League II 18:15",
+        "Link": "http://205.237.105.46/hls/KKKKQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Winterthur vs St Gallen",
+        "Title": "Switzerland Super League 18:00",
+        "Link": "http://205.237.105.46/hls/KKKK.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Oxford Utd U18 vs Manchester Utd U18",
+        "Title": "English FA Youth Cup 18:00",
+        "Link": "http://205.237.105.197/hls/YOOOQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Hammarby W vs Sporting Lisbon W",
+        "Title": "UEFA Women Europa Cup 18:00",
+        "Link": "http://205.237.105.197/hls/YOOOQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "Breidablik W vs Hacken W",
+        "Title": "UEFA Women Europa Cup 18:00",
+        "Link": "http://205.237.105.197/hls/YOOOQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Real Madrid W vs Paris FC W",
+        "Title": "UEFA Women Champions League 17:45",
+        "Link": "http://205.237.105.197/hls/YOOOQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Al Ain vs Al Qadisiya",
+        "Title": "AFC Gulf Cup 17:30",
+        "Link": "http://37.49.225.198/hls/FAFAFA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "18",
+        "Rivels": "Trnava vs Slovan Bratislava",
+        "Title": "Slovakia Cup 17:00",
+        "Link": "http://205.237.105.197/hls/YOOOQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
+        "Rivels": "Manisa FK vs Bandirmaspor",
+        "Title": "Turkey Lig 1 17:00",
+        "Link": "http://205.237.107.90/hls/jrrr.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "20",
         "Rivels": "Olympic Winter Games Simulcast",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/DIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
-        "Rivels": "Olympic Winter Games --- CH 6",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Olympic Winter Games --- CH 3",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Olympic Winter Games --- CH 2",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Olympic Winter Games --- CH 4",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
+        "Id": "21",
         "Rivels": "Olympic Winter Games --- CH 5",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/BAAAXGXX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "22",
+        "Rivels": "Olympic Winter Games --- CH 6",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
+        "Rivels": "Olympic Winter Games --- CH 3",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "24",
+        "Rivels": "Olympic Winter Games --- CH 4",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/BAAAX.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "25",
         "Rivels": "Olympic Winter Games --- CH 1",
         "Title": "Olympic Winter Games --:--",
         "Link": "http://195.178.110.25/hls/FAFAFAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "26",
+        "Rivels": "Olympic Winter Games --- CH 2",
+        "Title": "Olympic Winter Games --:--",
+        "Link": "http://195.178.110.25/hls/FAFAFAQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "27",
         "Rivels": "Tennis ATP Doha",
         "Title": "Tennis ATP 10:30",
         "Link": "http://205.237.105.46/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "28",
         "Rivels": "Tennis WTA Dubai --- CH 1",
         "Title": "Tennis WTA 08:00",
         "Link": "http://195.178.110.37/hls/Yjjj.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
+        "Id": "29",
         "Rivels": "Tennis WTA Dubai --- CH 2",
         "Title": "Tennis WTA 08:00",
         "Link": "http://195.178.110.37/hls/YjjjQ.m3u8|referer=http://www.fawanews.sc/"
