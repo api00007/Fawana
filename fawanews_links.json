@@ -1,140 +1,86 @@
 [
     {
         "Id": "1",
-        "Rivels": "OHiggins vs Bahia",
+        "Rivels": "Italy vs West Indies --- CH 1",
+        "Title": "Cricket T20 World Cup 05:30",
+        "Link": "http://195.178.110.27/hls/ffff.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Italy vs West Indies --- CH 2",
+        "Title": "Cricket T20 World Cup 05:30",
+        "Link": "https://b.rtzsa.cfd/hls/ffff.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Macarthur FC vs Bangkok Utd",
+        "Title": "AFC Champions League II 07:45",
+        "Link": "http://205.237.105.46/hls/FRFRFR.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Cartagines vs Vancouver Whitecaps",
+        "Title": "CONCACAF Champions Cup 03:00",
+        "Link": "http://205.237.105.46/hls/VVVVCQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Universidad OM vs FC Cincinnati",
+        "Title": "CONCACAF Champions Cup 01:00",
+        "Link": "http://205.237.105.46/hls/VVVVCQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Barcelona SC vs Argentinos Jrs",
+        "Title": "Copa Libertadores 00:30",
+        "Link": "http://205.237.105.46/hls/VVVVCQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Nacional Potosi vs Botafogo RJ",
+        "Title": "Copa Libertadores 00:30",
+        "Link": "http://205.237.105.46/hls/VVVVCQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Junior vs America De Cali",
+        "Title": "Colombia Primera A 00:30",
+        "Link": "http://205.237.105.46/hls/VVVVC.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Defence Force vs Philadelphia Union --- CH 1",
+        "Title": "CONCACAF Champions Cup 23:00",
+        "Link": "http://205.237.105.46/hls/VVVV.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Defence Force vs Philadelphia Union --- CH 2",
+        "Title": "CONCACAF Champions Cup 23:00",
+        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/47/chunks.m3u8?x-sign=920cdbd4971fb9f8fcfc1c27c8dd43e2&x-time=1771456740&is_vip=true&token=nobar-957132af-7f94-43b5-9467-600d796eb7c9|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Deportivo Aurora vs San Anton",
+        "Title": "Bolivia Copa 22:45",
+        "Link": "http://205.237.105.46/hls/hrrrq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "OHiggins vs Bahia --- CH 1",
         "Title": "Copa Libertadores 22:00",
         "Link": "http://205.237.105.46/hls/yddd.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
-        "Rivels": "Tennis ATP Rio de Janeiro",
-        "Title": "Tennis ATP 21:00",
-        "Link": "http://205.237.105.46/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
-        "Rivels": "Wolves vs Arsenal --- ENG 1",
-        "Title": "English Premier League 20:00",
-        "Link": "http://195.178.110.2/hls/eiii.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Wolves vs Arsenal --- ENG 2",
-        "Title": "English Premier League 20:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/2/chunks.m3u8?x-sign=9e106dde1c0fad33e223ec4e375da05b&x-time=1771443960&is_vip=true&token=nobar-5356629d-8854-40d3-93f4-4faabd936715|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Wolves vs Arsenal --- SWE",
-        "Title": "English Premier League 20:00",
-        "Link": "http://195.178.110.27/hls/eiiix.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Wolves vs Arsenal --- CN HD",
-        "Title": "English Premier League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-582352_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f74d02d0eadb7b6ee17246b6c9059e01|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Olympiacos vs Bayer Leverkusen --- ENG 1",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.27/hls/eiiiqQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Olympiacos vs Bayer Leverkusen --- ENG 2",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/40/chunks.m3u8?x-sign=81eb0bca46ffac0de5e22d611a433b66&x-time=1771444200&is_vip=true&token=nobar-5356629d-8854-40d3-93f4-4faabd936715|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Olympiacos vs Bayer Leverkusen --- GRE",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.2/hls/eiiiqQQx.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Olympiacos vs Bayer Leverkusen --- CH 3 HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://guaxh1.csdcup.com/live/0d558bc35ccc03d.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Olympiacos vs Bayer Leverkusen --- CN HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-551893_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f74d02d0eadb7b6ee17246b6c9059e01|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Club Brugge vs Atletico Madrid --- ENG 1",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.27/hls/eiiiqQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "13",
-        "Rivels": "Club Brugge vs Atletico Madrid --- ENG 2",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/3/chunks.m3u8?x-sign=37c66f2286a0e8d17cef4ceb290ef323&x-time=1771444140&is_vip=true&token=nobar-5356629d-8854-40d3-93f4-4faabd936715|referer=http://www.fawanews.sc/"
+        "Rivels": "OHiggins vs Bahia --- CH 2",
+        "Title": "Copa Libertadores 22:00",
+        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/18/chunks.m3u8?x-sign=236f99385b6bedcbb4c399cdce88f9e5&x-time=1771456860&is_vip=true&token=nobar-957132af-7f94-43b5-9467-600d796eb7c9|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
-        "Rivels": "Club Brugge vs Atletico Madrid --- CH 3 HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://guaxh1.csdcup.com/live/325effd69f2d995.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Club Brugge vs Atletico Madrid --- CN HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-551893_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f74d02d0eadb7b6ee17246b6c9059e01|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Bodo Glimt vs Inter Milan --- ENG",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.27/hls/eiiiq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Bodo Glimt vs Inter Milan --- CH 3 HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://guaxh1.csdcup.com/live/d963b81b4af6492.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Bodo Glimt vs Inter Milan --- SWE",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.25/hls/eiiiqx.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Bodo Glimt vs Inter Milan --- CN HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-746673_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f74d02d0eadb7b6ee17246b6c9059e01|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Arsenal W vs Leuven W --- CH 1",
-        "Title": "UEFA Women Champions League 20:00",
-        "Link": "https://b.rtzsa.cfd/hls/VAVAVAQQqqqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Arsenal W vs Leuven W --- CH 2",
-        "Title": "UEFA Women Champions League 20:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/17/chunks.m3u8?x-sign=c38188793c9c6091930d976a02a5075d&x-time=1771444260&is_vip=true&token=nobar-5356629d-8854-40d3-93f4-4faabd936715|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Olympic Winter Games --- CH 5",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAXGXX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Olympic Winter Games --- CH 6",
-        "Title": "Olympic Winter Games --:--",
-        "Link": "http://195.178.110.25/hls/BAAAXGQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Rio de Janeiro",
+        "Title": "Tennis ATP 21:00",
+        "Link": "http://205.237.105.46/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
