@@ -1,98 +1,56 @@
 [
     {
         "Id": "1",
-        "Rivels": "Los Angeles Clippers vs Denver Nuggets --- CH 1",
+        "Rivels": "New Zealand Warriors vs Dolphins",
+        "Title": "NRL 07:00",
+        "Link": "http://195.178.110.27/hls/TBBBQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Hurricanes vs Moana Pasifika",
+        "Title": "Super Rugby 06:05",
+        "Link": "http://195.178.110.27/hls/TBBB.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Golf Honda LPGA Thailand",
+        "Title": "Golf LPGA 03:00",
+        "Link": "http://195.178.110.2/hls/GGGG.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Los Angeles Clippers vs Denver Nuggets",
         "Title": "NBA Basketball 03:30",
         "Link": "http://205.237.105.46/hls/JYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
-        "Rivels": "Sacramento Kings vs Orlando Magic --- CH 1",
+        "Id": "5",
+        "Rivels": "Sacramento Kings vs Orlando Magic",
         "Title": "NBA Basketball 03:00",
         "Link": "http://205.237.105.46/hls/JYYYQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
-        "Rivels": "Golden State Warriors vs Boston Celtics --- CH 1",
+        "Id": "6",
+        "Rivels": "Golden State Warriors vs Boston Celtics",
         "Title": "NBA Basketball 03:00",
         "Link": "http://205.237.105.46/hls/JYYYQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
-        "Rivels": "San Antonio Spurs vs Phoenix Suns --- CH 1",
+        "Id": "7",
+        "Rivels": "San Antonio Spurs vs Phoenix Suns",
         "Title": "NBA Basketball 01:30",
         "Link": "http://205.237.105.46/hls/JYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
-        "Rivels": "Chicago Bulls vs Toronto Raptors --- CH 1",
+        "Id": "8",
+        "Rivels": "Chicago Bulls vs Toronto Raptors",
         "Title": "NBA Basketball 01:00",
         "Link": "http://205.237.105.46/hls/UMMMQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
-        "Rivels": "New York Knicks vs Detroit Pistons --- CH 1",
-        "Title": "NBA Basketball 00:30",
-        "Link": "http://205.237.105.46/hls/UMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Washington Wizards vs Indiana Pacers --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://205.237.105.46/hls/UMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Philadelphia 76ers vs Atlanta Hawks --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://205.237.105.46/hls/UMMMQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "9",
-        "Rivels": "Cleveland Cavaliers vs Brooklyn Nets --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://205.237.105.46/hls/UMMMQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Charlotte Hornets Houston Rockets --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://205.237.105.46/hls/UMMM.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Nacional Asuncion vs Ameliano",
-        "Title": "Paraguay Primera Division 23:30",
-        "Link": "http://205.237.105.46/hls/HTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Athletico-PR vs Corinthians",
-        "Title": "Brazil Serie A 22:30",
-        "Link": "http://205.237.105.46/hls/HTTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Juventud vs Guarani",
-        "Title": "Copa Libertadores 22:00",
-        "Link": "http://205.237.105.46/hls/HTTTQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
         "Rivels": "Tennis ATP Rio de Janeiro",
         "Title": "Tennis ATP 22:00",
         "Link": "http://205.237.105.46/hls/PPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "San Lorenzo vs Sportivo Trinidense",
-        "Title": "Paraguay Primera Division 21:30",
-        "Link": "http://205.237.105.46/hls/HTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Golf PGA The Genesis Invitational",
-        "Title": "Golf PGA 15:15",
-        "Link": "https://s.simskimsa.shop/hls/GGGG.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
