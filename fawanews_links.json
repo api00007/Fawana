@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Manchester City vs Newcastle United --- CH 1",
         "Title": "English Premier League 20:00",
-        "Link": "http://195.178.110.27/hls/syyy.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/syyy.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -91,15 +91,15 @@
     },
     {
         "Id": "16",
-        "Rivels": "Union Touarga vs FAR Rabat",
-        "Title": "Morocco Botola Pro 22:00",
-        "Link": "http://205.237.104.40/hls/AUUU.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Arkansas vs Missouri",
+        "Title": "NCAA Basketball 22:00",
+        "Link": "http://205.237.104.40/hls/EUUUQQQQQZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "17",
-        "Rivels": "Kawkab Marrakech vs Difaa El Jadidi",
+        "Rivels": "Union Touarga vs FAR Rabat",
         "Title": "Morocco Botola Pro 22:00",
-        "Link": "http://205.237.104.40/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://205.237.104.40/hls/AUUU.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "18",
@@ -189,7 +189,7 @@
         "Id": "32",
         "Rivels": "Atletico Madrid vs Espanyol --- CH 1",
         "Title": "Spanish La Liga 20:00",
-        "Link": "http://195.178.110.25/hls/OOOOOQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/OOOOOQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "33",
