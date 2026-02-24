@@ -7,38 +7,20 @@
     },
     {
         "Id": "2",
-        "Rivels": "Memphis Grizzlies vs Sacramento Kings",
-        "Title": "NBA Basketball 01:00",
-        "Link": "http://205.237.104.40/hls/dgggQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Golf TGL : Boston Common Golf vs New York Golf Club",
+        "Title": "Golf 02:00",
+        "Link": "http://205.237.104.40/hls/KPPPQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Detroit Pistons vs San Antonio Spurs",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://205.237.104.40/hls/dgggQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Kansas vs Houston",
+        "Title": "NCAA Basketball 02:00",
+        "Link": "http://205.237.104.40/hls/KPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Libertad vs Manta",
-        "Title": "Ecuador Liga Pro 00:30",
-        "Link": "http://205.237.104.40/hls/WDDDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Cucuta vs Deportes Tolima",
-        "Title": "Colombia Primera A 21:00",
-        "Link": "http://205.237.104.40/hls/dggg.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Tennis ATP Santiago",
+        "Rivels": "Tennis ATP Acapulco",
         "Title": "Tennis ATP 21:00",
         "Link": "http://195.178.110.37/hls/dgggQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Tennis WTA Merida",
-        "Title": "Tennis WTA 20:00",
-        "Link": "http://205.237.104.40/hls/DIIIIQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
