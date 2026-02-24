@@ -1,26 +1,98 @@
 [
     {
         "Id": "1",
-        "Rivels": "Houston Rockets vs Utah Jazz",
-        "Title": "NBA Basketball 02:30",
-        "Link": "http://205.237.104.40/hls/dgggQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "England vs Pakistan --- CH 1",
+        "Title": "Cricket T20 World Cup 13:30",
+        "Link": "http://195.178.110.27/hls/TTTTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Golf TGL : Boston Common Golf vs New York Golf Club",
-        "Title": "Golf 02:00",
-        "Link": "http://205.237.104.40/hls/KPPPQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "England vs Pakistan --- CH 2",
+        "Title": "Cricket T20 World Cup 13:30",
+        "Link": "https://b.rtzsa.cfd/hls/TTTTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Kansas vs Houston",
-        "Title": "NCAA Basketball 02:00",
-        "Link": "http://205.237.104.40/hls/KPPP.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Concordia vs Corvinul",
+        "Title": "Romania Liga 2 15:30",
+        "Link": "http://195.178.110.37/hls/BBBBDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Tennis ATP Acapulco",
-        "Title": "Tennis ATP 21:00",
-        "Link": "http://195.178.110.37/hls/dgggQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Frankfurt U19 vs Sporting CP U19",
+        "Title": "UEFA Youth League 15:00",
+        "Link": "http://195.178.110.37/hls/BBBBDQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Odisha FC vs Inter Kashi",
+        "Title": "India ISL 14:00",
+        "Link": "http://195.178.110.37/hls/BBBBDQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "FC Bhayangkara vs Semen Padang",
+        "Title": "Indonesia Liga 1 13:30",
+        "Link": "http://195.178.110.37/hls/BBBBDQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Inter U19 vs Betis U19",
+        "Title": "UEFA Youth League 13:00",
+        "Link": "http://195.178.110.37/hls/BBBBDQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "South Africa W vs Lesotho W",
+        "Title": "Cosafa Cup Women 13:00",
+        "Link": "http://195.178.110.37/hls/AAAATQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Angola W vs Malawi W",
+        "Title": "Cosafa Cup Women 13:00",
+        "Link": "http://195.178.110.37/hls/AAAATQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Viettel vs Nam Dinh",
+        "Title": "Vietnam V League 12:15",
+        "Link": "http://195.178.110.37/hls/AAAATQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Malut United vs Persija Jakarta",
+        "Title": "Indonesia Liga 1 12:00",
+        "Link": "http://195.178.110.37/hls/AAAATQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Thanh Hoa vs Cong An Ha Noi",
+        "Title": "Vietnam V League 11:00",
+        "Link": "http://195.178.110.37/hls/AAAAT.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Sumqayit vs Gabala",
+        "Title": "Azerbaijan Premier League 11:00",
+        "Link": "http://195.178.110.37/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Tennis ATP Dubai",
+        "Title": "Tennis ATP 10:00",
+        "Link": "http://205.237.104.40/hls/AGGGG.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "Zimbabwe W vs Botswana W",
+        "Title": "Cosafa Cup Women 10:00",
+        "Link": "http://195.178.110.37/hls/BBBBD.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Zambia W vs Eswatini W",
+        "Title": "Cosafa Cup Women 10:00",
+        "Link": "http://195.178.110.37/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
