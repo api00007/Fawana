@@ -82,17 +82,5 @@
         "Rivels": "Tennis ATP Dubai",
         "Title": "Tennis ATP 10:00",
         "Link": "http://205.237.104.40/hls/AGGGG.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Zimbabwe W vs Botswana W",
-        "Title": "Cosafa Cup Women 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Zambia W vs Eswatini W",
-        "Title": "Cosafa Cup Women 10:00",
-        "Link": "http://195.178.110.37/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
