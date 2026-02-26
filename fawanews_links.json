@@ -1,62 +1,116 @@
 [
     {
         "Id": "1",
-        "Rivels": "Juventus vs Galatasaray --- CH 1",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.27/hls/RRRR.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Denver Nuggets vs Boston Celtics",
+        "Title": "NBA Basketball 03:00",
+        "Link": "http://205.237.104.40/hls/IRRRQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Juventus vs Galatasaray --- CH HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://play.shixiandagood.com/068c23c39c3c22d4.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Milwaukee Bucks vs Cleveland Cavaliers",
+        "Title": "NBA Basketball 01:00",
+        "Link": "http://205.237.104.40/hls/FFFFF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Juventus vs Galatasaray --- CN HD",
-        "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-453781_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2dec212d4ebe9b9ecd0407dd99ad338d|referer=http://www.fawanews.sc/"
+        "Rivels": "Houston Rockets vs Sacramento Kings",
+        "Title": "NBA Basketball 01:00",
+        "Link": "http://205.237.104.40/hls/FFFF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Cruzeiro vs Corinthians",
-        "Title": "Brazil Serie A 23:00",
-        "Link": "http://205.237.104.40/hls/AVVVV.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Toronto Raptors vs San Antonio Spurs",
+        "Title": "NBA Basketball 00:30",
+        "Link": "http://205.237.104.40/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Velez Sarsfield vs Dep Riestra",
-        "Title": "Argentina Liga Profesional 22:30",
-        "Link": "http://195.178.110.37/hls/LYYYQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Memphis Grizzlies vs Golden State Warriors",
+        "Title": "NBA Basketball 00:30",
+        "Link": "http://205.237.104.40/hls/MMMMQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Newells Old Boys vs Estudiantes LP",
-        "Title": "Argentina Liga Profesional 22:30",
-        "Link": "http://195.178.110.37/hls/LYYY.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Detroit Pistons vs Oklahoma City Thunder",
+        "Title": "NBA Basketball 00:30",
+        "Link": "http://205.237.104.40/hls/MMMM.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Coritiba vs Sao Paulo",
-        "Title": "Brazil Serie A 22:30",
-        "Link": "http://205.237.104.40/hls/FFFFQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Los Angeles Galaxy vs Miguelito",
+        "Title": "CONCACAF Champions Cup 04:00",
+        "Link": "http://205.237.104.40/hls/IRRRQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Bahia vs OHiggins",
-        "Title": "Copa Libertadores 22:00",
-        "Link": "http://205.237.104.40/hls/FFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Anaheim Ducks vs Edmonton Oilers",
+        "Title": "NHL Hockey 03:30",
+        "Link": "http://205.237.104.40/hls/IRRRQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Remo vs Internacional",
-        "Title": "Brazil Serie A 22:00",
-        "Link": "http://205.237.104.40/hls/FFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Vancouver Canucks vs Winnipeg Jets",
+        "Title": "NHL Hockey 03:00",
+        "Link": "http://205.237.104.40/hls/IRRRQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Bragantino vs Athletico-PR",
-        "Title": "Brazil Serie A 22:00",
-        "Link": "http://205.237.104.40/hls/FFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Los Angeles Kings vs Vegas Golden Knights",
+        "Title": "NHL Hockey 03:00",
+        "Link": "http://205.237.104.40/hls/IRRRQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Vancouver Whitecaps vs Cartagines",
+        "Title": "CONCACAF Champions Cup 02:30",
+        "Link": "http://205.237.104.40/hls/IRRRQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Utah Mammoth vs Colorado Avalanche",
+        "Title": "NHL Hockey 02:00",
+        "Link": "http://205.237.104.40/hls/IRRRQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Mexico vs Iceland",
+        "Title": "Friendly Match 02:00",
+        "Link": "http://205.237.104.40/hls/IRRR.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Dallas Stars vs Seattle Kraken",
+        "Title": "NHL Hockey 01:00",
+        "Link": "http://205.237.104.40/hls/FFFFFQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "Tampa Bay Lightning vs Toronto Maple Leafs",
+        "Title": "NHL Hockey 00:30",
+        "Link": "http://205.237.104.40/hls/DEDEDEQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Palmeiras vs Fluminense",
+        "Title": "Brazil Serie A 00:30",
+        "Link": "http://205.237.104.40/hls/DEDEDEQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Tennis ATP Acapulco",
+        "Title": "Tennis ATP 00:00",
+        "Link": "http://195.178.110.37/hls/dgggQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "18",
+        "Rivels": "Washington Capitals vs Philadelphia Flyers",
+        "Title": "NHL Hockey 00:00",
+        "Link": "http://205.237.104.40/hls/JJJJZ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
+        "Rivels": "New Jersey Devils vs Buffalo Sabres",
+        "Title": "NHL Hockey 00:00",
+        "Link": "http://205.237.104.40/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
