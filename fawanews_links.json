@@ -27,7 +27,7 @@
         "Id": "5",
         "Rivels": "Anaheim Ducks vs Winnipeg Jets",
         "Title": "NHL Hockey 03:00",
-        "Link": "http://205.237.107.90/hls/HYHYHYQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://205.237.107.90/hls/HYHYHYQQx.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
@@ -49,15 +49,15 @@
     },
     {
         "Id": "9",
-        "Rivels": "Sport Boys vs Moquegua",
-        "Title": "Peru Liga 1 Apertura 00:00",
-        "Link": "http://205.237.107.90/hls/HYHYHY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
         "Rivels": "Union La Calera vs Audax Italiano",
         "Title": "Chile Liga de Primera 23:30",
         "Link": "http://195.178.110.25/hls/GQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "CA Cerro vs Boston River",
+        "Title": "Uruguay Liga AUF 23:00",
+        "Link": "http://205.237.107.90/hls/tttt.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
