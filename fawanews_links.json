@@ -19,50 +19,8 @@
     },
     {
         "Id": "4",
-        "Rivels": "PSM Makassar vs Persita",
-        "Title": "Indonesia Liga 1 13:30",
-        "Link": "http://195.178.110.27/hls/ZFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Persebaya vs Persib Bandung",
-        "Title": "Indonesia Liga 1 13:30",
-        "Link": "http://195.178.110.27/hls/ZFFFQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Kariobangi Sharks vs Tusker",
-        "Title": "Kenya Premier League 13:15",
-        "Link": "http://195.178.110.27/hls/ZFFFQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Pamba vs Azam",
-        "Title": "Tanzania Ligi Kuu Bara 13:00",
-        "Link": "http://195.178.110.27/hls/ZFFF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Sochi vs Spartak Moscow",
-        "Title": "Russia Premier League 12:00",
-        "Link": "http://195.178.110.27/hls/KOKOKOQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Bidco United vs Ulinzi Stars",
-        "Title": "Kenya Premier League 11:00",
-        "Link": "http://195.178.110.27/hls/ZFFFQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "SC Poltava vs Kudrivka",
-        "Title": "Ukraine Premier League 11:00",
-        "Link": "http://195.178.110.27/hls/KOKOKOQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "South Korea W vs Iran W",
-        "Title": "Asia Cup Women 09:00",
-        "Link": "http://195.178.110.25/hls/ccccQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "South Africa Rugby Varsity Cup",
+        "Title": "South Africa Premiership 15:30",
+        "Link": "http://195.178.110.25/hls/HHHH.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
