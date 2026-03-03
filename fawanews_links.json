@@ -27,19 +27,19 @@
         "Id": "5",
         "Rivels": "Sporting Lisbon vs FC Porto",
         "Title": "Portugal Cup 20:45",
-        "Link": "http://195.178.110.27/hls/PPPPYQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/PPPPYQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
         "Rivels": "Sporting Lisbon vs FC Porto --- CN HD",
         "Title": "Portugal Cup 20:45",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-568588_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c26552eafaa00e2dcc5db7a75b5b51c7|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-568588_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1836d5561b6a095680d00e6ed5f7feea|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
         "Rivels": "Wolves vs Liverpool --- CH 1",
         "Title": "English Premier League 20:15",
-        "Link": "http://195.178.110.37/hls/PPPPYQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/PPPPYQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
@@ -57,13 +57,13 @@
         "Id": "10",
         "Rivels": "Wolves vs Liverpool --- CN HD",
         "Title": "English Premier League 20:15",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c26552eafaa00e2dcc5db7a75b5b51c7|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1836d5561b6a095680d00e6ed5f7feea|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
         "Rivels": "FC Barcelona vs Atletico Madrid --- CH 1",
         "Title": "Spanish Copa del Rey 20:00",
-        "Link": "http://195.178.110.2/hls/PPPPYQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/PPPPYQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
@@ -75,54 +75,18 @@
         "Id": "13",
         "Rivels": "FC Barcelona vs Atletico Madrid --- CN HD",
         "Title": "Spanish Copa del Rey 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c26552eafaa00e2dcc5db7a75b5b51c7|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1836d5561b6a095680d00e6ed5f7feea|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
-        "Rivels": "Como vs Inter Milan --- CH 1",
-        "Title": "Coppa Italia 20:00",
-        "Link": "http://195.178.110.27/hls/CJJJQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "GKS Katowice vs Widzew Lodz",
+        "Title": "Poland Cup 19:45",
+        "Link": "http://195.178.110.37/hls/ktttqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "15",
-        "Rivels": "Como vs Inter Milan --- CH 2 HD",
-        "Title": "Coppa Italia 20:00",
-        "Link": "https://guabo01.xlyouxuan.com/live/873f4b6c8f977da.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Como vs Inter Milan --- CN HD",
-        "Title": "Coppa Italia 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-321213_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c26552eafaa00e2dcc5db7a75b5b51c7|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Strasbourg vs Reims --- CH 1",
-        "Title": "Coupe de France 20:00",
-        "Link": "http://195.178.110.2/hls/hhhhQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Strasbourg vs Reims --- CH 2 HD",
-        "Title": "Coupe de France 20:00",
-        "Link": "https://guabo01.xlyouxuan.com/live/e114e2fde15dbee.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Doncaster vs Stockport County",
-        "Title": "English EFL Trohpy 20:00",
-        "Link": "http://195.178.110.25/hls/KFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
         "Rivels": "Port Vale vs Bristol City",
         "Title": "English FA Cup 19:45",
         "Link": "http://195.178.110.2/hls/CPCPCPQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Mlada Boleslav vs Sparta Prague",
-        "Title": "Czech MOL Cup 19:00",
-        "Link": "http://195.178.110.37/hls/UGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
