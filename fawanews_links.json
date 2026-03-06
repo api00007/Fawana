@@ -1,80 +1,68 @@
 [
     {
         "Id": "1",
+        "Rivels": "Golf DP World Tour Joburg Open",
+        "Title": "Golf 10:30",
+        "Link": "http://195.178.110.27/hls/tlllQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Chinese Taipei vs Japan",
+        "Title": "World Baseball Classic 10:00",
+        "Link": "http://195.178.110.2/hls/FHHHQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Osaka vs Nara Club",
+        "Title": "Japan J League 10:00",
+        "Link": "http://195.178.110.2/hls/FHHHQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Gold Coast Suns vs Geelong Cats",
+        "Title": "AFL Aussie Rules 09:05",
+        "Link": "http://195.178.110.2/hls/FHHHQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Brisbane Broncos vs Penrith Panthers",
+        "Title": "NRL 09:00",
+        "Link": "http://195.178.110.2/hls/FHHHQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Waratahs vs Hurricanes",
+        "Title": "Super Rugby 08:35",
+        "Link": "http://195.178.110.2/hls/KGGGQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Adelaide United vs Wellington",
+        "Title": "Australia A-League 08:35",
+        "Link": "http://195.178.110.2/hls/FHHH.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
         "Rivels": "Uzbekistan W vs China W",
         "Title": "Asia Cup Women 08:00",
         "Link": "http://195.178.110.2/hls/KGGGQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "9",
         "Rivels": "New Zealand Warriors vs Sydney Roosters",
         "Title": "NRL 07:00",
         "Link": "http://195.178.110.2/hls/KGGGQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "10",
         "Rivels": "Australia W vs India W",
         "Title": "Cricket 05:20",
         "Link": "http://195.178.110.2/hls/KGGGQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "11",
         "Rivels": "Golf LPGA Blue Bay China",
         "Title": "Golf LPGA 04:00",
         "Link": "http://195.178.110.2/hls/KGGG.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Czech Republic vs Australia",
-        "Title": "World Baseball Classic 03:00",
-        "Link": "http://195.178.110.2/hls/YYYYQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Denver Nuggets vs Los Angeles Lakers --- CH 1",
-        "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.37/hls/JJJJQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Denver Nuggets vs Los Angeles Lakers --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9531b77d-ba4b-4c25-9f6a-1bc16e79aacf/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Sacramento Kings vs New Orleans Pelicans --- CH 1",
-        "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.37/hls/JJJJQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Sacramento Kings vs New Orleans Pelicans --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ed21ab3f-1b45-4eb7-a3b1-f578ce974bdc/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Los Angeles Kings vs New York Islanders --- CH 1",
-        "Title": "NHL Hockey 02:30",
-        "Link": "http://195.178.110.25/hls/NNNNNQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Los Angeles Kings vs New York Islanders --- CH 2",
-        "Title": "NHL Hockey 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0511a2ed-665b-4db2-91eb-027e9a8b2fa3/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Golf ISPS Handa Championship",
-        "Title": "Golf PGA 02:30",
-        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Tennis ATP Indian Wells",
-        "Title": "Tennis ATP 19:00",
-        "Link": "http://195.178.110.27/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
