@@ -1,92 +1,74 @@
 [
     {
         "Id": "1",
-        "Rivels": "Zuffa Boxing 4 : Opetaia vs Glanton",
-        "Title": "Boxing --:--",
-        "Link": "http://195.178.110.37/hls/RGGG.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Australia vs South Korea",
+        "Title": "World Baseball Classic 10:00",
+        "Link": "http://195.178.110.27/hls/WAWAWAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Club Tijuana vs Santos Laguna",
-        "Title": "Mexico Liga MX 03:00",
-        "Link": "http://195.178.110.27/hls/FAFAFAS.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FC ASA Tg Mures vs Chindia Targoviste",
+        "Title": "Romania Liga 2 15:00",
+        "Link": "http://195.178.110.27/hls/HJHJHJQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Phoenix Suns vs Charlotte Hornets --- CH 1",
-        "Title": "NBA Basketball 02:00",
-        "Link": "http://195.178.110.27/hls/EMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Zira vs Kapaz",
+        "Title": "Azerbaijan Premier League 14:30",
+        "Link": "http://195.178.110.27/hls/HJHJHJQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Phoenix Suns vs Charlotte Hornets --- CH 2 HD",
-        "Title": "NBA Basketball 02:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a13de749-38e0-4934-81bd-f5c7a8ad5d69/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Punjab vs North East Utd",
+        "Title": "India ISL 14:00",
+        "Link": "http://195.178.110.27/hls/HJHJHJ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Sacramento Kings vs Chicago Bulls",
-        "Title": "NBA Basketball 01:00",
-        "Link": "http://195.178.110.27/hls/EMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Montana vs Ludogorets",
+        "Title": "Bulgaria efbet League 13:30",
+        "Link": "http://195.178.110.27/hls/NYNYNYQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Portland Trail Blazers vs Indiana Pacers --- CH 1",
-        "Title": "NBA Basketball 01:00",
-        "Link": "http://195.178.110.27/hls/EMMMQQQQq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Lokomotiv Moscow vs Akhmat Grozny",
+        "Title": "Russia Premier League 13:30",
+        "Link": "http://195.178.110.27/hls/NYNYNYQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Portland Trail Blazers vs Indiana Pacers --- CH 2 HD",
-        "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/207d3eef-ea07-45da-a338-b7bd2b0d902d/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Rukh Lviv vs Metalist 1925",
+        "Title": "Ukraine Premier League 13:30",
+        "Link": "http://195.178.110.27/hls/NYNYNYQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Vegas Golden Knights vs Edmonton Oilers --- CH 1",
-        "Title": "NHL Hockey 01:30",
-        "Link": "http://195.178.110.27/hls/EMMMQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Persib Bandung vs Persik Kediri",
+        "Title": "Indonesia Liga 1 13:30",
+        "Link": "http://195.178.110.27/hls/NYNYNYQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Vegas Golden Knights vs Edmonton Oilers --- CH 2 HD",
-        "Title": "NHL Hockey 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/589102df-8641-47b3-9cdd-5713ecce5d3d/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Eyupspor vs Kocaelispor",
+        "Title": "Turkey Super Lig 13:00",
+        "Link": "http://195.178.110.27/hls/NYNYNY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Anaheim Ducks vs St Louis Blues --- CH 1",
-        "Title": "NHL Hockey 01:00",
-        "Link": "http://195.178.110.27/hls/EMMM.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Hougang vs Balestier Khalsa",
+        "Title": "Singapore Premier League 12:30",
+        "Link": "http://195.178.110.27/hls/WAWAWAQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Anaheim Ducks vs St Louis Blues --- CH 2 HD",
-        "Title": "NHL Hockey 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ad50bddb-7908-4929-aa77-09d010988bac/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "North Korea W vs China W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.27/hls/WAWAWAQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Canada vs Panama",
-        "Title": "World Baseball Classic 23:00",
-        "Link": "http://195.178.110.27/hls/FAFAFASQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Tennis ATP Indian Wells --- CH 1",
-        "Title": "Tennis ATP 18:00",
-        "Link": "http://195.178.110.27/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Tennis ATP Indian Wells --- CH 2",
-        "Title": "Tennis ATP 18:00",
-        "Link": "http://195.178.110.27/hls/GGTTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Tennis WTA Indian Wells",
-        "Title": "Tennis WTA 18:00",
-        "Link": "http://195.178.110.27/hls/YYYYQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Bangladesh W vs Uzbekistan W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.27/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
