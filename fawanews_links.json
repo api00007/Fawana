@@ -1,104 +1,80 @@
 [
     {
         "Id": "1",
-        "Rivels": "Golf PGA The Players",
+        "Rivels": "Tanzania Prisons vs Young Africans",
+        "Title": "Tanzania Ligi Kuu Bara 14:15",
+        "Link": "http://195.178.110.2/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Golf PGA The Players --- Main Feed",
         "Title": "Golf PGA 11:30",
         "Link": "http://195.178.110.37/hls/jttt.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "3",
+        "Rivels": "Golf PGA The Players --- Featured Group 1",
+        "Title": "Golf PGA 11:30",
+        "Link": "http://195.178.110.37/hls/YKKK.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Golf PGA The Players ---Featured Group 2",
+        "Title": "Golf PGA 11:30",
+        "Link": "http://195.178.110.37/hls/YKKKQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Ski Cross World Cup Austria",
         "Title": "Ski Cross Skiing 09:00",
         "Link": "http://195.178.110.37/hls/QFFFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "6",
         "Rivels": "Noah vs Ararat-Armenia",
         "Title": "Armenia Premier League 15:00",
         "Link": "http://195.178.110.37/hls/BEEEEQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "7",
         "Rivels": "Din Samarkand vs Nasaf Qarshi",
         "Title": "Uzbekistan Super League 15:00",
         "Link": "http://195.178.110.37/hls/BEEEEQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "8",
         "Rivels": "OKMK vs Sogdiana",
         "Title": "Uzbekistan Super League 14:30",
         "Link": "http://195.178.110.37/hls/BEEEEQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "9",
         "Rivels": "Hungary W vs Canada W",
         "Title": "Basketball World Cup Qualification 14:30",
         "Link": "http://195.178.110.37/hls/BEEEEQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "10",
         "Rivels": "Dewa United vs Manila Digger",
         "Title": "AFC Challenge League 13:30",
         "Link": "http://195.178.110.27/hls/QFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "11",
         "Rivels": "Persis Solo vs Bali United",
         "Title": "Indonesia Liga 1 13:30",
         "Link": "http://195.178.110.27/hls/QFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "12",
         "Rivels": "South Korea W vs Nigeria W",
         "Title": "Basketball World Cup Qualification 13:00",
         "Link": "http://195.178.110.27/hls/QFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "13",
         "Rivels": "Boluspor vs Corum",
         "Title": "Turkey Lig 1 13:00",
         "Link": "http://195.178.110.37/hls/hjjjaq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Tampines vs Bangkok Utd",
-        "Title": "AFC Champions League II 12:15",
-        "Link": "http://195.178.110.37/hls/QFFFQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Svay Rieng vs Phnom Penh Crown",
-        "Title": "AFC Challenge League 12:00",
-        "Link": "http://195.178.110.37/hls/QFFF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Belgium W vs China W",
-        "Title": "Basketball World Cup Qualification 11:30",
-        "Link": "http://195.178.110.27/hls/jtttQq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Australia W vs Japan W",
-        "Title": "Basketball World Cup Qualification 11:30",
-        "Link": "http://195.178.110.27/hls/jtttq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Igdir FK vs Bodrumspor",
-        "Title": "Turkey Lig 1 10:30",
-        "Link": "http://195.178.110.37/hls/hjjjaq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Brisbane Broncos vs Parramatta Eels",
-        "Title": "NRL 09:00",
-        "Link": "http://195.178.110.37/hls/hjjja.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Carlton Blues vs Richmond Tigers",
-        "Title": "AFL Aussie Rules 08:30",
-        "Link": "http://195.178.110.37/hls/hjjj.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
