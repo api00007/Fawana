@@ -1,56 +1,50 @@
 [
     {
         "Id": "1",
+        "Rivels": "Australia W vs North Korea W",
+        "Title": "Asia Cup Women 10:00",
+        "Link": "http://195.178.110.27/hls/wfffQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
         "Rivels": "Sydney Roosters vs South Sydney Rabbitohs",
         "Title": "NRL 09:00",
         "Link": "http://195.178.110.27/hls/CACACA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "3",
         "Rivels": "Essendon Bombers vs Hawthorn Hawks",
         "Title": "AFL Aussie Rules 08:40",
         "Link": "http://195.178.110.27/hls/CACACAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "4",
+        "Rivels": "Bangladesh vs Pakistan",
+        "Title": "Cricket 08:30",
+        "Link": "http://195.178.110.27/hls/wfff.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Brisbane Roar vs WS Wanderers",
         "Title": "Australia A-League 08:00",
         "Link": "http://195.178.110.27/hls/CACACAQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "6",
         "Rivels": "Adelaide W vs Perth W",
         "Title": "Australia Women A-League 08:00",
         "Link": "http://195.178.110.27/hls/CACACAQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "7",
         "Rivels": "Newcastle W vs Sydney W",
         "Title": "Australia Women A-League 08:00",
         "Link": "http://195.178.110.27/hls/CACACAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "8",
         "Rivels": "New Zealand Warriors vs Canberra Raiders",
         "Title": "NRL 07:00",
         "Link": "http://195.178.110.27/hls/CACACAQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Hurricanes vs Western Force",
-        "Title": "Super Rugby 06:05",
-        "Link": "http://195.178.110.27/hls/CACACA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "LIV Golf Singapore",
-        "Title": "Golf 03:00",
-        "Link": "http://195.178.110.37/hls/CEEEEZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Golf Women Australian Open",
-        "Title": "Golf 02:00",
-        "Link": "http://195.178.110.27/hls/CACACAQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
