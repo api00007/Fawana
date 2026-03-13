@@ -44,7 +44,13 @@
     {
         "Id": "8",
         "Rivels": "LIV Golf Singapore",
-        "Title": "Golf PGA 03:00",
+        "Title": "Golf 03:00",
         "Link": "http://195.178.110.37/hls/CEEEEZ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Golf Women Australian Open",
+        "Title": "Golf 02:00",
+        "Link": "http://195.178.110.27/hls/CACACAQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
