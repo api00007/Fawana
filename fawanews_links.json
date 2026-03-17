@@ -1,62 +1,20 @@
 [
     {
         "Id": "1",
+        "Rivels": "China W vs Australia W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.37/hls/cccc.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
         "Rivels": "Sydney FC vs Melbourne City",
         "Title": "Australia A-League 08:00",
         "Link": "http://195.178.110.37/hls/KBBBQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "3",
         "Rivels": "New Zealand vs South Africa",
         "Title": "Cricket 06:00",
         "Link": "http://195.178.110.37/hls/KBBB.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
-        "Rivels": "Los Angeles Clippers vs San Antonio Spurs --- CH 1",
-        "Title": "NBA Basketball 02:00",
-        "Link": "http://195.178.110.37/hls/MPPPQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Los Angeles Clippers vs San Antonio Spurs --- HD",
-        "Title": "NBA Basketball 02:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/97406caf-8381-47e0-9f19-f83e044f3ec9/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Houston Rockets vs Los Angeles Lakers --- CH 1",
-        "Title": "NBA Basketball 01:30",
-        "Link": "http://195.178.110.37/hls/MPPPQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Houston Rockets vs Los Angeles Lakers --- HD",
-        "Title": "NBA Basketball 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b8f5c6ad-ab36-4991-a65f-04da499df587/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Colorado Avalanche vs Pittsburgh Penguins --- CH 1",
-        "Title": "NHL Hockey 01:30",
-        "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Colorado Avalanche vs Pittsburgh Penguins --- CH 2",
-        "Title": "NHL Hockey 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6a5a23d8-5020-4e8e-b1ca-f20be2b9f6c8/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Club Leon W vs Mazatlan FC W",
-        "Title": "Mexico Women Liga MX 03:00",
-        "Link": "http://195.178.110.27/hls/SFFFQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "New Zealand W vs South Africa W",
-        "Title": "Cricket 01:45",
-        "Link": "http://195.178.110.37/hls/gccc.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
