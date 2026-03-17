@@ -1,20 +1,50 @@
 [
     {
         "Id": "1",
-        "Rivels": "China W vs Australia W",
-        "Title": "Asia Cup Women 09:00",
-        "Link": "http://195.178.110.37/hls/cccc.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Krasnodar vs CSKA Moscow",
+        "Title": "Russia Cup 16:30",
+        "Link": "http://195.178.110.37/hls/BBBFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Sydney FC vs Melbourne City",
-        "Title": "Australia A-League 08:00",
-        "Link": "http://195.178.110.37/hls/KBBBQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Lokomotiv Sofia vs Septemvri Sofia",
+        "Title": "Bulgaria efbet League 16:00",
+        "Link": "http://195.178.110.37/hls/BBBFQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "New Zealand vs South Africa",
-        "Title": "Cricket 06:00",
-        "Link": "http://195.178.110.37/hls/KBBB.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Radnik Bijeljina vs Laktasi",
+        "Title": "Bosnia and Herzegovina Cup 15:30",
+        "Link": "http://195.178.110.37/hls/BBBFQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Hapoel Tel-Aviv vs Paris",
+        "Title": "Basketball Euroleague 15:00",
+        "Link": "http://195.178.110.37/hls/BBBFQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Villarreal U19 vs PSG U19",
+        "Title": "UEFA Youth League 15:00",
+        "Link": "http://195.178.110.37/hls/BBBFQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Atletico Madrid U19 vs Club Brugge U19",
+        "Title": "UEFA Youth League 13:00",
+        "Link": "http://195.178.110.37/hls/BBBF.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Gimcheon Sangmu vs Gwangju FC",
+        "Title": "South Korea K League 10:30",
+        "Link": "http://195.178.110.37/hls/ccccQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "China W vs Australia W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.37/hls/cccc.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
