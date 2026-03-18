@@ -13,15 +13,15 @@
     },
     {
         "Id": "3",
-        "Rivels": "Zenit vs Dynamo Makhachkala",
-        "Title": "Russia Cup 15:15",
-        "Link": "http://195.178.110.37/hls/VVVVQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Sporting Braga vs Ferencvaros",
+        "Title": "UEFA Europa League 15:30",
+        "Link": "http://195.178.110.37/hls/VVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Sporting Braga vs Ferencvaros",
-        "Title": "UEFA Europa League 15:00",
-        "Link": "http://195.178.110.37/hls/VVVVQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Zenit vs Dynamo Makhachkala",
+        "Title": "Russia Cup 15:15",
+        "Link": "http://195.178.110.37/hls/VVVVQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
@@ -94,107 +94,5 @@
         "Rivels": "Pattani vs Buriram",
         "Title": "Thailand League Cup 12:00",
         "Link": "http://195.178.110.37/hls/FIII.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Chonburi vs Thap Luang United",
-        "Title": "Thailand League Cup 11:00",
-        "Link": "http://195.178.110.37/hls/ACCCCZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Pathum United vs Mahasarakham",
-        "Title": "Thailand League Cup 11:00",
-        "Link": "http://195.178.110.37/hls/ACCCCZZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Shamakhi vs Araz",
-        "Title": "Azerbaijan Premier League 11:00",
-        "Link": "http://195.178.110.37/hls/ACCCCZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Pohang vs Seoul",
-        "Title": "South Korea K League 10:30",
-        "Link": "http://195.178.110.37/hls/ACCCCZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Jeonbuk vs Anyang",
-        "Title": "South Korea K League 10:30",
-        "Link": "http://195.178.110.37/hls/ACCCC.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Jeju SK vs Ulsan HD",
-        "Title": "South Korea K League 10:30",
-        "Link": "http://195.178.110.37/hls/SASASAAAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Incheon vs Daejeon",
-        "Title": "South Korea K League 10:30",
-        "Link": "http://195.178.110.37/hls/SASASAAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "Bucheon FC 1995 vs Gangwon",
-        "Title": "South Korea K League 10:30",
-        "Link": "http://195.178.110.37/hls/SASASAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "25",
-        "Rivels": "Urawa Reds vs Kashiwa Reysol",
-        "Title": "Japan J League 10:30",
-        "Link": "http://195.178.110.37/hls/SASASAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "26",
-        "Rivels": "Machida vs Kashima Antlers",
-        "Title": "Japan J League 10:30",
-        "Link": "http://195.178.110.37/hls/SASASA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "27",
-        "Rivels": "Vissel Kobe vs Gamba Osaka",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "28",
-        "Rivels": "Tokyo Verdy vs Kawasaki Frontale",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "V-Varen Nagasaki vs Kyoto",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "30",
-        "Rivels": "Nagoya Grampus vs Sanfrecce Hiroshima",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "31",
-        "Rivels": "Mito vs Yokohama F Marinos",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Chiba vs FC Tokyo",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBBQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
-        "Rivels": "Avispa Fukuoka vs Shimizu S-Pulse",
-        "Title": "Japan J League 10:00",
-        "Link": "http://195.178.110.37/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
