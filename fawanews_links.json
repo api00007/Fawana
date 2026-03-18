@@ -196,17 +196,5 @@
         "Rivels": "Avispa Fukuoka vs Shimizu S-Pulse",
         "Title": "Japan J League 10:00",
         "Link": "http://195.178.110.37/hls/BBBB.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Cerezo Osaka vs Okayama",
-        "Title": "Japan J League 09:30",
-        "Link": "http://195.178.110.37/hls/FQFQFQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "35",
-        "Rivels": "South Korea W vs Japan W",
-        "Title": "Asia Cup Women 09:00",
-        "Link": "http://195.178.110.37/hls/FQFQFQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
