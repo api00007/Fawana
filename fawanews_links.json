@@ -1,216 +1,252 @@
 [
     {
         "Id": "1",
-        "Rivels": "Midtjylland vs Nottingham Forest",
+        "Rivels": "Midtjylland vs Nottingham Forest --- CH 1",
         "Title": "UEFA Europa League 17:45",
         "Link": "http://195.178.110.27/hls/IIIIQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Lyon vs Celta Vigo",
+        "Rivels": "Midtjylland vs Nottingham Forest --- CN HD",
+        "Title": "UEFA Europa League 17:45",
+        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7796647814fbde8112c95a4ec691c3ec|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Lyon vs Celta Vigo --- CH 1",
         "Title": "UEFA Europa League 17:45",
         "Link": "http://195.178.110.37/hls/afffQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "4",
         "Rivels": "Lyon vs Celta Vigo --- CN HD",
         "Title": "UEFA Europa League 17:45",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-765648_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cd77c0f167513559c94ae03b9ce4572a|referer=http://www.fawanews.sc/"
+        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-765648_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7796647814fbde8112c95a4ec691c3ec|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
-        "Rivels": "Freiburg vs Genk",
+        "Id": "5",
+        "Rivels": "Freiburg vs Genk --- CH 1",
         "Title": "UEFA Europa League 17:45",
         "Link": "http://195.178.110.27/hls/IIIIQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
+        "Rivels": "Freiburg vs Genk --- CN HD",
+        "Title": "UEFA Europa League 17:45",
+        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7796647814fbde8112c95a4ec691c3ec|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "AEK Larnaca vs Crystal Palace --- CH 1",
+        "Title": "UEFA Conference League 17:45",
+        "Link": "http://195.178.110.27/hls/IIIIQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "AEK Larnaca vs Crystal Palace --- CN HD",
+        "Title": "UEFA Conference League 17:45",
+        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-617898_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7796647814fbde8112c95a4ec691c3ec|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
         "Rivels": "Rayo Vallecano vs Samsunspor",
         "Title": "UEFA Conference League 20:00",
         "Link": "http://195.178.110.37/hls/afffQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
-        "Rivels": "AEK Larnaca vs Crystal Palace",
-        "Title": "UEFA Conference League 17:45",
-        "Link": "http://195.178.110.27/hls/IIIIQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
+        "Id": "10",
         "Rivels": "AEK Athens vs Celje",
         "Title": "UEFA Conference League 17:45",
         "Link": "http://195.178.110.37/hls/afffQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "11",
         "Rivels": "Rakow vs Fiorentina",
         "Title": "UEFA Conference League 17:45",
         "Link": "http://195.178.110.27/hls/IIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
-        "Rivels": "Mainz vs Sigma Olomouc",
+        "Id": "12",
+        "Rivels": "Mainz vs Sigma Olomouc --- CH 1",
         "Title": "UEFA Conference League 17:45",
         "Link": "http://195.178.110.37/hls/afff.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "13",
         "Rivels": "Mainz vs Sigma Olomouc --- CN HD",
         "Title": "UEFA Conference League 17:45",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cd77c0f167513559c94ae03b9ce4572a|referer=http://www.fawanews.sc/"
+        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7796647814fbde8112c95a4ec691c3ec|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "14",
         "Rivels": "NCAA College Basketball Simulcast",
         "Title": "NCAA College Basketball --:--",
         "Link": "http://195.178.110.37/hls/BDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
-        "Rivels": "Wisconsin vs High Point",
-        "Title": "NCAA Basketball 17:50",
-        "Link": "http://195.178.110.37/hls/JYYYQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Louisville vs South Florida",
-        "Title": "NCAA Basketball 17:30",
-        "Link": "http://195.178.110.37/hls/JYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Nebraska vs Troy",
-        "Title": "NCAA Basketball 16:40",
-        "Link": "http://195.178.110.37/hls/BDDDQx.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "15",
-        "Rivels": "Ohio State vs TCU",
-        "Title": "NCAA Basketball 16:15",
-        "Link": "http://195.178.110.37/hls/BDDDx.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Michigan State vs North Dakota St",
+        "Title": "NCAA Basketball 20:05",
+        "Link": "http://195.178.110.37/hls/KCCCQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "16",
+        "Rivels": "Wigan Warriors vs York RLFC",
+        "Title": "English Rugby Super League 20:00",
+        "Link": "http://195.178.110.2/hls/WNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Paris vs Partizan Mozzart Bet",
+        "Title": "Basketball Euroleague 19:45",
+        "Link": "http://195.178.110.2/hls/WNNNQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "18",
+        "Rivels": "Bayern Munchen vs Dubai",
+        "Title": "Basketball Euroleague 19:30",
+        "Link": "http://195.178.110.2/hls/WNNNQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
+        "Rivels": "Olympiacos vs Baskonia",
+        "Title": "Basketball Euroleague 19:15",
+        "Link": "http://195.178.110.2/hls/WNNNQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "20",
+        "Rivels": "Vanderbilt vs McNeese State",
+        "Title": "NCAA Basketball 19:15",
+        "Link": "http://195.178.110.37/hls/KCCCQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "21",
+        "Rivels": "Hapoel Tel-Aviv vs Virtus Bologna",
+        "Title": "Basketball Euroleague 19:05",
+        "Link": "http://195.178.110.2/hls/WNNNQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "22",
+        "Rivels": "Darts Premier League",
+        "Title": "Darts 19:00",
+        "Link": "http://195.178.110.2/hls/WNNN.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
+        "Rivels": "Bryne vs Brann",
+        "Title": "Norway NM Cup 19:00",
+        "Link": "http://195.178.110.25/hls/FZZZZ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "24",
+        "Rivels": "Duke vs Siena",
+        "Title": "NCAA Basketball 18:50",
+        "Link": "http://195.178.110.37/hls/KCCC.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "25",
+        "Rivels": "Dinamo Bucuresti vs Univ Craiova",
+        "Title": "Romania Superliga 18:30",
+        "Link": "http://195.178.110.25/hls/BFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "26",
         "Rivels": "Malmo vs Djurgarden",
         "Title": "Sweden Hockey SHL 18:00",
         "Link": "http://195.178.110.25/hls/BFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "27",
         "Rivels": "Lulea vs Orebro",
         "Title": "Sweden Hockey SHL 18:00",
         "Link": "http://195.178.110.25/hls/BFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
+        "Id": "28",
         "Rivels": "Sodertalje vs Kalmar",
         "Title": "Sweden HockeyAllsvenskan 18:00",
         "Link": "http://195.178.110.25/hls/BFFFQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "29",
         "Rivels": "Oskarshamn vs IF Bjorkloven",
         "Title": "Sweden HockeyAllsvenskan 18:00",
         "Link": "http://195.178.110.25/hls/BFFFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "30",
         "Rivels": "Troja Ljungby vs Vasteras",
         "Title": "Sweden HockeyAllsvenskan 18:00",
         "Link": "http://195.178.110.25/hls/BFFF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "31",
+        "Rivels": "Wisconsin vs High Point",
+        "Title": "NCAA Basketball 17:50",
+        "Link": "http://195.178.110.37/hls/JYYYQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "32",
+        "Rivels": "Louisville vs South Florida",
+        "Title": "NCAA Basketball 17:30",
+        "Link": "http://195.178.110.37/hls/JYYY.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "33",
         "Rivels": "Anadolu Efes vs Monaco",
         "Title": "Basketball Euroleague 17:30",
         "Link": "http://195.178.110.25/hls/LDDDQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "34",
         "Rivels": "Besiktas vs Kasimpasa",
         "Title": "Turkey Super Lig 17:00",
         "Link": "http://195.178.110.2/hls/LDDDQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "35",
         "Rivels": "Konyaspor vs Genclerbirligi",
         "Title": "Turkey Super Lig 17:00",
         "Link": "http://195.178.110.2/hls/LDDDQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "36",
         "Rivels": "KFUM Oslo vs Fredrikstad",
         "Title": "Norway NM Cup 17:00",
         "Link": "http://195.178.110.2/hls/LDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
+        "Id": "37",
         "Rivels": "Valencia vs Barcelona",
         "Title": "Basketball Euroleague 17:00",
         "Link": "http://195.178.110.25/hls/LDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "26",
-        "Rivels": "Spartak Varna vs Ludogorets",
-        "Title": "Bulgaria efbet League 16:00",
-        "Link": "http://195.178.110.37/hls/KTTTZZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "38",
+        "Rivels": "Nebraska vs Troy",
+        "Title": "NCAA Basketball 16:40",
+        "Link": "http://195.178.110.37/hls/BDDDQx.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
-        "Rivels": "Metalist 1925 vs SC Poltava",
-        "Title": "Ukraine Premier League 16:00",
-        "Link": "http://195.178.110.37/hls/KTTTZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "39",
+        "Rivels": "Ohio State vs TCU",
+        "Title": "NCAA Basketball 16:15",
+        "Link": "http://195.178.110.37/hls/BDDDx.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "28",
-        "Rivels": "Krylya Sovetov vs Lokomotiv Moscow",
-        "Title": "Russia Cup 15:30",
-        "Link": "http://195.178.110.37/hls/KTTTZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "Sabah Baku vs Sumqayit",
-        "Title": "Azerbaijan Premier League 15:15",
-        "Link": "http://195.178.110.37/hls/KTTTZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "30",
-        "Rivels": "OFI vs Panathinaikos",
-        "Title": "Greece Volleyball Cup 15:00",
-        "Link": "http://195.178.110.27/hls/jrrr.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "31",
-        "Rivels": "Biathlon World Cup Oslo",
-        "Title": "Biathlon 15:00",
-        "Link": "http://195.178.110.37/hls/ABBBQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
+        "Id": "40",
         "Rivels": "Tennis ATP Miami Open",
         "Title": "Tennis ATP 14:00",
         "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "33",
-        "Rivels": "Tennis ATP/WTA Miami Open",
-        "Title": "Tennis ATP 14:00",
-        "Link": "http://195.178.110.37/hls/MPPPRQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Tennis WTA Miami Open --- CH 1",
+        "Id": "41",
+        "Rivels": "Tennis WTA Miami Open",
         "Title": "Tennis WTA 14:00",
         "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "35",
-        "Rivels": "Tennis WTA Miami Open --- CH 2",
-        "Title": "Tennis WTA 14:00",
-        "Link": "http://195.178.110.37/hls/MPPPR.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "36",
+        "Id": "42",
         "Rivels": "Golf PGA Valspar Championship",
         "Title": "Golf PGA 11:30",
         "Link": "http://195.178.110.37/hls/mpmpmp.m3u8|referer=http://www.fawanews.sc/"
