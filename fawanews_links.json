@@ -1,104 +1,86 @@
 [
     {
         "Id": "1",
-        "Rivels": "Pamba vs Simba",
-        "Title": "Tanzania Ligi Kuu Bara 13:00",
-        "Link": "http://195.178.110.25/hls/JCCCQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "2",
-        "Rivels": "Mashujaa vs Azam",
-        "Title": "Tanzania Ligi Kuu Bara 13:00",
-        "Link": "http://195.178.110.2/hls/JCCC.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
         "Rivels": "Spartak Varna vs Ludogorets",
         "Title": "Bulgaria efbet League 16:00",
         "Link": "http://195.178.110.37/hls/KTTTZZZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "2",
         "Rivels": "Metalist 1925 vs SC Poltava",
         "Title": "Ukraine Premier League 16:00",
         "Link": "http://195.178.110.37/hls/KTTTZZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "3",
         "Rivels": "Krylya Sovetov vs Lokomotiv Moscow",
         "Title": "Russia Cup 15:30",
         "Link": "http://195.178.110.37/hls/KTTTZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "4",
         "Rivels": "Sabah Baku vs Sumqayit",
         "Title": "Azerbaijan Premier League 15:15",
         "Link": "http://195.178.110.37/hls/KTTTZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
+        "Id": "5",
+        "Rivels": "OFI vs Panathinaikos",
+        "Title": "Greece Volleyball Cup 15:00",
+        "Link": "http://195.178.110.27/hls/jrrr.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Biathlon World Cup Oslo",
+        "Title": "Biathlon 15:00",
+        "Link": "http://195.178.110.37/hls/ABBBQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
         "Id": "7",
+        "Rivels": "Tennis ATP Miami Open --- CH 1",
+        "Title": "Tennis ATP 14:00",
+        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Tennis ATP Miami Open --- CH 2",
+        "Title": "Tennis ATP 14:00",
+        "Link": "http://195.178.110.37/hls/MPPPRQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Tennis WTA Miami Open --- CH 1",
+        "Title": "Tennis WTA 14:00",
+        "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Tennis WTA Miami Open --- CH 2",
+        "Title": "Tennis WTA 14:00",
+        "Link": "http://195.178.110.37/hls/MPPPR.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
         "Rivels": "SC Delhi vs Jamshedpur",
         "Title": "India ISL 14:00",
         "Link": "http://195.178.110.37/hls/KTTTZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
-        "Rivels": "Buxoro vs Dinamo Samarkand",
-        "Title": "Uzbekistan Super League 13:15",
-        "Link": "http://195.178.110.37/hls/KTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Kayserispor vs Karagumruk",
-        "Title": "Turkey Super Lig 13:00",
-        "Link": "http://195.178.110.37/hls/QAQAQAQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
+        "Id": "12",
         "Rivels": "Golf PGA Valspar Championship",
         "Title": "Golf PGA 11:30",
         "Link": "http://195.178.110.37/hls/mpmpmp.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
-        "Rivels": "Andijan vs Mashal Muborak",
-        "Title": "Uzbekistan Super League 11:00",
-        "Link": "http://195.178.110.37/hls/QAQAQAQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Karvan vs Zira",
-        "Title": "Azerbaijan Premier League 11:00",
-        "Link": "http://195.178.110.37/hls/QAQAQAQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "13",
-        "Rivels": "Oleksandriya vs Dynamo Kyiv",
-        "Title": "Ukraine Premier League 11:00",
-        "Link": "http://195.178.110.37/hls/QAQAQA.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Pamba vs Simba",
+        "Title": "Tanzania Ligi Kuu Bara 13:00",
+        "Link": "http://195.178.110.2/hls/JCCCQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
-        "Rivels": "Canberra Raiders vs Canterbury Bulldogs",
-        "Title": "NRL 09:00",
-        "Link": "http://195.178.110.37/hls/ABBBQq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Chinese Taipei W vs North Korea W",
-        "Title": "Asia Cup Women 09:00",
-        "Link": "http://195.178.110.37/hls/ABBBQqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Hawthorn Hawks vs Sydney Swans",
-        "Title": "AFL Aussie Rules 08:30",
-        "Link": "http://195.178.110.37/hls/ABBB.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "LIV Golf South Africa",
-        "Title": "Golf 08:00",
-        "Link": "http://195.178.110.37/hls/ABBBQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Mashujaa vs Azam",
+        "Title": "Tanzania Ligi Kuu Bara 13:00",
+        "Link": "http://195.178.110.2/hls/JCCC.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
