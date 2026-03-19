@@ -1,8 +1,26 @@
 [
     {
         "Id": "1",
+        "Rivels": "Canberra Raiders vs Canterbury Bulldogs",
+        "Title": "NRL 09:00",
+        "Link": "http://195.178.110.37/hls/ABBBQq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Chinese Taipei W vs North Korea W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.37/hls/ABBBQqq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
         "Rivels": "Hawthorn Hawks vs Sydney Swans",
         "Title": "AFL Aussie Rules 08:30",
         "Link": "http://195.178.110.37/hls/ABBB.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "LIV Golf South Africa",
+        "Title": "Golf 08:00",
+        "Link": "http://195.178.110.37/hls/ABBBQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
