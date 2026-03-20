@@ -1,32 +1,50 @@
 [
     {
         "Id": "1",
+        "Rivels": "Melbourne Storm vs Brisbane Broncos",
+        "Title": "NRL 09:00",
+        "Link": "http://195.178.110.37/hls/JHHHH.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Brisbane Roar W vs Newcastle W",
+        "Title": "Australia Women A-League 09:00",
+        "Link": "http://195.178.110.37/hls/kkkkGqqQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Adelaide Crows vs Western Bulldogs",
+        "Title": "AFL Aussie Rules 08:40",
+        "Link": "http://195.178.110.37/hls/kkkkGqq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "WS Wanderers vs Adelaide United",
+        "Title": "Australia A-League 08:35",
+        "Link": "http://195.178.110.37/hls/kkkkGq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Sydney W vs Wellington Phoenix W",
         "Title": "Australia Women A-League 08:00",
         "Link": "http://195.178.110.37/hls/kkkkG.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "6",
         "Rivels": "LIV Golf South Africa",
         "Title": "Golf 07:30",
         "Link": "http://195.178.110.37/hls/ABBBQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "7",
         "Rivels": "New Zealand vs South Africa",
         "Title": "Cricket 07:00",
         "Link": "http://195.178.110.37/hls/JHHHHq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "8",
         "Rivels": "Sydney Roosters vs Penrith Panthers",
         "Title": "NRL 07:00",
         "Link": "http://195.178.110.37/hls/JHHHH.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Highlanders vs Hurricanes",
-        "Title": "Super Rugby 06:00",
-        "Link": "http://195.178.110.37/hls/kkkk.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
