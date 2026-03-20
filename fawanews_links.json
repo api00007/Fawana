@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Bournemouth vs Manchester United --- ENG 1",
         "Title": "English Premier League 20:00",
-        "Link": "http://195.178.110.27/hls/bbbb.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/bbbb.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -27,13 +27,13 @@
         "Id": "5",
         "Rivels": "Bournemouth vs Manchester United --- SWE",
         "Title": "English Premier League 20:00",
-        "Link": "http://195.178.110.25/hls/bbbbX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/bbbbX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
         "Rivels": "Bournemouth vs Manchester United --- CN HD",
         "Title": "English Premier League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=10d46a790a46e3ecf3d85a74bf54f000|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7a9c37aef8e9620778821a1b9ea1cb5b|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
@@ -105,7 +105,7 @@
         "Id": "18",
         "Rivels": "Washington Capitals vs New Jersey Devils --- CH 2",
         "Title": "NHL Hockey 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e11ffec-28a2-47db-9851-4b014fca09a8/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e11ffec-28a2-47db-9851-4b014fca09a8/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "19",
