@@ -97,24 +97,6 @@
     },
     {
         "Id": "17",
-        "Rivels": "NCAA Men's March Madness Simulcast",
-        "Title": "NCAA College Basketball --:--",
-        "Link": "http://195.178.110.37/hls/BDDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Miami vs Missouri",
-        "Title": "NCAA Basketball 02:10",
-        "Link": "http://195.178.110.37/hls/AHHHZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "UConn vs Furman",
-        "Title": "NCAA Basketball 02:00",
-        "Link": "http://195.178.110.37/hls/BDDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
         "Rivels": "Mazatlan FC vs Cruz Azul",
         "Title": "Mexico Liga MX 03:06",
         "Link": "http://195.178.110.37/hls/DIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
