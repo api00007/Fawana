@@ -1,110 +1,50 @@
 [
     {
         "Id": "1",
+        "Rivels": "Japan W vs Australia W",
+        "Title": "Asia Cup Women 09:00",
+        "Link": "http://195.178.110.37/hls/VVVVQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
         "Rivels": "Waratahs vs Blues",
         "Title": "Super Rugby 08:35",
         "Link": "http://195.178.110.37/hls/ANNN.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "3",
         "Rivels": "Fremantle Dockers vs Melbourne Demons",
         "Title": "AFL Aussie Rules 08:35",
         "Link": "http://195.178.110.37/hls/ANNNJ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "4",
         "Rivels": "South Sydney Rabbitohs vs Wests Tigers",
         "Title": "NRL 08:35",
         "Link": "http://195.178.110.37/hls/UFFFq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "5",
         "Rivels": "Liaoning Tieren vs Tianjin Jinmen Tiger",
         "Title": "China Super League 07:30",
         "Link": "http://195.178.110.37/hls/QQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Beijing Guoan vs Shanghai Shenhua",
         "Title": "China Super League 07:30",
         "Link": "http://195.178.110.37/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "7",
         "Rivels": "LIV Golf South Africa",
         "Title": "Golf 07:00",
         "Link": "http://195.178.110.37/hls/UFFF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
-        "Rivels": "Cronulla Sharks vs Dolphins",
-        "Title": "NRL 06:30",
-        "Link": "http://195.178.110.37/hls/UFFFq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "8",
-        "Rivels": "Melbourne Victory vs Central Coast Mariners",
-        "Title": "Australia A-League 06:10",
-        "Link": "http://195.178.110.37/hls/ANNNQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Moana Pasifika vs Crusaders",
-        "Title": "Super Rugby 06:05",
-        "Link": "http://195.178.110.37/hls/ANNN.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Avispa Fukuoka vs Gamba Osaka",
-        "Title": "Japan J League 05:30",
-        "Link": "http://195.178.110.37/hls/ANNNQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
         "Rivels": "GWS Giants vs St Kilda Saints",
         "Title": "AFL Aussie Rules 05:15",
         "Link": "http://195.178.110.37/hls/BBVVV.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Okayama vs V-Varen Nagasaki",
-        "Title": "Japan J League 05:00",
-        "Link": "http://195.178.110.37/hls/ANNNQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Daejeon vs Jeonbuk",
-        "Title": "South Korea K League 05:00",
-        "Link": "http://195.178.110.37/hls/ANNNQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Newcastle Knights vs New Zealand Warriors",
-        "Title": "NRL 04:00",
-        "Link": "http://195.178.110.37/hls/UFFFq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Brisbane Roar vs Wellington Phoenix",
-        "Title": "Australia A-League 04:00",
-        "Link": "http://195.178.110.37/hls/UFFF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Fijian Drua vs Reds",
-        "Title": "Super Rugby 03:35",
-        "Link": "http://195.178.110.37/hls/BBVVVQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Richmond Tigers vs Gold Coast Suns",
-        "Title": "AFL Aussie Rules 02:30",
-        "Link": "http://195.178.110.37/hls/BBVVV.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Mazatlan FC vs Cruz Azul",
-        "Title": "Mexico Liga MX 03:06",
-        "Link": "http://195.178.110.37/hls/DIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
