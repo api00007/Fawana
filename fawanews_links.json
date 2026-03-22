@@ -1,308 +1,212 @@
 [
     {
         "Id": "1",
-        "Rivels": "Boxing : Martinez vs Aleem",
-        "Title": "Boxing --:--",
-        "Link": "http://195.178.110.37/hls/fllll.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "2",
-        "Rivels": "Phoenix Suns vs Milwaukee Bucks --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39de1ee1-7797-408c-b2bc-c38e78657614/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
-        "Rivels": "Utah Jazz vs Philadelphia 76ers --- CH 1",
-        "Title": "NBA Basketball 01:30",
-        "Link": "http://195.178.110.37/hls/HTTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Utah Jazz vs Philadelphia 76ers --- HD",
-        "Title": "NBA Basketball 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/29b431ff-ed94-41bf-a237-ee72a96815a1/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Dallas Mavericks vs Los Angeles Clippers --- CH 1",
-        "Title": "NBA Basketball 00:30",
-        "Link": "http://195.178.110.37/hls/HTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Dallas Mavericks vs Los Angeles Clippers --- HD",
-        "Title": "NBA Basketball 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/47bd2092-06ed-4e08-9bc0-5ed5a78cc1fd/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "San Antonio Spurs vs Indiana Pacers --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/jvvvqQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "San Antonio Spurs vs Indiana Pacers --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9116d6a4-23d8-4518-994b-d53e91eb7399/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Houston Rockets vs Miami Heat --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/jvvvqQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Houston Rockets vs Miami Heat --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9c01ecd8-9906-475a-890e-e42abedd4777/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Atlanta Hawks vs Golden State Warriors --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/jvvvqQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Atlanta Hawks vs Golden State Warriors --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bed7c5ba-b2a6-4a33-aa85-5df844397331/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Orlando Magic vs Los Angeles Lakers --- CH 1",
-        "Title": "NBA Basketball 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Orlando Magic vs Los Angeles Lakers --- HD",
-        "Title": "NBA Basketball 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/07739e06-813f-45e1-8872-cf6ee15c4806/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "New Orleans Pelicans vs Cleveland Cavaliers --- CH 1",
-        "Title": "NBA Basketball 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "New Orleans Pelicans vs Cleveland Cavaliers --- HD",
-        "Title": "NBA Basketball 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c00b7c53-4154-4894-8207-76489f3c66f5/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Charlotte Hornets vs Memphis Grizzlies --- CH 1",
-        "Title": "NBA Basketball 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Charlotte Hornets vs Memphis Grizzlies --- HD",
-        "Title": "NBA Basketball 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/220ed0fc-440b-4436-84fc-ba6ce202ae97/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Edmonton Oilers vs Tampa Bay Lightning --- CH 1",
-        "Title": "NHL Hockey 03:00",
-        "Link": "http://195.178.110.37/hls/jvvvqQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Edmonton Oilers vs Tampa Bay Lightning --- CH 2",
-        "Title": "NHL Hockey 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1068497a-49b6-4d7f-8bb7-3e7382d1927e/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Detroit Red Wings vs Boston Bruins --- CH 1",
-        "Title": "NHL Hockey 00:00",
-        "Link": "http://195.178.110.37/hls/jvvvqQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Detroit Red Wings vs Boston Bruins --- CH 2",
-        "Title": "NHL Hockey 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2e2f51e3-5841-4fc3-8b96-3ad2f7cdbcdd/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
         "Rivels": "Arkansas vs High Point",
         "Title": "NCAA Basketball 01:45",
         "Link": "http://195.178.110.37/hls/AUUUQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
+        "Id": "2",
+        "Rivels": "Boxing : Adames vs Williams",
+        "Title": "Boxing --:--",
+        "Link": "http://195.178.110.37/hls/fllllQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Boxing : Martinez vs Aleem",
+        "Title": "Boxing --:--",
+        "Link": "http://195.178.110.37/hls/fllll.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Phoenix Suns vs Milwaukee Bucks --- CH 1",
+        "Title": "NBA Basketball 03:00",
+        "Link": "http://195.178.110.37/hls/HTTTQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Phoenix Suns vs Milwaukee Bucks --- HD",
+        "Title": "NBA Basketball 03:00",
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39de1ee1-7797-408c-b2bc-c38e78657614/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "Utah Jazz vs Philadelphia 76ers --- CH 1",
+        "Title": "NBA Basketball 01:30",
+        "Link": "http://195.178.110.37/hls/HTTTQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Utah Jazz vs Philadelphia 76ers --- HD",
+        "Title": "NBA Basketball 01:30",
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/29b431ff-ed94-41bf-a237-ee72a96815a1/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Edmonton Oilers vs Tampa Bay Lightning --- CH 1",
+        "Title": "NHL Hockey 03:00",
+        "Link": "http://195.178.110.37/hls/jvvvqQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Edmonton Oilers vs Tampa Bay Lightning --- CH 2",
+        "Title": "NHL Hockey 03:00",
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1068497a-49b6-4d7f-8bb7-3e7382d1927e/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Perth Glory vs Melbourne City",
+        "Title": "Australia A-League 09:00",
+        "Link": "http://195.178.110.37/hls/CECECEQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Pohang vs Bucheon FC 1995",
+        "Title": "South Korea K League 08:30",
+        "Link": "http://195.178.110.37/hls/QVVVQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Gangwon vs Jeju SK",
+        "Title": "South Korea K League 08:30",
+        "Link": "http://195.178.110.37/hls/QVVVQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Anyang vs Incheon",
+        "Title": "South Korea K League 08:30",
+        "Link": "http://195.178.110.37/hls/QVVVQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "NQ Cowboys vs Gold Coast Titans",
+        "Title": "NRL 08:15",
+        "Link": "http://195.178.110.37/hls/CECECEQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "West Coast Eagles vs North Melbourne",
+        "Title": "AFL Aussie Rules 08:10",
+        "Link": "http://195.178.110.37/hls/CECECE.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Urawa Reds vs Machida",
+        "Title": "Japan J League 08:00",
+        "Link": "http://195.178.110.37/hls/QVVVQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Kashiwa Reysol vs Mito",
+        "Title": "Japan J League 08:00",
+        "Link": "http://195.178.110.37/hls/QVVV.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "18",
+        "Rivels": "LIV Golf South Africa",
+        "Title": "Golf 07:30",
+        "Link": "http://195.178.110.37/hls/JQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
+        "Rivels": "New Zealand W vs South Africa W",
+        "Title": "Cricket T20 04:15",
+        "Link": "http://195.178.110.37/hls/CECECEQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "20",
+        "Rivels": "Kawasaki Frontale vs Yokohama F Marinos",
+        "Title": "Japan J League 07:00",
+        "Link": "http://195.178.110.37/hls/FGFGFGQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "21",
+        "Rivels": "Kashima Antlers vs Chiba",
+        "Title": "Japan J League 07:00",
+        "Link": "http://195.178.110.37/hls/FGFGFGQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "22",
+        "Rivels": "Cerezo Osaka vs Vissel Kobe",
+        "Title": "Japan J League 07:00",
+        "Link": "http://195.178.110.37/hls/FGFGFGQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
+        "Rivels": "Parramatta Eels vs St George Illawarra Dragons",
+        "Title": "NRL 06:05",
+        "Link": "http://195.178.110.37/hls/CECECEQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
         "Id": "24",
-        "Rivels": "Nebraska vs Vanderbilt",
-        "Title": "NCAA Basketball 00:45",
-        "Link": "http://195.178.110.37/hls/AUUUQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tokyo Verdy vs FC Tokyo",
+        "Title": "Japan J League 06:00",
+        "Link": "http://195.178.110.37/hls/FGFGFGQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "25",
-        "Rivels": "UNAM Pumas vs Club America",
-        "Title": "Mexico Liga MX 04:10",
-        "Link": "http://195.178.110.37/hls/AUUUQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Kyoto vs Nagoya Grampus",
+        "Title": "Japan J League 06:00",
+        "Link": "http://195.178.110.37/hls/FGFGFGQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "26",
+        "Rivels": "Ulsan HD vs Gimcheon Sangmu",
+        "Title": "South Korea K League 06:00",
+        "Link": "http://195.178.110.37/hls/QVVVQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "27",
+        "Rivels": "Seoul vs Gwangju FC",
+        "Title": "South Korea K League 06:00",
+        "Link": "http://195.178.110.37/hls/QVVVQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "28",
+        "Rivels": "Wanderers W vs Melbourne City W",
+        "Title": "Australia A-League 06:00",
+        "Link": "http://195.178.110.37/hls/CECECEQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "29",
+        "Rivels": "Port Adelaide Power vs Essendon Bombers",
+        "Title": "AFL Aussie Rules 05:15",
+        "Link": "http://195.178.110.37/hls/CECECE.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "30",
+        "Rivels": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
+        "Title": "Japan J League 05:00",
+        "Link": "http://195.178.110.37/hls/FGFGFG.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "31",
+        "Rivels": "Sydney FC vs Newcastle Jets",
+        "Title": "Australia A-League 05:00",
+        "Link": "http://195.178.110.37/hls/CECECEQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "32",
+        "Rivels": "UNAM Pumas vs Club America",
+        "Title": "Mexico Liga MX 04:10",
+        "Link": "http://195.178.110.37/hls/ATTTQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "33",
+        "Rivels": "Canberra W vs Adelaide W",
+        "Title": "Australia A-League 04:00",
+        "Link": "http://195.178.110.37/hls/fllllQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "34",
         "Rivels": "Vancouver Whitecaps vs San Jose Earthquakes",
         "Title": "MLS League 03:30",
         "Link": "http://195.178.110.37/hls/AUUUQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
-        "Rivels": "Atl Nacional vs Inter Bogota",
-        "Title": "Colombia Primera A 01:30",
-        "Link": "http://195.178.110.37/hls/AUUUQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "28",
-        "Rivels": "Belgrano vs Racing Club",
-        "Title": "Argentina Liga Profesional 01:15",
-        "Link": "http://195.178.110.37/hls/AUUU.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "Monterrey vs Guadalajara Chivas",
-        "Title": "Mexico Liga MX 01:05",
-        "Link": "http://195.178.110.37/hls/ATTTQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "30",
-        "Rivels": "Austin FC vs Los Angeles FC",
-        "Title": "MLS League 00:45",
-        "Link": "http://195.178.110.37/hls/ATTTQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "31",
-        "Rivels": "St Louis City vs New England Revolution",
-        "Title": "MLS League 00:30",
-        "Link": "http://195.178.110.37/hls/ATTTQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Sporting Kansas City vs Colorado Rapids",
-        "Title": "MLS League 00:30",
-        "Link": "http://195.178.110.37/hls/ATTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
-        "Rivels": "FC Dallas vs Houston Dynamo",
-        "Title": "MLS League 00:30",
-        "Link": "http://195.178.110.37/hls/ATTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Sao Paulo vs Palmeiras",
-        "Title": "Brazil Serie A 00:00",
-        "Link": "http://195.178.110.37/hls/jvvvq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "35",
-        "Rivels": "Illinois vs VCU Rams",
-        "Title": "NCAA College Basketball 23:50",
-        "Link": "http://195.178.110.37/hls/awawawQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "36",
-        "Rivels": "Alianza Lima vs Juan Pablo II",
-        "Title": "Peru Liga 1 Apertura 23:30",
-        "Link": "http://195.178.110.37/hls/ZRRRQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "37",
-        "Rivels": "Charlotte vs New York Red Bulls",
-        "Title": "MLS League 23:30",
-        "Link": "http://195.178.110.37/hls/ZRRRQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "38",
-        "Rivels": "Libertad Asuncion vs Cerro Porteno",
-        "Title": "Paraguay Primera Division 23:30",
-        "Link": "http://195.178.110.37/hls/ZRRRQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "39",
-        "Rivels": "Atlanta Utd vs DC United",
-        "Title": "MLS League 23:30",
-        "Link": "http://195.178.110.37/hls/ZRRRQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "40",
-        "Rivels": "Once Caldas vs Millonarios",
-        "Title": "Colombia Primera A 23:20",
-        "Link": "http://195.178.110.37/hls/ZRRR.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "41",
-        "Rivels": "Gonzaga vs Texas",
-        "Title": "NCAA College Basketball 23:10",
-        "Link": "http://195.178.110.37/hls/awawawQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "42",
-        "Rivels": "Ottawa Senators vs Toronto Maple Leafs --- CH 1",
-        "Title": "NHL Hockey 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "43",
-        "Rivels": "Ottawa Senators vs Toronto Maple Leafs --- CH 2",
-        "Title": "NHL Hockey 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1637fc9c-c473-47de-a17c-50af90ff7ece/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "44",
-        "Rivels": "Montreal Canadiens vs New York Islanders --- CH 1",
-        "Title": "NHL Hockey 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "45",
-        "Rivels": "Montreal Canadiens vs New York Islanders --- CH 2",
-        "Title": "NHL Hockey 23:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a33094fe-239a-4fc5-9434-f1ccd0004dcb/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "46",
-        "Rivels": "Vancouver Canucks vs St Louis Blues",
-        "Title": "NHL Hockey 23:00",
-        "Link": "http://195.178.110.37/hls/JZZZQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "47",
-        "Rivels": "Atlas vs Queretaro",
-        "Title": "Mexico Liga MX 23:00",
-        "Link": "http://195.178.110.37/hls/JIIIQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "48",
-        "Rivels": "Independiente vs Talleres Cordoba",
-        "Title": "Argentina Liga Profesional 23:00",
-        "Link": "http://195.178.110.37/hls/JIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "49",
         "Rivels": "West Indies W vs Australia W",
         "Title": "Cricket 22:30",
         "Link": "http://195.178.110.37/hls/juuuu.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "50",
-        "Rivels": "Tennis ATP Miami Open",
-        "Title": "Tennis ATP 18:00",
-        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "51",
-        "Rivels": "Tennis WTA Miami Open",
-        "Title": "Tennis WTA 18:00",
-        "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
