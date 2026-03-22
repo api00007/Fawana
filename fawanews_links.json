@@ -109,54 +109,42 @@
     },
     {
         "Id": "19",
-        "Rivels": "DUX Logrono W vs Costa Adeje Tenerife W",
-        "Title": "Spanish Liga F Women 12:00",
-        "Link": "http://195.178.110.37/hls/JBBBQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Alhama W vs Atl Madrid W",
-        "Title": "Spanish Liga F Women 12:00",
-        "Link": "http://195.178.110.37/hls/JBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
         "Rivels": "Orenburg vs Spartak Moscow",
         "Title": "Russia Premier League 11:45",
         "Link": "http://195.178.110.37/hls/JBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "20",
         "Rivels": "Montana vs Beroe",
         "Title": "Bulgaria efbet League 11:30",
         "Link": "http://195.178.110.37/hls/JBBBQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "21",
         "Rivels": "Hatayspor vs Amedspor",
         "Title": "Turkey Lig 1 11:30",
         "Link": "http://195.178.110.37/hls/JBBBQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "22",
         "Rivels": "Vanspor FK vs Sariyer",
         "Title": "Turkey Lig 1 11:00",
         "Link": "http://195.178.110.2/hls/JBBBQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
+        "Id": "23",
         "Rivels": "Alpine Skiing World Cup Lillehammer",
         "Title": "Alpine Skiing 10:30",
         "Link": "http://195.178.110.2/hls/JBBBQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "26",
+        "Id": "24",
         "Rivels": "FC Voluntari vs Chindia Targoviste",
         "Title": "Romania Superliga 10:00",
         "Link": "http://195.178.110.2/hls/JBBB.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
+        "Id": "25",
         "Rivels": "LIV Golf South Africa",
         "Title": "Golf 07:30",
         "Link": "http://195.178.110.2/hls/JQQQ.m3u8|referer=http://www.fawanews.sc/"
