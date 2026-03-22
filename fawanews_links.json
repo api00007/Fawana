@@ -33,7 +33,7 @@
         "Id": "6",
         "Rivels": "New York Knicks vs Washington Wizards --- HD",
         "Title": "NBA Basketball 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5f69b7b-cbc3-436c-944c-8c07bd6948f0/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5f69b7b-cbc3-436c-944c-8c07bd6948f0/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
@@ -99,7 +99,7 @@
         "Id": "17",
         "Rivels": "Alabama vs Texas Tech",
         "Title": "NCAA College Basketball 02:45",
-        "Link": "http://195.178.110.37/hls/OLLLQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/OLLL.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "18",
@@ -141,7 +141,7 @@
         "Id": "24",
         "Rivels": "Corinthians vs Flamengo RJ",
         "Title": "Brazil Serie A 00:30",
-        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/YYYYM.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "25",
@@ -151,27 +151,27 @@
     },
     {
         "Id": "26",
-        "Rivels": "Sport Boys vs Sport Huancayo",
-        "Title": "Peru Liga 1 Apertura 00:00",
-        "Link": "http://195.178.110.37/hls/AAAAAZZZQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "27",
         "Rivels": "Boca Juniors vs Instituto",
         "Title": "Argentina Liga Profesional 00:00",
         "Link": "http://195.178.110.37/hls/AAAAAZZZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "28",
+        "Id": "27",
         "Rivels": "Santos Laguna vs Puebla",
         "Title": "Mexico Liga MX 00:00",
         "Link": "http://195.178.110.37/hls/AAAAAZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "29",
+        "Id": "28",
         "Rivels": "Pachuca vs Toluca",
         "Title": "Mexico Liga MX 00:00",
         "Link": "http://195.178.110.37/hls/AAAAAZZ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "29",
+        "Rivels": "Sport Boys vs Sport Huancayo",
+        "Title": "Peru Liga 1 Apertura 00:00",
+        "Link": "http://195.178.110.37/hls/AAAAAZZZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "30",
