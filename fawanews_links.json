@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Los Angeles Clippers vs Milwaukee Bucks --- CH 1",
         "Title": "NBA Basketball 03:30",
-        "Link": "http://195.178.110.37/hls/CSSSSQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/CSSSSQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -15,7 +15,7 @@
         "Id": "3",
         "Rivels": "Portland Trail Blazers vs Brooklyn Nets --- CH 1",
         "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.37/hls/CSSSSQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/CSSSSQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
@@ -27,7 +27,7 @@
         "Id": "5",
         "Rivels": "Dallas Mavericks vs Golden State Warriors --- CH 1",
         "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.37/hls/CSSSSQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/CSSSSQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
@@ -39,7 +39,7 @@
         "Id": "7",
         "Rivels": "Utah Jazz vs Toronto Raptors --- CH 1",
         "Title": "NBA Basketball 02:00",
-        "Link": "http://195.178.110.37/hls/CSSSS.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/CSSSS.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
@@ -51,7 +51,7 @@
         "Id": "9",
         "Rivels": "Chicago Bulls vs Houston Rockets --- CH 1",
         "Title": "NBA Basketball 01:00",
-        "Link": "http://195.178.110.37/hls/LPPPQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPPQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
@@ -63,19 +63,19 @@
         "Id": "11",
         "Rivels": "Atlanta Hawks vs Memphis Grizzlies --- CH 1",
         "Title": "NBA Basketball 00:30",
-        "Link": "http://195.178.110.37/hls/LPPPQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPPQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
         "Rivels": "Atlanta Hawks vs Memphis Grizzlies --- HD",
         "Title": "NBA Basketball 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/65caf004-44bc-4cef-b81c-33a16c708cb2/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/65caf004-44bc-4cef-b81c-33a16c708cb2/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
         "Rivels": "Detroit Pistons vs Los Angeles Lakers --- CH 1",
         "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/LPPP.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
@@ -87,7 +87,7 @@
         "Id": "15",
         "Rivels": "Philadelphia 76ers vs Oklahoma City Thunder --- CH 1",
         "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/LPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "16",
@@ -99,7 +99,7 @@
         "Id": "17",
         "Rivels": "Orlando Magic vs Indiana Pacers --- CH 1",
         "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/LPPPQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPPQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "18",
@@ -111,7 +111,7 @@
         "Id": "19",
         "Rivels": "Miami Heat vs San Antonio Spurs --- CH 1",
         "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.37/hls/LPPPQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/LPPPQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "20",
@@ -123,13 +123,13 @@
         "Id": "21",
         "Rivels": "New York Rangers vs Ottawa Senators --- CH 1",
         "Title": "NHL Hockey 00:30",
-        "Link": "http://195.178.110.37/hls/JRRRQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/JRRRQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "22",
         "Rivels": "New York Rangers vs Ottawa Senators --- CH 2",
         "Title": "NHL Hockey 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7f838306-486e-4ccb-80a9-4597e65e9db6/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7f838306-486e-4ccb-80a9-4597e65e9db6/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "23",
@@ -187,15 +187,15 @@
     },
     {
         "Id": "32",
-        "Rivels": "Santa Fe vs Ind Medellin",
-        "Title": "Colombia Primera A 22:10",
-        "Link": "http://195.178.110.2/hls/AFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Miami Open --- CH 3",
+        "Title": "Tennis ATP --:--",
+        "Link": "http://195.178.110.25/hls/FZZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "33",
         "Rivels": "Tennis ATP Miami Open --- CH 1",
         "Title": "Tennis ATP --:--",
-        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "34",
@@ -205,14 +205,8 @@
     },
     {
         "Id": "35",
-        "Rivels": "Tennis WTA Miami Open --- CH 1",
+        "Rivels": "Tennis WTA Miami Open",
         "Title": "Tennis WTA --:--",
-        "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "36",
-        "Rivels": "Tennis WTA Miami Open --- CH 2",
-        "Title": "Tennis WTA --:--",
-        "Link": "http://195.178.110.37/hls/MPPPR.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
