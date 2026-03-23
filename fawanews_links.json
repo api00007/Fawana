@@ -1,12 +1,30 @@
 [
     {
         "Id": "1",
+        "Rivels": "Tennis ATP Miami Open",
+        "Title": "Tennis ATP 16:00",
+        "Link": "http://195.178.110.37/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Tennis WTA Miami Open",
+        "Title": "Tennis WTA 16:00",
+        "Link": "http://195.178.110.37/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
         "Rivels": "East Bengal vs Mohammedan",
         "Title": "India ISL 15:00",
         "Link": "http://195.178.110.37/hls/CCCCQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "4",
+        "Rivels": "Cycling Tour of Catalunya",
+        "Title": "Cycling 14:00",
+        "Link": "http://195.178.110.37/hls/CCCCQq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Migori vs Talanta FC",
         "Title": "Kenya Premier League 12:00",
         "Link": "http://195.178.110.37/hls/CCCC.m3u8|referer=http://www.fawanews.sc/"
