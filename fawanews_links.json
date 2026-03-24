@@ -26,7 +26,7 @@
     {
         "Id": "5",
         "Rivels": "Dallas Mavericks vs Golden State Warriors --- CH 1",
-        "Title": "NBA Basketball 03:00",
+        "Title": "NBA Basketball 02:30",
         "Link": "http://195.178.110.2/hls/CSSSSQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
@@ -45,7 +45,7 @@
         "Id": "8",
         "Rivels": "Utah Jazz vs Toronto Raptors --- HD",
         "Title": "NBA Basketball 02:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b24e769e-6b28-4c9a-adb7-dae1641e5dbb/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b24e769e-6b28-4c9a-adb7-dae1641e5dbb/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
@@ -57,7 +57,7 @@
         "Id": "10",
         "Rivels": "Chicago Bulls vs Houston Rockets --- HD",
         "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/67015af6-34fb-4530-853c-1933c64237a2/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/67015af6-34fb-4530-853c-1933c64237a2/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
@@ -135,7 +135,7 @@
         "Id": "23",
         "Rivels": "Huracan vs Barracas Central",
         "Title": "Argentina Liga Profesional 01:15",
-        "Link": "http://195.178.110.37/hls/JRRRQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/JRRRQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "24",
@@ -159,13 +159,13 @@
         "Id": "27",
         "Rivels": "NCAA Women Basketball --- CH 1",
         "Title": "NCAA College Basketball --:--",
-        "Link": "http://195.178.110.37/hls/KKKKQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/KKKKQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "28",
         "Rivels": "NCAA Women Basketball --- CH 2",
         "Title": "NCAA College Basketball --:--",
-        "Link": "http://195.178.110.37/hls/KKKK.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/KKKK.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "29",
@@ -175,38 +175,14 @@
     },
     {
         "Id": "30",
-        "Rivels": "Estudiantes LP vs Central Cordoba",
-        "Title": "Argentina Liga Profesional 23:00",
-        "Link": "http://195.178.110.2/hls/AFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis WTA Miami Open --- CH 1",
+        "Title": "Tennis WTA --:--",
+        "Link": "http://195.178.110.2/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "31",
-        "Rivels": "Sportivo Trinidense vs Recoleta",
-        "Title": "Paraguay Primera Division 22:30",
-        "Link": "http://195.178.110.2/hls/AFFFQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Tennis ATP Miami Open --- CH 3",
-        "Title": "Tennis ATP --:--",
-        "Link": "http://195.178.110.25/hls/FZZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
-        "Rivels": "Tennis ATP Miami Open --- CH 1",
-        "Title": "Tennis ATP --:--",
-        "Link": "http://195.178.110.2/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Tennis ATP Miami Open --- CH 2",
-        "Title": "Tennis ATP --:--",
-        "Link": "http://195.178.110.37/hls/MPPPRQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "35",
-        "Rivels": "Tennis WTA Miami Open",
+        "Rivels": "Tennis WTA Miami Open --- CH 2",
         "Title": "Tennis WTA --:--",
-        "Link": "http://195.178.110.2/hls/MPPP.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/MPPPR.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
