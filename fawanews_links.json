@@ -1,12 +1,24 @@
 [
     {
         "Id": "1",
+        "Rivels": "Kazakhstan vs Namibia",
+        "Title": "FIFA Series 13:00",
+        "Link": "http://195.178.110.2/hls/ahhh.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Alpine Skiing World Cup Lillehammer",
+        "Title": "Alpine Skiing 10:30",
+        "Link": "http://195.178.110.2/hls/AFFF.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
         "Rivels": "Central Coast Mariners W vs Wellington Phoenix W",
         "Title": "Australia A-League 09:00",
         "Link": "http://195.178.110.2/hls/NNNNQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "2",
+        "Id": "4",
         "Rivels": "New Zealand vs South Africa",
         "Title": "Cricket 07:30",
         "Link": "http://195.178.110.2/hls/NNNN.m3u8|referer=http://www.fawanews.sc/"
