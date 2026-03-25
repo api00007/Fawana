@@ -25,21 +25,21 @@
     },
     {
         "Id": "5",
-        "Rivels": "Real Madrid W VS Barcelona W",
+        "Rivels": "Real Madrid W vs Barcelona W",
         "Title": "UEFA Women Champions League 18:45",
         "Link": "http://195.178.110.2/hls/AVVVVQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Sparta Prague W vs Hammarby W",
-        "Title": "UEFA Europa Cup Women 18:00",
-        "Link": "http://195.178.110.2/hls/AVVVVQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Eintracht Frankfurt W vs Hacken W",
+        "Title": "UEFA Europa Cup Women 18:30",
+        "Link": "http://195.178.110.2/hls/AVVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Eintracht Frankfurt W vs Hacken W",
-        "Title": "UEFA Europa Cup Women 18:\"0",
-        "Link": "http://195.178.110.2/hls/AVVVVQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Sparta Prague W vs Hammarby W",
+        "Title": "UEFA Europa Cup Women 18:00",
+        "Link": "http://195.178.110.2/hls/AVVVVQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
