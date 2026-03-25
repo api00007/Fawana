@@ -1,26 +1,26 @@
 [
     {
         "Id": "1",
-        "Rivels": "Kazakhstan vs Namibia",
-        "Title": "FIFA Series 13:00",
-        "Link": "http://195.178.110.2/hls/ahhh.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Muaither SC vs Al Markhiya",
+        "Title": "Qatar QSL 16:15",
+        "Link": "http://195.178.110.2/hls/AAAAOQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Alpine Skiing World Cup Lillehammer",
-        "Title": "Alpine Skiing 10:30",
-        "Link": "http://195.178.110.2/hls/AFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Wadi Degla vs El Gaish",
+        "Title": "Egypt Cup 16:00",
+        "Link": "http://195.178.110.2/hls/AAAAO.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Central Coast Mariners W vs Wellington Phoenix W",
-        "Title": "Australia A-League 09:00",
-        "Link": "http://195.178.110.2/hls/NNNNQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Cycling Tour of Brugge",
+        "Title": "Cycling 16:00",
+        "Link": "http://195.178.110.2/hls/AAAAOQq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "New Zealand vs South Africa",
-        "Title": "Cricket 07:30",
-        "Link": "http://195.178.110.2/hls/NNNN.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Cycling Tour of Catalunya",
+        "Title": "Cycling 14:00",
+        "Link": "http://195.178.110.37/hls/CCCCQq.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
