@@ -15,7 +15,7 @@
         "Id": "3",
         "Rivels": "Brazil vs France --- CH 1",
         "Title": "Friendly Match 21:00",
-        "Link": "http://195.178.110.37/hls/zazazazaqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/zazazazaqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
@@ -33,13 +33,13 @@
         "Id": "6",
         "Rivels": "World Cup Qualification Simulcast",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.25/hls/SASASAqqx.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/SASASAqqx.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
         "Rivels": "Ukraine vs Sweden --- CH 1",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.25/hls/zazazaza.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/zazazaza.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
@@ -51,7 +51,7 @@
         "Id": "9",
         "Rivels": "Wales vs Bosnia and Herzegovina --- CH 1",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.37/hls/zazazazaq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/zazazazaq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
@@ -63,7 +63,7 @@
         "Id": "11",
         "Rivels": "Poland vs Albania --- CH 1",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.25/hls/SASASAqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/SASASAqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
@@ -75,7 +75,7 @@
         "Id": "13",
         "Rivels": "Italy vs Northern Ireland --- CH 1",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.37/hls/SASASAqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/SASASAqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
@@ -87,7 +87,7 @@
         "Id": "15",
         "Rivels": "Denmark vs North Macedonia --- CH 1",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.27/hls/SASASAq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/SASASAq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "16",
@@ -111,7 +111,7 @@
         "Id": "19",
         "Rivels": "Slovakia vs Kosovo",
         "Title": "World Cup Qualification 20:45",
-        "Link": "http://195.178.110.37/hls/SASASAqqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/SASASAqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "20",
