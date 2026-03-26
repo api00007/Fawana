@@ -7,74 +7,8 @@
     },
     {
         "Id": "2",
-        "Rivels": "Malmo FF vs Landskrona",
-        "Title": "Friendly Match 15:00",
-        "Link": "http://195.178.110.2/hls/KBBBQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
-        "Rivels": "Oster vs Elfsborg",
-        "Title": "Friendly Match 14:30",
-        "Link": "http://195.178.110.25/hls/HHHH.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Qalandars vs Kingsmen",
-        "Title": "Cricket Pakistan League 15:00",
-        "Link": "http://195.178.110.25/hls/HHHHr.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Cycling Tour of Catalunya",
-        "Title": "Cycling 15:00",
-        "Link": "http://195.178.110.2/hls/ksssQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Golf PGA Children Houston Open --- Main Feed",
-        "Title": "Golf PGA 13:30",
-        "Link": "http://195.178.110.37/hls/aaaaaa.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Golf PGA Children Houston Open --- Featured Groups",
-        "Title": "Golf PGA 13:30",
-        "Link": "http://195.178.110.37/hls/aaaaa.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Vietnam vs Bangladesh",
-        "Title": "Friendly Match 13:00",
-        "Link": "http://195.178.110.37/hls/KBBBQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Aruba vs Macau",
-        "Title": "FIFA Series 12:30",
-        "Link": "http://195.178.110.27/hls/KBBBQQq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Afghanistan vs Myanmar",
-        "Title": "Asian Cup Qualification 11:30",
-        "Link": "http://195.178.110.2/hls/KBBB.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Manly Sea Eagles vs Sydney Roosters",
-        "Title": "NRL 10:00",
-        "Link": "http://195.178.110.2/hls/ksssQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Geelong Cats vs Adelaide Crows",
-        "Title": "AFL Aussie Rules 09:30",
-        "Link": "http://195.178.110.2/hls/ksssQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Golf Hero Indian Open",
-        "Title": "Golf 08:30",
-        "Link": "http://195.178.110.2/hls/ksss.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Racing Montevideo vs Progreso",
+        "Title": "Uruguay Liga AUF 17:00",
+        "Link": "http://195.178.110.37/hls/annnQQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
