@@ -33,13 +33,13 @@
         "Id": "6",
         "Rivels": "Morocco vs Ecuador --- ES",
         "Title": "Friendly Match 21:15",
-        "Link": "http://195.178.110.27/hls/frfrfrqX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/frfrfrqX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
         "Rivels": "Spain vs Serbia --- ENG",
         "Title": "Friendly Match 21:00",
-        "Link": "http://195.178.110.27/hls/frfrfr.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/frfrfr.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
@@ -51,13 +51,13 @@
         "Id": "9",
         "Rivels": "Spain vs Serbia --- ES",
         "Title": "Friendly Match 21:00",
-        "Link": "http://195.178.110.25/hls/frfrfrD.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/frfrfrD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
         "Rivels": "England vs Uruguay --- CH 1",
         "Title": "Friendly Match 20:45",
-        "Link": "http://195.178.110.27/hls/fzzzzqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/fzzzzqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
@@ -69,7 +69,7 @@
         "Id": "12",
         "Rivels": "Switzerland vs Germany --- CH 1",
         "Title": "Friendly Match 20:45",
-        "Link": "http://195.178.110.37/hls/fzzzzqqqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/fzzzzqqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
@@ -93,7 +93,7 @@
         "Id": "16",
         "Rivels": "Algeria vs Guatemala",
         "Title": "Friendly Match 20:30",
-        "Link": "http://195.178.110.25/hls/fzzzzqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/fzzzzqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "17",
@@ -111,7 +111,7 @@
         "Id": "19",
         "Rivels": "Greece vs Paraguay --- CH 1",
         "Title": "Friendly Match 20:00",
-        "Link": "http://195.178.110.37/hls/fzzzzq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/fzzzzq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "20",
@@ -135,7 +135,7 @@
         "Id": "23",
         "Rivels": "Barcelona vs Crvena Zvezda --- CH 2",
         "Title": "Basketball Euroleague 21:00",
-        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/4/chunks.m3u8?is_vip=true&token=nobar-2e236e88-5a09-4a31-9764-81f7a35a9a65&x-sign=0cb24d5d5078f06871b75d4381c43176&x-time=1774646700|referer=http://www.fawanews.sc/"
+        "Link": "https://livecdn-bp-nobar.maypn.stream/stream/4/chunks.m3u8?is_vip=true&token=nobar-2e236e88-5a09-4a31-9764-81f7a35a9a65&x-sign=363e5c131ae2a56c7b18c1f39e7e722d&x-time=1774648680|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "24",
