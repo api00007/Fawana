@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Boxing : Itauma vs Franklin Jr --- CH 1",
         "Title": "Boxing --:--",
-        "Link": "http://195.178.110.37/hls/aaaaa.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.2/hls/aaaaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -15,7 +15,7 @@
         "Id": "3",
         "Rivels": "UFC Fight Night : Adesanya vs Pyfer --- CH 1",
         "Title": "UFC Fight Night 22:00",
-        "Link": "http://195.178.110.27/hls/vsvsvs.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/vsvsvs.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
@@ -187,60 +187,24 @@
     },
     {
         "Id": "32",
-        "Rivels": "American Samoa vs Guam",
-        "Title": "FIFA Series 21:00",
-        "Link": "http://195.178.110.37/hls/SYYYQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
-        "Rivels": "Section Paloise vs Racing 92",
-        "Title": "Rugby Top 14 21:00",
-        "Link": "http://195.178.110.2/hls/SYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Gijon vs Deportivo La Coruna",
-        "Title": "Spanish Segunda Liga 21:00",
-        "Link": "http://195.178.110.2/hls/SYYYQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "35",
-        "Rivels": "Albacete vs Castellon",
-        "Title": "Spanish Segunda Liga 21:00",
-        "Link": "http://195.178.110.2/hls/SYYYQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "36",
-        "Rivels": "Nantes W vs PSG W",
-        "Title": "France Premiere Ligue Women 21:00",
-        "Link": "http://195.178.110.2/hls/SYYY.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "37",
-        "Rivels": "Eindhoven FC vs FC Emmen",
-        "Title": "Dutch Eerste Divisie 21:00",
-        "Link": "http://195.178.110.2/hls/HKKKQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "38",
         "Rivels": "Edmonton Oilers vs Anaheim Ducks --- CH 1",
         "Title": "NHL Hockey 20:30",
         "Link": "http://195.178.110.2/hls/ITTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "39",
+        "Id": "33",
         "Rivels": "Edmonton Oilers vs Anaheim Ducks --- CH 2",
         "Title": "NHL Hockey 20:30",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5243c84-5771-4aef-91f4-463be43358be/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "40",
+        "Id": "34",
         "Rivels": "Toronto Blue Jays vs Athletics",
         "Title": "MLB Baseball 20:07",
         "Link": "http://195.178.110.2/hls/rrrrQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "41",
+        "Id": "35",
         "Rivels": "Golf PGA Children Houston Open",
         "Title": "Golf PGA 13:00",
         "Link": "http://195.178.110.37/hls/aaaaaa.m3u8|referer=http://www.fawanews.sc/"
