@@ -1,146 +1,32 @@
 [
     {
         "Id": "1",
-        "Rivels": "Los Angeles Lakers vs Brooklyn Nets --- CH 1",
-        "Title": "NBA Basketball 03:30",
-        "Link": "http://195.178.110.2/hls/YDDDQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FIS Ski Cross World Cup Sweden",
+        "Title": "Ski Cross 11:10",
+        "Link": "http://195.178.110.2/hls/gtgtgtQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Los Angeles Lakers vs Brooklyn Nets --- HD",
-        "Title": "NBA Basketball 03:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a1142e40-f389-46c1-aaa5-e6d23eb8183f/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "NQ Cowboys vs Melbourne Storm",
+        "Title": "NRL 09:35",
+        "Link": "http://195.178.110.2/hls/KPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Los Angeles Dodgers vs Arizona Diamondbacks",
-        "Title": "MLB Baseball 03:10",
-        "Link": "http://195.178.110.2/hls/LEEEQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Essendon Bombers vs North Melbourne",
+        "Title": "AFL Aussie Rules 09:35",
+        "Link": "http://195.178.110.2/hls/AHHHHH.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Penrith Panthers vs Parramatta Eels",
-        "Title": "NRL 07:30",
-        "Link": "http://195.178.110.2/hls/KPPP.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Ski Jumping World Cup Slovenia",
+        "Title": "Ski Jumping 09:15",
+        "Link": "http://195.178.110.2/hls/gtgtgt.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Blues vs Fijian Drua",
-        "Title": "Super Rugby 07:05",
-        "Link": "http://195.178.110.2/hls/KPPPQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Pohang vs Gangwon",
-        "Title": "South Korea K League 07:00",
-        "Link": "http://195.178.110.2/hls/KPPPQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Sydney W vs Melbourne Victory W",
-        "Title": "Australia A-League 07:00",
-        "Link": "http://195.178.110.2/hls/KPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Fremantle Dockers vs Richmond Tigers",
-        "Title": "AFL Aussie Rules 06:15",
-        "Link": "http://195.178.110.2/hls/AHHHHH.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Machida vs Kawasaki Frontale",
-        "Title": "Japan J League 06:00",
-        "Link": "http://195.178.110.2/hls/KPPPQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Canterbury Bulldogs vs Newcastle Knights",
-        "Title": "NRL 05:00",
-        "Link": "http://195.178.110.2/hls/KPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Adelaide W vs Newcastle W",
-        "Title": "Australia A-League 04:45",
-        "Link": "http://195.178.110.2/hls/KPPPQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Hurricanes vs Reds",
-        "Title": "Super Rugby 04:35",
-        "Link": "http://195.178.110.2/hls/KPPPQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Iowa State vs Tennessee",
-        "Title": "NCAA College Basketball 03:10",
-        "Link": "http://195.178.110.2/hls/KTTTQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Golden State Warriors vs Washington Wizards --- CH 1",
-        "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.2/hls/YDDDQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Golden State Warriors vs Washington Wizards --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3c42e262-a8a7-4376-aa95-d1dcd0eff4d4/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Portland Trail Blazers vs Dallas Mavericks --- CH 1",
-        "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.2/hls/YDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Portland Trail Blazers vs Dallas Mavericks --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/00c00ff6-428c-4220-9a71-c27c2f416f67/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Boxing : Joel Mafauad vs Mariano Farias",
-        "Title": "Boxing 03:00",
-        "Link": "http://195.178.110.25/hls/VVVV.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "LSU Tigers W vs Duke W",
-        "Title": "WNCAA College Basketball 03:00",
-        "Link": "http://195.178.110.2/hls/OPPPQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "UConn vs Michigan State",
-        "Title": "NCAA College Basketball 02:45",
-        "Link": "http://195.178.110.2/hls/KTTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Seattle Mariners vs Cleveland Guardians",
-        "Title": "MLB Baseball 02:45",
-        "Link": "http://195.178.110.2/hls/LEEEQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "San Diego Padres vs Detroit Tigers",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://195.178.110.2/hls/LEEEQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "St Kilda Saints vs Brisbane Lions",
-        "Title": "AFL Aussie Rules 02:35",
-        "Link": "http://195.178.110.2/hls/AHHHHH.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "MMA ACA 201 : Silva vs Podlesniy",
-        "Title": "MMA Fighting 00:00",
-        "Link": "http://195.178.110.37/hls/HGGGG.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Golf Hero Indian Open",
+        "Title": "Golf 08:30",
+        "Link": "http://195.178.110.2/hls/ksss.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
