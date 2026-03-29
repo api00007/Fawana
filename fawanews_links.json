@@ -7,39 +7,39 @@
     },
     {
         "Id": "2",
+        "Rivels": "New Zealand W vs South Africa W",
+        "Title": "Cricket 06:15",
+        "Link": "http://195.178.110.2/hls/KMMM.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
         "Rivels": "Canberra Raiders vs Cronulla Sharks",
         "Title": "NRL 06:05",
         "Link": "http://195.178.110.2/hls/zazazaQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "4",
         "Rivels": "Golf Hero Indian Open",
         "Title": "Golf 06:00",
         "Link": "http://195.178.110.2/hls/ksss.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "5",
         "Rivels": "Central Coast Mariners W vs Canberra W",
         "Title": "Australia A-League 06:00",
         "Link": "http://195.178.110.2/hls/zazazaQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Melbourne City W vs Nasaf Qarshi W",
         "Title": "AFC Women Champions League 06:00",
         "Link": "http://195.178.110.2/hls/zazazaQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "7",
         "Rivels": "Carlton Blues vs Melbourne Demons",
         "Title": "AFL Aussie Rules 05:15",
         "Link": "http://195.178.110.2/hls/zazazaQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Wellington Phoenix W vs WS Wanderers W",
-        "Title": "Australia A-League 04:00",
-        "Link": "http://195.178.110.2/hls/zazaza.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
@@ -52,53 +52,5 @@
         "Rivels": "Vegas Golden Knights vs Washington Capitals --- CH 2",
         "Title": "NHL Hockey 03:30",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/757f870d-8061-48ec-a26c-4d5c9b65af5e/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Phoenix Suns vs Utah Jazz --- CH 1",
-        "Title": "NBA Basketball 03:00",
-        "Link": "http://195.178.110.2/hls/HSSSQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Phoenix Suns vs Utah Jazz --- HD",
-        "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e81b1d5c-26d2-4854-8ff5-224056673b24/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Calgary Flames vs Vancouver Canucks",
-        "Title": "NHL Hockey 03:00",
-        "Link": "http://195.178.110.2/hls/HSSS.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Seattle Mariners vs Cleveland Guardians",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://195.178.110.2/hls/ULLLQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Port Adelaide Power vs West Coast Eagles",
-        "Title": "AFL Aussie Rules 02:30",
-        "Link": "http://195.178.110.2/hls/hhhhh.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Los Angeles Dodgers vs Arizona Diamondbacks",
-        "Title": "MLB Baseball 02:10",
-        "Link": "http://195.178.110.2/hls/ULLLQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Los Angeles Kings vs Utah Mammoth --- CH 1",
-        "Title": "NHL Hockey 02:00",
-        "Link": "http://195.178.110.2/hls/itttQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Los Angeles Kings vs Utah Mammoth --- CH 2",
-        "Title": "NHL Hockey 02:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/393e6c3b-153c-4066-a529-9f616637b79a/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
