@@ -207,12 +207,12 @@
         "Id": "35",
         "Rivels": "Colombia vs France --- ENG",
         "Title": "Friendly Match 20:00",
-        "Link": "http://195.178.110.25/hls/ggggX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/ggggX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "36",
         "Rivels": "Colombia vs France --- ES",
         "Title": "Friendly Match 20:00",
-        "Link": "http://195.178.110.27/hls/gggg.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/gggg.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
