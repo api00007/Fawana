@@ -49,18 +49,12 @@
     },
     {
         "Id": "9",
-        "Rivels": "Arab Contractors vs ZED",
-        "Title": "Egypt Cup 19:00",
-        "Link": "http://195.178.110.2/hls/zfffq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
         "Rivels": "Snooker Tour Championship --- Table 1",
         "Title": "Snooker 19:00",
         "Link": "http://195.178.110.2/hls/HHHHH.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "10",
         "Rivels": "Snooker Tour Championship --- Table 2",
         "Title": "Snooker 19:00",
         "Link": "http://195.178.110.2/hls/HHHH.m3u8|referer=http://www.fawanews.sc/"
