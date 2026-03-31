@@ -1,15 +1,15 @@
 [
     {
         "Id": "1",
-        "Rivels": "Kazakhstan vs Comoros",
-        "Title": "FIFA Series 13:00",
-        "Link": "http://195.178.110.2/hls/ZVVVQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "2",
         "Rivels": "Australia vs Curacao",
         "Title": "FIFA Series 10:10",
         "Link": "http://195.178.110.2/hls/ZAAAQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "2",
+        "Rivels": "Kazakhstan vs Comoros",
+        "Title": "FIFA Series 13:00",
+        "Link": "http://195.178.110.2/hls/ZVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
