@@ -163,6 +163,12 @@
     },
     {
         "Id": "28",
+        "Rivels": "Lulea vs Frolunda",
+        "Title": "Sweden Hockey SHL 18:00",
+        "Link": "http://195.178.110.2/hls/VVVVDDDQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "29",
         "Rivels": "Golf PGA Valero Texas Open",
         "Title": "Golf PGA 18:00",
         "Link": "http://195.178.110.2/hls/fuuu.m3u8|referer=http://www.fawanews.sc/"
