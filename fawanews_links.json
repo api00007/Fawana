@@ -7,120 +7,108 @@
     },
     {
         "Id": "2",
-        "Rivels": "Singida Black Stars vs Kinondoni MC",
-        "Title": "Tanzania Ligi Kuu Bara 12:00",
-        "Link": "http://93.123.109.249/hls/TBBBQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
         "Rivels": "AEL Limassol vs Pafos",
-        "Title": "Cyprus League 15:00",
+        "Title": "Cyprus Cup 17:00",
         "Link": "http://195.178.110.27/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "3",
         "Rivels": "Panserraikos vs Asteras Tripolis",
         "Title": "Greece Super League 15:00",
         "Link": "http://195.178.110.37/hls/njjjqqQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "4",
         "Rivels": "AEL Larissa vs Panetolikos",
         "Title": "Greece Super League 14:00",
         "Link": "http://195.178.110.37/hls/njjjqqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "5",
         "Rivels": "AEK Larnaca vs AEL",
         "Title": "Cyprus Basketball 14:00",
         "Link": "http://195.178.110.27/hls/njjjqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "6",
         "Rivels": "Rijeka vs Slaven Belupo",
         "Title": "Croatia 1 HNL 15:30",
         "Link": "http://195.178.110.2/hls/TRRRQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "7",
         "Rivels": "Radnik Bijeljina vs Zrinjski",
         "Title": "Bosnia and Herzegovina Premier League 15:30",
         "Link": "http://195.178.110.2/hls/TRRRQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "8",
         "Rivels": "Delhi Capitals vs Gujarat Titans",
         "Title": "Cricket IPL League 15:00",
         "Link": "http://195.178.110.25/hls/TRRRQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "9",
         "Rivels": "Hyderabad Kingsmen vs Peshawar Zalmi",
         "Title": "Cricket Pakistan League 15:00",
         "Link": "http://195.178.110.25/hls/TRRR.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "10",
         "Rivels": "OKMK vs Termez Surkhon",
         "Title": "Uzbekistan Super League 15:00",
         "Link": "http://195.178.110.37/hls/njjjqqQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "11",
         "Rivels": "Igdir FK vs Keciorengucu",
         "Title": "Turkey Lig 1 15:00",
         "Link": "http://195.178.110.37/hls/njjjqqQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "12",
         "Rivels": "Uzbekistan U20 W vs Jordan U20 W",
         "Title": "Asian Cup Women U20 14:00",
         "Link": "http://195.178.110.2/hls/njjjq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "13",
         "Rivels": "North Korea U20 W vs South Korea U20 W",
         "Title": "Asian Cup Women U20 14:00",
         "Link": "http://195.178.110.2/hls/njjj.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "14",
         "Rivels": "Kokand 1912 vs Nasaf Qarshi",
         "Title": "Uzbekistan Super League 14:00",
         "Link": "http://195.178.110.2/hls/nvvvqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "15",
         "Rivels": "Lamphun Warrior vs Ayutthaya Utd",
         "Title": "Thailand Cup 13:00",
         "Link": "http://195.178.110.2/hls/nvvvqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "16",
         "Rivels": "Buriram vs Pathum United",
         "Title": "Thailand Cup 13:00",
         "Link": "http://195.178.110.2/hls/nvvvq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
-        "Rivels": "Serik Spor vs Vanspor FK",
-        "Title": "Turkey Lig 1 12:30",
-        "Link": "http://195.178.110.2/hls/nvvv.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
+        "Id": "17",
         "Rivels": "Tennis ATP Monte Carlo --- CH 1",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.2/hls/AVVVVQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "18",
         "Rivels": "Tennis ATP Monte Carlo --- CH 2",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.2/hls/KKKK.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "19",
         "Rivels": "Tennis ATP Monte Carlo --- CH 3",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.2/hls/KKKKQ.m3u8|referer=http://www.fawanews.sc/"
