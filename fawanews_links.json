@@ -87,7 +87,7 @@
         "Id": "15",
         "Rivels": "PSG vs Liverpool --- ENG 1",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://93.123.109.249/hls/IIII.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/IIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "16",
@@ -111,19 +111,19 @@
         "Id": "19",
         "Rivels": "PSG vs Liverpool --- SWE",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.25/hls/IIIIX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/IIIIX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "20",
         "Rivels": "PSG vs Liverpool --- CN HD",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8baed0cfd2d8f7cb7bf18c9acc050f09|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92752a206e0092caed19ac0bc1b5fe43|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "21",
         "Rivels": "FC Barcelona vs Atletico Madrid --- ENG 1",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.37/hls/IIIIE.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://93.123.109.249/hls/IIIIE.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "22",
@@ -141,7 +141,7 @@
         "Id": "24",
         "Rivels": "FC Barcelona vs Atletico Madrid --- SWE",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.25/hls/IIIIEX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.27/hls/IIIIEX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "25",
@@ -153,6 +153,6 @@
         "Id": "26",
         "Rivels": "FC Barcelona vs Atletico Madrid --- CN HD",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8baed0cfd2d8f7cb7bf18c9acc050f09|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92752a206e0092caed19ac0bc1b5fe43|referer=http://www.fawanews.sc/"
     }
 ]
