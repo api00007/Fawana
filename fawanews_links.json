@@ -1,254 +1,158 @@
 [
     {
         "Id": "1",
-        "Rivels": "HYPE Brazil : Chito Vera vs Jean Silva --- CH 1",
-        "Title": "MMA Fighting 00:15",
-        "Link": "http://195.178.110.2/hls/UUUUU.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "2",
-        "Rivels": "HYPE Brazil : Chito Vera vs Jean Silva --- CH HD",
-        "Title": "MMA Fighting 00:15",
-        "Link": "https://spoti.editelmedia.sbs/dailymotion/live/playlist/2.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "3",
         "Rivels": "Phoenix Suns vs Dallas Mavericks --- CH 1",
         "Title": "NBA Basketball 03:00",
         "Link": "http://195.178.110.2/hls/feeeez.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "2",
         "Rivels": "Phoenix Suns vs Dallas Mavericks --- HD",
         "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/44b486bc-e38f-4cac-b8b9-faa49aaa1be9/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/44b486bc-e38f-4cac-b8b9-faa49aaa1be9/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "3",
         "Rivels": "Los Angeles Clippers vs Oklahoma City Thunder --- CH 1",
         "Title": "NBA Basketball 03:00",
         "Link": "http://195.178.110.2/hls/feeee.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "4",
         "Rivels": "Los Angeles Clippers vs Oklahoma City Thunder --- HD",
         "Title": "NBA Basketball 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/351a5ac2-2933-4b22-815b-4b2b80edfd27/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/351a5ac2-2933-4b22-815b-4b2b80edfd27/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "5",
         "Rivels": "San Antonio Spurs vs Portland Trail Blazers --- CH 1",
         "Title": "NBA Basketball 02:30",
         "Link": "http://195.178.110.2/hls/HKKKqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "6",
         "Rivels": "San Antonio Spurs vs Portland Trail Blazers --- HD",
         "Title": "NBA Basketball 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ccadb42b-8cf9-413d-91d3-a9cb5926ac22/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ccadb42b-8cf9-413d-91d3-a9cb5926ac22/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "7",
         "Rivels": "Denver Nuggets vs Memphis Grizzlies --- CH 1",
         "Title": "NBA Basketball 02:00",
         "Link": "http://195.178.110.2/hls/HKKKqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "8",
         "Rivels": "Denver Nuggets vs Memphis Grizzlies --- HD",
         "Title": "NBA Basketball 02:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/931d7a66-45fe-4a3c-b25e-902926578db8/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/931d7a66-45fe-4a3c-b25e-902926578db8/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
-        "Rivels": "Orlando Magic vs Minnesota Timberwolves --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.2/hls/HKKKqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Orlando Magic vs Minnesota Timberwolves --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/53dbc70d-475b-47fd-ac5a-3903fe2f8839/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Detroit Pistons vs Milwaukee Bucks --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.2/hls/HKKKq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Detroit Pistons vs Milwaukee Bucks --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d22223e-8d04-4b3e-8b7b-555f22f254c5/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Cleveland Cavaliers vs Atlanta Hawks --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "http://195.178.110.2/hls/HKKK.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Cleveland Cavaliers vs Atlanta Hawks --- HD",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5cca1906-de71-440a-b632-4d68b53b8fff/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
+        "Id": "9",
         "Rivels": "Minnesota Twins vs Detroit Tigers",
         "Title": "MLB Baseball 00:40",
         "Link": "http://195.178.110.2/hls/SZSZSZQQqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
-        "Rivels": "New York Yankees vs Athletics",
-        "Title": "MLB Baseball 00:05",
-        "Link": "http://195.178.110.2/hls/SZSZSZQQq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Tampa Bay Rays vs Chicago Cubs",
-        "Title": "MLB Baseball 23:40",
-        "Link": "http://195.178.110.2/hls/QBBBQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Miami Marlins vs Cincinnati Reds",
-        "Title": "MLB Baseball 23:40",
-        "Link": "http://195.178.110.2/hls/QBBB.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
+        "Id": "10",
         "Rivels": "San Jose Sharks vs Edmonton Oilers --- CH 1",
         "Title": "NHL Hockey 03:00",
         "Link": "http://195.178.110.2/hls/SZSZSZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "11",
         "Rivels": "San Jose Sharks vs Edmonton Oilers --- CH 2",
         "Title": "NHL Hockey 03:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9458c12a-0c73-4a7c-bcc9-444f9b75e1c3/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9458c12a-0c73-4a7c-bcc9-444f9b75e1c3/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "12",
         "Rivels": "Toronto Maple Leafs vs Washington Capitals --- CH 1",
         "Title": "NHL Hockey 00:30",
         "Link": "http://195.178.110.2/hls/SZSZSZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "13",
         "Rivels": "Toronto Maple Leafs vs Washington Capitals --- CH 2",
         "Title": "NHL Hockey 00:30",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/adccfcfb-f976-48b6-8309-69c66de31813/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
-        "Rivels": "New York Rangers vs Buffalo Sabres --- CH 1",
-        "Title": "NHL Hockey 00:00",
-        "Link": "http://195.178.110.2/hls/SZSZSZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "26",
-        "Rivels": "New York Rangers vs Buffalo Sabres --- CH 2",
-        "Title": "NHL Hockey 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/204433c7-523a-4e4b-9b39-5dc840f50a36/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "27",
+        "Id": "14",
         "Rivels": "Toluca vs Los Angeles Galaxy",
         "Title": "CONCACAF Champions Cup 04:00",
         "Link": "http://195.178.110.27/hls/GZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "28",
+        "Id": "15",
         "Rivels": "Sporting Cristal vs Cerro Porteno",
         "Title": "Copa Libertadores 03:00",
         "Link": "http://195.178.110.27/hls/GZZZQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "29",
+        "Id": "16",
         "Rivels": "Puerto Cabello vs Atletico-MG",
         "Title": "Copa Sudamericana 03:00",
         "Link": "http://195.178.110.27/hls/GZZZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "30",
+        "Id": "17",
         "Rivels": "Tigres UANL vs Seattle Sounders",
         "Title": "CONCACAF Champions Cup 02:00",
         "Link": "http://195.178.110.27/hls/GZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "31",
+        "Id": "18",
         "Rivels": "Junior vs Palmeiras",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://195.178.110.27/hls/GZZZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "32",
+        "Id": "19",
         "Rivels": "Cusco vs Flamengo RJ",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://195.178.110.27/hls/GZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "33",
+        "Id": "20",
         "Rivels": "Montevideo City vs Gremio",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://195.178.110.27/hls/YYYYQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "34",
+        "Id": "21",
         "Rivels": "Blooming vs River Plate",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://195.178.110.27/hls/YYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "35",
+        "Id": "22",
         "Rivels": "Sarmiento Junin vs Tristan Suarez",
         "Title": "Argentina Copa 01:10",
         "Link": "http://195.178.110.27/hls/YYYYQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "36",
+        "Id": "23",
         "Rivels": "Ind Medellin vs Estudiantes LP",
         "Title": "Copa Libertadores 01:00",
         "Link": "http://195.178.110.27/hls/YYYYQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "37",
+        "Id": "24",
         "Rivels": "Audax Italiano vs Olimpia Asuncion",
         "Title": "Copa Sudamericana 01:00",
         "Link": "http://195.178.110.27/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "38",
-        "Rivels": "Mirassol vs Lanus",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://195.178.110.2/hls/JMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "25",
+        "Rivels": "HYPE Brazil : Chito Vera vs Jean Silva --- CH 1",
+        "Title": "MMA Fighting 00:15",
+        "Link": "http://195.178.110.2/hls/UUUUU.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "39",
-        "Rivels": "Coquimbo vs Nacional",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://195.178.110.2/hls/JMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "40",
-        "Rivels": "Recoleta vs San Lorenzo",
-        "Title": "Copa Sudamericana 23:00",
-        "Link": "http://195.178.110.2/hls/JMMMQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "41",
-        "Rivels": "Dep Riestra vs Palestino",
-        "Title": "Copa Sudamericana 23:00",
-        "Link": "http://195.178.110.2/hls/JMMMQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "42",
-        "Rivels": "Dep Cuenca vs Santos",
-        "Title": "Copa Sudamericana 23:00",
-        "Link": "http://195.178.110.2/hls/JMMM.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "26",
+        "Rivels": "HYPE Brazil : Chito Vera vs Jean Silva --- CH HD",
+        "Title": "MMA Fighting 00:15",
+        "Link": "https://spoti.editelmedia.sbs/dailymotion/live/playlist/1.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
