@@ -9,7 +9,7 @@
         "Id": "2",
         "Rivels": "Mbeya City vs Azam",
         "Title": "Tanzania Ligi Kuu Bara 14:00",
-        "Link": "http://195.178.110.27/hls/LMMM.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.25/hls/LMMM.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
@@ -31,39 +31,39 @@
     },
     {
         "Id": "6",
-        "Rivels": "Boluspor vs Sivasspor",
-        "Title": "Turkey Lig 1 15:00",
-        "Link": "http://195.178.110.2/hls/FFFFBQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Buxoro vs Qizilqum",
-        "Title": "Uzbekistan Super League 15:00",
-        "Link": "http://195.178.110.2/hls/FFFFBQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Neftchi Fargona vs Pakhtakor",
-        "Title": "Uzbekistan Super League 15:00",
-        "Link": "http://195.178.110.2/hls/FFFFBQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Jamshedpur vs Mumbai City",
-        "Title": "India ISL 15:00",
-        "Link": "http://195.178.110.2/hls/FFFFBQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
         "Rivels": "Kolkata Knight Riders vs Lucknow Super Giants",
         "Title": "Cricket IPL League 15:00",
         "Link": "http://195.178.110.2/hls/FFFFB.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "7",
         "Rivels": "Karachi Kings vs Peshawar Zalmi",
         "Title": "Cricket Pakistan League 15:00",
         "Link": "http://195.178.110.2/hls/NNNN.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Boluspor vs Sivasspor",
+        "Title": "Turkey Lig 1 15:00",
+        "Link": "http://195.178.110.2/hls/FFFFBQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Buxoro vs Qizilqum",
+        "Title": "Uzbekistan Super League 15:00",
+        "Link": "http://195.178.110.2/hls/FFFFBQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Neftchi Fargona vs Pakhtakor",
+        "Title": "Uzbekistan Super League 15:00",
+        "Link": "http://195.178.110.2/hls/FFFFBQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Jamshedpur vs Mumbai City",
+        "Title": "India ISL 15:00",
+        "Link": "http://195.178.110.2/hls/FFFFBQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
