@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "TRA United vs Simba",
         "Title": "Tanzania Ligi Kuu Bara 14:00",
-        "Link": "http://93.123.109.249/hls/LMMMQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.37/hls/LMMMQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -19,75 +19,75 @@
     },
     {
         "Id": "4",
+        "Rivels": "Golf The Masters --- Hole 4 5 6",
+        "Title": "Golf 14:00",
+        "Link": "http://195.178.110.2/hls/VAVAVA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Golf The Masters --- Featured Groups",
+        "Title": "Golf 15:00",
+        "Link": "http://195.178.110.2/hls/VAVAVAZ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
         "Rivels": "Boluspor vs Sivasspor",
         "Title": "Turkey Lig 1 15:00",
         "Link": "http://195.178.110.2/hls/FFFFBQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "7",
         "Rivels": "Buxoro vs Qizilqum",
         "Title": "Uzbekistan Super League 15:00",
         "Link": "http://195.178.110.2/hls/FFFFBQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "8",
         "Rivels": "Neftchi Fargona vs Pakhtakor",
         "Title": "Uzbekistan Super League 15:00",
         "Link": "http://195.178.110.2/hls/FFFFBQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "9",
         "Rivels": "Jamshedpur vs Mumbai City",
         "Title": "India ISL 15:00",
         "Link": "http://195.178.110.2/hls/FFFFBQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "10",
         "Rivels": "Kolkata Knight Riders vs Lucknow Super Giants",
         "Title": "Cricket IPL League 15:00",
         "Link": "http://195.178.110.2/hls/FFFFB.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "11",
         "Rivels": "Karachi Kings vs Peshawar Zalmi",
         "Title": "Cricket Pakistan League 15:00",
         "Link": "http://195.178.110.2/hls/NNNN.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "12",
         "Rivels": "Al Wahda vs Ittihad Kalba",
         "Title": "UAE Premier League 14:55",
         "Link": "http://195.178.110.2/hls/NNNNQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "13",
         "Rivels": "Tennis WTA Linz",
         "Title": "Tennis WTA 14:00",
         "Link": "http://195.178.110.2/hls/NNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "14",
         "Rivels": "Lokomotiv Sofia vs Beroe",
         "Title": "Bulgaria efbet League 13:30",
         "Link": "http://195.178.110.2/hls/NNNNQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "15",
         "Rivels": "Svay Rieng vs Manila Digger",
         "Title": "AFC Champions League 13:00",
         "Link": "http://195.178.110.2/hls/NNNNQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Canterbury Bulldogs vs Penrith Panthers",
-        "Title": "NRL 10:50",
-        "Link": "http://195.178.110.2/hls/NNNNQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Adelaide Crows vs Carlton Blues",
-        "Title": "AFL Aussie Rules 10:40",
-        "Link": "http://195.178.110.2/hls/NNNNQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "16",
