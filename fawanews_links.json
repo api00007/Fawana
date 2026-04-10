@@ -13,9 +13,9 @@
     },
     {
         "Id": "3",
-        "Rivels": "Golf The Masters --- Hole 4 5 6",
+        "Rivels": "Golf The Masters --- Amen Corner",
         "Title": "Golf --:--",
-        "Link": "http://195.178.110.52/hls/VAVAVA.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.52/hls/BAAAQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
@@ -61,36 +61,42 @@
     },
     {
         "Id": "11",
+        "Rivels": "Cycling Tour of the Basque Country",
+        "Title": "Cycling 14:00",
+        "Link": "http://195.178.110.2/hls/ALLL.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
         "Rivels": "FC Voluntari vs Corvinul",
         "Title": "Romania Liga 2 14:00",
         "Link": "http://195.178.110.27/hls/UUOOOQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "13",
         "Rivels": "Kelantan The Real Warriors vs Kuala Lumpur City",
         "Title": "Malaysia Premier League 14:00",
         "Link": "http://195.178.110.27/hls/UUOOOQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "14",
         "Rivels": "CSKA 1948 Sofia vs Botev Vratsa",
         "Title": "Bulgaria efbet League 13:30",
         "Link": "http://195.178.110.27/hls/faaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "15",
         "Rivels": "Viettel vs Thanh Hoa",
         "Title": "Vietnam V League 13:15",
         "Link": "http://195.178.110.27/hls/UUOOO.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "16",
         "Rivels": "Tennis WTA Linz",
         "Title": "Tennis WTA 13:00",
         "Link": "http://195.178.110.2/hls/NNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "17",
         "Rivels": "Tennis ATP Monte Carlo",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.2/hls/AVVVVQQQQQ.m3u8|referer=http://www.fawanews.sc/"
