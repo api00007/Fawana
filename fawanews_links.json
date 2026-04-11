@@ -1,68 +1,68 @@
 [
     {
         "Id": "1",
-        "Rivels": "Japan U20 W vs Vietnam U20 W",
-        "Title": "Asian Cup Women U20 10:00",
-        "Link": "http://195.178.110.2/hls/TTTTTT.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Sariyer vs Hatayspor",
+        "Title": "Turkey Lig 1 11:30",
+        "Link": "http://195.178.110.2/hls/GEEEQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Cronulla Sharks vs Sydney Roosters",
-        "Title": "NRL 08:30",
-        "Link": "http://195.178.110.2/hls/DQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Aarhus Fremad vs B93",
+        "Title": "Denmark Division 1 11:30",
+        "Link": "http://195.178.110.2/hls/GEEEQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Incheon vs Ulsan HD",
-        "Title": "South Korea K League 08:30",
-        "Link": "http://195.178.110.2/hls/DQQQAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Karpaty Lviv vs Oleksandriya",
+        "Title": "Ukraine Premier League 11:00",
+        "Link": "http://195.178.110.2/hls/GEEEQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Gwangju FC vs Bucheon FC 1995",
-        "Title": "South Korea K League 08:30",
-        "Link": "http://195.178.110.2/hls/DQQQAQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Punjab Kings vs Sunrisers Hyderabad",
+        "Title": "Cricket IPL League 11:00",
+        "Link": "http://195.178.110.2/hls/GEEE.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Hurricanes vs Blues",
-        "Title": "Super Rugby 08:05",
-        "Link": "http://195.178.110.37/hls/FAFAFA.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "WS Wanderers vs Sydney FC",
+        "Title": "Australia A-League 10:45",
+        "Link": "http://195.178.110.2/hls/UUUUTQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Newcastle Jets vs Adelaide United",
-        "Title": "Australia A-League 08:00",
-        "Link": "http://195.178.110.37/hls/FAFAFAqq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Hawthorn Hawks vs Western Bulldogs",
+        "Title": "AFL Aussie Rules 10:35",
+        "Link": "http://195.178.110.2/hls/UUUUTQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Kyoto vs Okayama",
-        "Title": "Japan J League 08:00",
-        "Link": "http://195.178.110.2/hls/DQQQAQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Reds vs Crusaders",
+        "Title": "Super Rugby 10:35",
+        "Link": "http://195.178.110.2/hls/UUUUTQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Gamba Osaka vs Cerezo Osaka",
-        "Title": "Japan J League 08:00",
-        "Link": "http://195.178.110.2/hls/DQQQAQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Melbourne Storm vs New Zealand Warriors",
+        "Title": "NRL 10:35",
+        "Link": "http://195.178.110.2/hls/UUUUTQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Sydney Swans vs Gold Coast Suns",
-        "Title": "AFL Aussie Rules 07:15",
-        "Link": "http://195.178.110.37/hls/FAFAFAq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Lahore Qalandars vs Peshawar Zalmi",
+        "Title": "Cricket Pakistan League 10:30",
+        "Link": "http://195.178.110.2/hls/UUUUT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Yokohama F Marinos vs FC Tokyo",
-        "Title": "Japan J League 07:00",
-        "Link": "http://195.178.110.2/hls/DQQQAQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Sepsi Sf Gheorghe vs Steaua Bucuresti",
+        "Title": "Romania Liga 2 10:30",
+        "Link": "http://195.178.110.2/hls/UUUU.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Vissel Kobe vs Nagoya Grampus",
-        "Title": "Japan J League 07:00",
-        "Link": "http://195.178.110.2/hls/DQQQA.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Japan U20 W vs Vietnam U20 W",
+        "Title": "Asian Cup Women U20 10:00",
+        "Link": "http://195.178.110.2/hls/TTTTTT.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
