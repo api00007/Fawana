@@ -1,390 +1,258 @@
 [
     {
         "Id": "1",
-        "Rivels": "AEK Larnaca vs Omonia",
-        "Title": "Cyprus League 17:00",
-        "Link": "http://195.178.110.40/hls/MGGGQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 2 HD",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q5Nc1yobRX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Kinondoni MC vs Tanzania Prisons",
-        "Title": "Tanzania Ligi Kuu Bara 17:00",
-        "Link": "http://195.178.110.27/hls/MGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 1",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "http://195.178.110.50/hls/NAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Atletico Madrid vs FC Barcelona --- CH 1",
+        "Rivels": "Atletico Madrid vs FC Barcelona --- CH 2 HD",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://93.123.109.249/hls/NAAA.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://pullp-jd.zdqkup.com/live/MO4u3TY6YMkl_base3.m3u8?txSecret=dc0618ba634fad1288d79e839c0dbdf2&txTime=69E12FE2|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
+        "Rivels": "Atletico Madrid vs FC Barcelona --- CH 3 HD",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "https://play.lvuwx360.com/live/d71461fe7be80104.m3u8?txSecret=8a3e9178cfbd11bc4f1bb1169dc8d3c3&txTime=69DE8E88|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Atletico Madrid vs FC Barcelona --- SWE",
         "Title": "UEFA Champions League 20:00",
         "Link": "http://93.123.109.249/hls/NAAAEXQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Atletico Madrid vs FC Barcelona --- CN",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-580311_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c2f24a4a00eac11cb5b1505ff3349701|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-580311_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
-        "Rivels": "Liverpool vs PSG --- CH 1",
+        "Id": "7",
+        "Rivels": "Liverpool vs PSG --- ENG 2 HD",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q3B89VygGd.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Liverpool vs PSG --- ENG 1",
         "Title": "UEFA Champions League 20:00",
         "Link": "http://195.178.110.55/hls/NAAAE.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "9",
+        "Rivels": "Liverpool vs PSG --- CH 2 HD",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "https://video.bqzb4.cn/live/97dbac58d25063b4.m3u8?sign=6723fda5c3e8cf204a7e97f120b7a957&expire=1776279687|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Liverpool vs PSG --- CH 3 HD",
+        "Title": "UEFA Champions League 20:00",
+        "Link": "https://hls.livelivelive.space/live/4517583.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
         "Rivels": "Liverpool vs PSG --- SWE",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.69/hls/NAAAEX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.55/hls/NAAAEX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "12",
         "Rivels": "Liverpool vs PSG --- CN",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://4d1389ba2cd1f7cc92a0b63c115428c1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c2f24a4a00eac11cb5b1505ff3349701|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
-        "Rivels": "Southampton vs Blackburn Rovers",
+        "Id": "13",
+        "Rivels": "Southampton vs Blackburn Rovers --- CH 1",
         "Title": "English Championship 20:00",
         "Link": "http://195.178.110.69/hls/UFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
-        "Rivels": "Portsmouth vs Ipswich Town",
+        "Id": "14",
+        "Rivels": "Southampton vs Blackburn Rovers --- CH 2",
+        "Title": "English Championship 20:00",
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-613431_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "Portsmouth vs Ipswich Town --- CH 1",
         "Title": "English Championship 20:00",
         "Link": "http://195.178.110.69/hls/UFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "16",
+        "Rivels": "Portsmouth vs Ipswich Town --- CH 2",
+        "Title": "English Championship 20:00",
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-238362_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
         "Rivels": "Wigan vs Rotherham",
         "Title": "English League One 19:45",
         "Link": "http://195.178.110.69/hls/UFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "18",
         "Rivels": "Port Vale vs Barnsley",
         "Title": "English League One 19:45",
         "Link": "http://195.178.110.69/hls/UFFFQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "19",
         "Rivels": "Leyton Orient vs Mansfield",
         "Title": "English League One 19:45",
         "Link": "http://195.178.110.69/hls/UFFFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "20",
         "Rivels": "Huddersfield vs Cardiff",
         "Title": "English League One 19:45",
         "Link": "http://195.178.110.69/hls/UFFF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "21",
         "Rivels": "Bolton vs Stevenage",
         "Title": "English League One 19:45",
         "Link": "http://195.178.110.69/hls/HOHOHOQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "22",
         "Rivels": "Colchester vs Accrington",
         "Title": "English League Two 19:45",
         "Link": "http://195.178.110.69/hls/HOHOHOQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "23",
         "Rivels": "Chesterfield vs Grimsby",
         "Title": "English League Two 19:45",
         "Link": "http://195.178.110.69/hls/HOHOHOQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
+        "Id": "24",
         "Rivels": "Cheltenham vs Gillingham",
         "Title": "English League Two 19:45",
         "Link": "http://195.178.110.69/hls/HOHOHOQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "25",
         "Rivels": "Barrow vs Oldham",
         "Title": "English League Two 19:45",
         "Link": "http://195.178.110.69/hls/HOHOHOQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
-        "Rivels": "Queens Park vs Raith",
-        "Title": "Scottish Championship 19:45",
-        "Link": "http://195.178.110.69/hls/HOHOHOQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Airdrieonians vs Dunfermline",
-        "Title": "Scottish Championship 19:45",
-        "Link": "http://195.178.110.69/hls/HOHOHO.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Netherlands W vs France W",
-        "Title": "World Cup Women Quaifications 19:45",
-        "Link": "http://195.178.110.2/hls/jtttQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Iceland W vs Ukraine W",
-        "Title": "World Cup Women Quaifications 19:30",
-        "Link": "http://195.178.110.2/hls/jtttQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "Scotland W vs Belgium W",
-        "Title": "World Cup Women Quaifications 19:30",
-        "Link": "http://195.178.110.2/hls/jtttQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "25",
-        "Rivels": "Wales W vs Albania W",
-        "Title": "World Cup Women Quaifications 19:15",
-        "Link": "http://195.178.110.2/hls/jttt.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "26",
+        "Rivels": "Scotland W vs Belgium W --- CH 2",
+        "Title": "World Cup Women Quaifications 19:30",
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-550963_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "27",
         "Rivels": "Al Ittihad vs Al Wahda",
         "Title": "AFC Champions League 19:00",
         "Link": "http://195.178.110.2/hls/jdddQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
+        "Id": "28",
         "Rivels": "Al Qadsiah vs Al Shabab",
         "Title": "Saudi Premier League 19:00",
         "Link": "http://195.178.110.2/hls/jdddQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "28",
+        "Id": "29",
         "Rivels": "Moquegua vs Juan Pablo II",
         "Title": "Peru Liga 1 Apertura 19:00",
-        "Link": "http://195.178.110.2/hls/jdddQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "England W vs Spain W",
-        "Title": "World Cup Women Quaifications 19:00",
-        "Link": "http://195.178.110.2/hls/jdddQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.69/hls/jdddQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "30",
-        "Rivels": "Northern Ireland W vs Malta W",
+        "Rivels": "England W vs Spain W --- CH 2",
         "Title": "World Cup Women Quaifications 19:00",
-        "Link": "http://195.178.110.2/hls/jdddQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "31",
-        "Rivels": "Al Ittihad vs ZED",
-        "Title": "Egypt Premier League 19:00",
-        "Link": "http://195.178.110.2/hls/jdddQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Kahrabaa Ismailia vs El Ismaily",
-        "Title": "Egypt Premier League 19:00",
-        "Link": "http://195.178.110.2/hls/jddd.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
         "Rivels": "Dobrudzha vs Botev Plovdiv",
         "Title": "Bulgaria efbet League 18:30",
         "Link": "http://195.178.110.2/hls/GMMM.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "34",
-        "Rivels": "Israel W vs Luxembourg W",
-        "Title": "World Cup Women Quaifications 18:15",
-        "Link": "http://195.178.110.2/hls/UUUUQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "35",
+        "Id": "32",
         "Rivels": "Rogle vs Vaxjo",
         "Title": "Sweden Hockey SHL 18:00",
         "Link": "http://195.178.110.2/hls/UUUUQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "36",
+        "Id": "33",
         "Rivels": "Varnamo vs Sundsvall",
         "Title": "Sweden Superettan 18:00",
         "Link": "http://195.178.110.2/hls/UUUU.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "37",
+        "Id": "34",
         "Rivels": "Catanzaro vs Modena",
         "Title": "Italy Serie B 18:00",
         "Link": "http://195.178.110.2/hls/ILLLQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "38",
-        "Rivels": "Kiffen 3 vs Mariehamn",
-        "Title": "Finland Cup 18:00",
-        "Link": "http://195.178.110.2/hls/KOOOQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "39",
+        "Id": "35",
         "Rivels": "Sweden W vs Denmark W",
         "Title": "World Cup Women Quaifications 18:00",
         "Link": "http://195.178.110.2/hls/KOOOQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "40",
-        "Rivels": "Switzerland W vs Turkey W",
-        "Title": "World Cup Women Quaifications 18:00",
-        "Link": "http://195.178.110.2/hls/KOOOQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "41",
-        "Rivels": "Latvia W vs Portugal W",
-        "Title": "World Cup Women Quaifications 18:00",
-        "Link": "http://195.178.110.2/hls/KOOOQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "42",
-        "Rivels": "Gibraltar W vs Croatia W",
-        "Title": "World Cup Women Quaifications 18:00",
-        "Link": "http://195.178.110.2/hls/KOOOQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "43",
-        "Rivels": "Andorra W vs Azerbaijan W",
-        "Title": "World Cup Women Quaifications 18:00",
-        "Link": "http://195.178.110.2/hls/KOOO.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "44",
+        "Id": "36",
         "Rivels": "Ferencvaros vs Puskas Academy",
         "Title": "Hungary NB 1 Liga 17:45",
         "Link": "http://195.178.110.2/hls/ILLLQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "45",
+        "Id": "37",
         "Rivels": "Al Wehda vs Al Adalah",
         "Title": "Saudi Division 1 17:20",
         "Link": "http://195.178.110.2/hls/ILLLQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "46",
+        "Id": "38",
         "Rivels": "Serbia W vs Italy W",
         "Title": "World Cup Women Quaifications 17:15",
         "Link": "http://195.178.110.2/hls/ILLLQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "47",
+        "Id": "39",
         "Rivels": "Germany W vs Austria W",
         "Title": "World Cup Women Quaifications 17:15",
         "Link": "http://195.178.110.2/hls/ILLL.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "48",
-        "Rivels": "Koper vs Maribor",
-        "Title": "Slovenia Prva Liga 17:00",
-        "Link": "http://195.178.110.2/hls/MGGGQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "49",
-        "Rivels": "Poland W vs Ireland W",
-        "Title": "World Cup Women Quaifications 17:00",
-        "Link": "http://195.178.110.2/hls/MGGGQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "50",
-        "Rivels": "Norway W vs Slovenia W",
-        "Title": "World Cup Women Quaifications 17:00",
-        "Link": "http://195.178.110.2/hls/MGGG.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "51",
-        "Rivels": "Faroe Islands W vs Greece W",
-        "Title": "World Cup Women Quaifications 17:00",
-        "Link": "http://195.178.110.2/hls/GMMMQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "52",
-        "Rivels": "Finland W vs Slovakia W",
-        "Title": "World Cup Women Quaifications 16:30",
-        "Link": "http://195.178.110.2/hls/GMMMQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "53",
-        "Rivels": "Czech Republic W vs Montenegro W",
-        "Title": "World Cup Women Quaifications 16:30",
-        "Link": "http://195.178.110.2/hls/GMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "54",
-        "Rivels": "Bunyodkor vs Neftchi Fargona",
-        "Title": "Uzbekistan Super League 16:15",
-        "Link": "http://195.178.110.2/hls/GMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "55",
+        "Id": "40",
         "Rivels": "Tennis WTA Stuttgart",
         "Title": "Tennis WTA 16:00",
         "Link": "http://195.178.110.2/hls/jdddQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "56",
-        "Rivels": "Corvinul vs Chindia Targoviste",
-        "Title": "Romania Liga 2 16:00",
-        "Link": "http://195.178.110.2/hls/GMMMQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "57",
-        "Rivels": "Modern Sport vs El Gouna",
-        "Title": "Egypt Premier League 16:00",
-        "Link": "http://195.178.110.2/hls/GMMMQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "58",
-        "Rivels": "Botev Vratsa vs Lokomotiv Sofia",
-        "Title": "Bulgaria efbet League 16:00",
-        "Link": "http://195.178.110.2/hls/GMMM.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "59",
-        "Rivels": "Lithuania W vs Bosnia and Herzegovina W",
-        "Title": "World Cup Women Quaifications 16:00",
-        "Link": "http://195.178.110.2/hls/BAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "60",
-        "Rivels": "Estonia W vs Liechtenstein W",
-        "Title": "World Cup Women Quaifications 16:00",
-        "Link": "http://195.178.110.2/hls/BAAAQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "61",
-        "Rivels": "Super Nova vs Riga FC",
-        "Title": "Latvia Virsliga 16:00",
-        "Link": "http://195.178.110.2/hls/UUUUQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "62",
-        "Rivels": "Tractor vs Shabab Al-Ahli Dubai",
-        "Title": "AFC Champions League 15:45",
-        "Link": "http://195.178.110.2/hls/BAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "63",
+        "Id": "41",
         "Rivels": "Chennai Super Kings vs Kolkata Knight Riders",
         "Title": "Cricket IPL League 15:00",
         "Link": "http://195.178.110.37/hls/LJJJQQQQqx.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "64",
+        "Id": "42",
         "Rivels": "Tennis ATP Barcelona",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.37/hls/sssss.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "65",
+        "Id": "43",
         "Rivels": "Tennis ATP Munich",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.37/hls/ssss.m3u8|referer=http://www.fawanews.sc/"
