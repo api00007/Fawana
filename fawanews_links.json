@@ -1,15 +1,15 @@
 [
     {
         "Id": "1",
-        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 2 HD",
+        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 1",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q5Nc1yobRX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.41/hls/NAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 1",
+        "Rivels": "Atletico Madrid vs FC Barcelona --- ENG 2 HD",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.50/hls/NAAA.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q5Nc1yobRX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
@@ -27,25 +27,25 @@
         "Id": "5",
         "Rivels": "Atletico Madrid vs FC Barcelona --- SWE",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://93.123.109.249/hls/NAAAEXQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.55/hls/NAAAEXQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
         "Rivels": "Atletico Madrid vs FC Barcelona --- CN",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-580311_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-580311_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Liverpool vs PSG --- ENG 2 HD",
+        "Rivels": "Liverpool vs PSG --- ENG 1",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q3B89VygGd.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.50/hls/NAAAE.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Liverpool vs PSG --- ENG 1",
+        "Rivels": "Liverpool vs PSG --- ENG 2 HD",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.55/hls/NAAAE.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MwcqV93Q3B89VygGd.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
@@ -63,13 +63,13 @@
         "Id": "11",
         "Rivels": "Liverpool vs PSG --- SWE",
         "Title": "UEFA Champions League 20:00",
-        "Link": "http://195.178.110.55/hls/NAAAEX.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.41/hls/NAAAEX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
         "Rivels": "Liverpool vs PSG --- CN",
         "Title": "UEFA Champions League 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
@@ -81,7 +81,7 @@
         "Id": "14",
         "Rivels": "Southampton vs Blackburn Rovers --- CH 2",
         "Title": "English Championship 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-613431_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-613431_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "15",
@@ -93,7 +93,7 @@
         "Id": "16",
         "Rivels": "Portsmouth vs Ipswich Town --- CH 2",
         "Title": "English Championship 20:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-238362_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-238362_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "17",
@@ -153,7 +153,7 @@
         "Id": "26",
         "Rivels": "Scotland W vs Belgium W --- CH 2",
         "Title": "World Cup Women Quaifications 19:30",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-550963_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-550963_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "27",
@@ -177,7 +177,7 @@
         "Id": "30",
         "Rivels": "England W vs Spain W --- CH 2",
         "Title": "World Cup Women Quaifications 19:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fb0fed33c83f2f9b819aa4eeb0b06280|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b67571f63b07e85479d35792d76a5951|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "31",
