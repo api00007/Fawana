@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Fountain Gate vs Simba",
         "Title": "Tanzania Ligi Kuu Bara 14:00",
-        "Link": "http://195.178.110.69/hls/JJJJq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://195.178.110.55/hls/JJJJq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -13,20 +13,32 @@
     },
     {
         "Id": "3",
+        "Rivels": "Ulsan HD vs Seoul",
+        "Title": "South Korea K League 11:00",
+        "Link": "http://195.178.110.40/hls/JJJJuq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
         "Rivels": "Tennis WTA Stuttgart",
         "Title": "Tennis WTA 10:30",
         "Link": "http://195.178.110.2/hls/jdddQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "5",
         "Rivels": "Tennis ATP Barcelona",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.37/hls/sssss.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Tennis ATP Munich",
         "Title": "Tennis ATP 10:00",
         "Link": "http://195.178.110.37/hls/ssss.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "North Korea U20 W vs South Korea U20 W",
+        "Title": "Asian Cup Women U20 10:00",
+        "Link": "http://195.178.110.40/hls/JJJJu.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
