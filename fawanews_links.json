@@ -117,7 +117,7 @@
         "Id": "20",
         "Rivels": "Chicago Blackhawks vs San Jose Sharks --- CH 2",
         "Title": "NHL Hockey 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/46e65c42-5445-44fa-a5bd-8614879ad1d4/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/46e65c42-5445-44fa-a5bd-8614879ad1d4/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "21",
@@ -218,43 +218,43 @@
     {
         "Id": "37",
         "Rivels": "Olimpia Asuncion vs Barracas Central",
-        "Title": "Copa Sudamericana 01:30",
+        "Title": "Copa Sudamericana 01:00",
         "Link": "http://195.178.110.40/hls/TKKKQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "38",
-        "Rivels": "Richmond Kickers vs Columbus Crew",
-        "Title": "USA Oen Cup 00:30",
-        "Link": "http://195.178.110.40/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Houston Dynamo vs El Paso",
+        "Title": "USA Open Cup 01:00",
+        "Link": "http://195.178.110.40/hls/cccc.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "39",
-        "Rivels": "FC Naples vs Orlando City",
-        "Title": "USA Oen Cup 00:00",
-        "Link": "http://195.178.110.40/hls/urrrQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Richmond Kickers vs Columbus Crew",
+        "Title": "USA Open Cup 00:30",
+        "Link": "http://195.178.110.40/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "40",
-        "Rivels": "Libertad Asuncion vs Rosario Central",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://195.178.110.40/hls/jyjyjyQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Chattanooga vs Atlanta Utd",
+        "Title": "USA Open Cup 00:30",
+        "Link": "http://195.178.110.40/hls/AAAAa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "41",
-        "Rivels": "Cruzeiro vs U Catolica",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://195.178.110.40/hls/jyjyjyQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "DC United vs One Knoxville",
+        "Title": "USA Open Cup 00:30",
+        "Link": "http://195.178.110.40/hls/AAAAaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "42",
-        "Rivels": "Racing Club vs Botafogo RJ",
-        "Title": "Copa Sudamericana 23:00",
-        "Link": "http://195.178.110.40/hls/jyjyjyQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "New York Red Bulls vs Pittsburgh",
+        "Title": "USA Open Cup 00:30",
+        "Link": "http://195.178.110.40/hls/AAAAaaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "43",
-        "Rivels": "Caracas vs Independiente",
-        "Title": "Copa Sudamericana 23:00",
-        "Link": "http://195.178.110.40/hls/jyjyjyQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FC Naples vs Orlando City",
+        "Title": "USA Open Cup 00:00",
+        "Link": "http://195.178.110.40/hls/urrrQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
