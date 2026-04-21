@@ -1,128 +1,164 @@
 [
     {
         "Id": "1",
-        "Rivels": "Boston Celtics vs Philadelphia 76ers --- CH 1",
-        "Title": "NBA Basketball 00:00",
-        "Link": "https://b.yjuykerf.shop/hls/rrddd.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "San Antonio Spurs vs Portland Trail Blazers --- CH 1",
+        "Title": "NBA Basketball 01:00",
+        "Link": "https://b.yjtkuk.shop/hls/rrdddq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
+        "Rivels": "San Antonio Spurs vs Portland Trail Blazers --- CH 2",
+        "Title": "NBA Basketball 01:00",
+        "Link": "http://195.178.110.66/hls/rrdddq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Boston Celtics vs Philadelphia 76ers --- CH 1",
+        "Title": "NBA Basketball 00:00",
+        "Link": "https://b.yjtkuk.shop/hls/rrddd.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
         "Rivels": "Boston Celtics vs Philadelphia 76ers --- CH 2",
         "Title": "NBA Basketball 00:00",
         "Link": "http://195.178.110.66/hls/rrddd.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "5",
         "Rivels": "Buffalo Sabres vs Boston Bruins --- CH 1",
         "Title": "NHL Hockey 00:30",
         "Link": "https://b.yjutjplef.shop/hls/zzcccz.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "6",
         "Rivels": "Buffalo Sabres vs Boston Bruins --- CH 2",
         "Title": "NHL Hockey 00:30",
         "Link": "http://195.178.110.66/hls/zzcccz.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "7",
         "Rivels": "Buffalo Sabres vs Boston Bruins --- CH HD",
         "Title": "NHL Hockey 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ab683922-9efc-443c-b92a-df1c679d78aa/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ab683922-9efc-443c-b92a-df1c679d78aa/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "8",
         "Rivels": "Tampa Bay Lightning vs Montreal Canadiens --- CH 1",
         "Title": "NHL Hockey 00:00",
-        "Link": "https://b.yjtkuk.shop/hls/zzccc.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjuykerf.shop/hls/zzccc.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "9",
         "Rivels": "Tampa Bay Lightning vs Montreal Canadiens --- CH 2",
         "Title": "NHL Hockey 00:00",
         "Link": "http://195.178.110.66/hls/zzccc.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "10",
         "Rivels": "Tampa Bay Lightning vs Montreal Canadiens --- CH HD",
         "Title": "NHL Hockey 00:00",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1a39aff9-154b-46ac-90a2-ee0ea7c43d93/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
-        "Rivels": "Kansas City Royals vs Baltimore Orioles",
-        "Title": "MLB Baseball 00:40",
-        "Link": "https://b.yjukiliu.shop/hls/yyzzzQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Chicago Cubs vs Philadelphia Phillies",
-        "Title": "MLB Baseball 00:40",
-        "Link": "https://b.yjutjplef.shop/hls/yyzzzQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "11",
-        "Rivels": "New York Mets vs Minnesota Twins",
-        "Title": "MLB Baseball 00:10",
-        "Link": "https://b.yjukiliu.shop/hls/yyzzz.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Colorado Rockies vs San Diego Padres",
+        "Title": "MLB Baseball 01:40",
+        "Link": "https://b.yjukiliu.shop/hls/yyzzzQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Washington Nationals vs Atlanta Braves",
-        "Title": "MLB Baseball 23:45",
-        "Link": "https://b.yjuykerf.shop/hls/ssssCQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Texas Rangers vs Pittsburgh Pirates",
+        "Title": "MLB Baseball 01:05",
+        "Link": "https://b.yjukiliu.shop/hls/yyzzzQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
+        "Rivels": "Kansas City Royals vs Baltimore Orioles",
+        "Title": "MLB Baseball 00:40",
+        "Link": "https://b.yjuykerf.shop/hls/yyzzzQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Chicago Cubs vs Philadelphia Phillies",
+        "Title": "MLB Baseball 00:40",
+        "Link": "https://b.yjuykerf.shop/hls/yyzzzQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "New York Mets vs Minnesota Twins",
+        "Title": "MLB Baseball 00:10",
+        "Link": "https://b.yjtkuk.shop/hls/yyzzz.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Washington Nationals vs Atlanta Braves",
+        "Title": "MLB Baseball 23:45",
+        "Link": "https://b.yjtkuk.shop/hls/ssssCQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
         "Rivels": "Boston Red Sox vs New York Yankees",
         "Title": "MLB Baseball 23:45",
         "Link": "https://b.yjtkuk.shop/hls/ssssCQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "18",
         "Rivels": "Tampa Bay Rays vs Cincinnati Reds",
         "Title": "MLB Baseball 23:40",
-        "Link": "https://b.yjutjplef.shop/hls/ssssCQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjukiliu.shop/hls/ssssCQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "19",
         "Rivels": "Miami Marlins vs St Louis Cardinals",
         "Title": "MLB Baseball 23:40",
         "Link": "https://b.yjutjplef.shop/hls/ssssCQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "20",
         "Rivels": "Detroit Tigers vs Milwaukee Brewers",
         "Title": "MLB Baseball 23:40",
-        "Link": "https://b.yjtkuk.shop/hls/ssssC.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjuykerf.shop/hls/ssssC.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "21",
         "Rivels": "Cleveland Guardians vs Houston Astros",
         "Title": "MLB Baseball 23:10",
-        "Link": "https://b.yjutjplef.shop/hls/ssss.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjtkuk.shop/hls/ssss.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
+        "Id": "22",
+        "Rivels": "Paysandu PA vs Vasco",
+        "Title": "Brazil Copa 01:30",
+        "Link": "https://b.yjtkuk.shop/hls/BFFFQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
+        "Rivels": "Barra FC vs Corinthians",
+        "Title": "Brazil Copa 01:30",
+        "Link": "https://b.yjtkuk.shop/hls/BFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "24",
         "Rivels": "Gremio vs Confianca",
         "Title": "Brazil Serie A 23:30",
         "Link": "https://b.yjtkuk.shop/hls/ahhhqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "25",
         "Rivels": "Sao Paulo vs Juventude",
         "Title": "Brazil Copa 23:15",
-        "Link": "https://b.yjukiliu.shop/hls/ahhhqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjutjplef.shop/hls/ahhhqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "26",
         "Rivels": "Botafogo RJ vs Chapecoense-SC",
         "Title": "Brazil Copa 21:00",
-        "Link": "https://b.yjukiliu.shop/hls/ahhhq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjtkuk.shop/hls/ahhhq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "27",
         "Rivels": "Rubio Nu vs Libertad Asuncion",
         "Title": "Paraguay Primera Division 21:00",
-        "Link": "https://b.yjtkuk.shop/hls/ahhh.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://b.yjukiliu.shop/hls/ahhh.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
