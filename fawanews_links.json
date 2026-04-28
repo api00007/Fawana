@@ -1,140 +1,20 @@
 [
     {
         "Id": "1",
-        "Rivels": "Denver Nuggets vs Minnesota Timberwolves --- ENG",
-        "Title": "NBA Basketball 03:30",
-        "Link": "http://195.178.110.66/hls/UFFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Madrid --- CH 1",
+        "Title": "Tennis ATP 10:00",
+        "Link": "http://195.178.110.42/hls/FUUUBQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Denver Nuggets vs Minnesota Timberwolves --- ENG HD",
-        "Title": "NBA Basketball 03:30",
-        "Link": "http://195.178.110.54/hls//UFFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Madrid --- CH 2",
+        "Title": "Tennis ATP 10:00",
+        "Link": "http://195.178.110.42/hls/IIIIY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Denver Nuggets vs Minnesota Timberwolves --- HD",
-        "Title": "NBA Basketball 03:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aaaf07f5-63a7-4d98-9898-93e0209f84d7/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Phoenix Suns vs Oklahoma City Thunder --- ENG",
-        "Title": "NBA Basketball 02:30",
-        "Link": "http://195.178.110.66/hls/GIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Phoenix Suns vs Oklahoma City Thunder --- ENG HD",
-        "Title": "NBA Basketball 02:30",
-        "Link": "http://195.178.110.42/hls/GIIIQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Phoenix Suns vs Oklahoma City Thunder --- HD",
-        "Title": "NBA Basketball 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0986c1b7-8e84-4ee5-89c1-5a536666bde2/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Orlando Magic vs Detroit Pistons --- ENG",
-        "Title": "NBA Basketball 01:00",
-        "Link": "http://195.178.110.66/hls/GIIIQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Orlando Magic vs Detroit Pistons --- ENG HD",
-        "Title": "NBA Basketball 01:00",
-        "Link": "http://195.178.110.42/hls/GIIIQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Orlando Magic vs Detroit Pistons --- HD",
-        "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8468a7b4-108f-4571-94ac-342f84c8d076/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Utah Mammoth vs Vegas Golden Knights --- ENG",
-        "Title": "NHL Hockey 02:30",
-        "Link": "http://195.178.110.66/hls/GIIIQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Utah Mammoth vs Vegas Golden Knights --- ENG HD",
-        "Title": "NHL Hockey 02:30",
-        "Link": "http://195.178.110.54/hls/GIIIQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Utah Mammoth vs Vegas Golden Knights --- CH 2 HD",
-        "Title": "NHL Hockey 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82cd54b8-c2ae-4c24-aeab-715ceb954899/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Los Angeles Dodgers vs Miami Marlins",
-        "Title": "MLB Baseball 03:10",
-        "Link": "http://195.178.110.66/hls/YDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "San Diego Padres vs Chicago Cubs",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://195.178.110.66/hls/YDDDQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Texas Rangers vs New York Yankees",
-        "Title": "MLB Baseball 23:40",
-        "Link": "http://195.178.110.66/hls/YDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Minnesota Twins vs Seattle Mariners",
-        "Title": "MLB Baseball 23:10",
-        "Link": "http://195.178.110.66/hls/YDDDQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Chicago White Sox vs Los Angeles Angels",
-        "Title": "MLB Baseball 00:40",
-        "Link": "http://195.178.110.66/hls/YDDDQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Toronto Blue Jays vs Boston Red Sox",
-        "Title": "MLB Baseball 00:07",
-        "Link": "http://195.178.110.66/hls/YDDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Huracan vs Argentinos Jrs",
-        "Title": "Argentina Liga Profesional 01:00",
-        "Link": "http://195.178.110.66/hls/UFFFFQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Deportivo Garcilaso vs FBC Melgar",
-        "Title": "Peru Liga 1 Apertura 01:00",
-        "Link": "http://195.178.110.66/hls/UFFFFQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Aurora vs SA Bulo Bulo",
-        "Title": "Bolivia Division Profesional 01:00",
-        "Link": "http://195.178.110.66/hls/UFFFFQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Aucas vs Delfin",
-        "Title": "Ecuador Liga Pro 01:00",
-        "Link": "http://195.178.110.66/hls/UFFFFQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Defensor Sp vs Progreso",
-        "Title": "Uruguay Liga AUF 23:30",
-        "Link": "http://195.178.110.66/hls/JBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Arema FC vs Persebaya",
+        "Title": "Indonesia Liga 1 09:30",
+        "Link": "http://195.178.110.66/hls/hvvv.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
