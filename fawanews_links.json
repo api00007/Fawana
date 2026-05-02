@@ -1,120 +1,150 @@
 [
     {
         "Id": "1",
-        "Rivels": "Parramatta Eels vs New Zealand Warriors",
-        "Title": "NRL 08:30",
-        "Link": "http://193.47.62.191/hls/JDDDQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "UFC Fight Night : Maddalena vs Prates --- CH 1",
+        "Title": "UFC Fight Night 09:00",
+        "Link": "https://a.jyulkil.shop/hls/gaaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
+        "Rivels": "UFC Fight Night : Maddalena vs Prates --- CH 2",
+        "Title": "UFC Fight Night 09:00",
+        "Link": "http://193.47.62.191/hls/gaaa.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "UFC Fight Night : Maddalena vs Prates --- CH HD",
+        "Title": "UFC Fight Night 09:00",
+        "Link": "https://spoti.editelmedia.sbs/dailymotion/live/playlist/3.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "Golf Turkish Airlines Open",
+        "Title": "Golf 09:00",
+        "Link": "https://a.jyulkil.shop/hls/BAAAAZQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
+        "Rivels": "Parramatta Eels vs New Zealand Warriors",
+        "Title": "NRL 08:30",
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/JDDDQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
         "Rivels": "Jeju SK vs Jeonbuk",
         "Title": "South Korea K League 08:30",
         "Link": "http://193.47.62.191/hls/JDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
+        "Id": "7",
         "Rivels": "Incheon vs Gangwon",
         "Title": "South Korea K League 08:30",
         "Link": "http://193.47.62.191/hls/JDDDQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "8",
+        "Rivels": "Moana Pasifika vs Blues",
+        "Title": "Super Rugby 08:05",
+        "Link": "http://193.47.62.191/hls/HLLLQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
         "Rivels": "Urawa Reds vs Chiba",
         "Title": "Japan J League 08:00",
         "Link": "http://193.47.62.191/hls/JDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "10",
         "Rivels": "Geelong Cats vs North Melbourne",
         "Title": "AFL Aussie Rules 07:35",
         "Link": "http://193.47.62.191/hls/JDDDQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "11",
         "Rivels": "West Coast Eagles vs Richmond Tigers",
         "Title": "AFL Aussie Rules 07:15",
         "Link": "http://193.47.62.191/hls/JDDDQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "12",
         "Rivels": "Gamba Osaka vs Vissel Kobe",
         "Title": "Japan J League 07:00",
         "Link": "http://193.47.62.191/hls/JDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "13",
         "Rivels": "Gold Coast Titans vs Canberra Raiders",
         "Title": "NRL 06:00",
         "Link": "http://193.47.62.191/hls/JDDDQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "14",
         "Rivels": "Ulsan HD vs Pohang",
         "Title": "South Korea K League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "15",
         "Rivels": "Seoul vs Gimcheon Sangmu",
         "Title": "South Korea K League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "16",
         "Rivels": "Yokohama F Marinos vs Mito",
         "Title": "Japan J League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "17",
         "Rivels": "Kyoto vs Shimizu S-Pulse",
         "Title": "Japan J League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "18",
         "Rivels": "FC Tokyo vs Kawasaki Frontale",
         "Title": "Japan J League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "19",
         "Rivels": "Auckland FC vs Melbourne City",
         "Title": "Australia A-League 06:00",
         "Link": "http://193.47.62.191/hls/GJJJ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "15",
+        "Id": "20",
         "Rivels": "Fijian Drua vs Highlanders",
         "Title": "Super Rugby 05:00",
-        "Link": "http://193.47.62.191/hls/HLLLQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaa.shop/hls/HLLLQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "21",
         "Rivels": "Okayama vs Sanfrecce Hiroshima",
         "Title": "Japan J League 05:00",
         "Link": "http://193.47.62.191/hls/HLLL.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "22",
         "Rivels": "Houston Rockets vs Los Angeles Lakers --- CH 1",
         "Title": "NBA Basketball 02:30",
         "Link": "http://193.47.62.190/hls/VIIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
+        "Id": "23",
         "Rivels": "Houston Rockets vs Los Angeles Lakers --- CH 2",
         "Title": "NBA Basketball 02:30",
         "Link": "https://a.faradasaaaaaa.shop/hls/VIIII.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "24",
         "Rivels": "Houston Rockets vs Los Angeles Lakers --- HD",
         "Title": "NBA Basketball 02:30",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fcc337c-933b-4463-8eaa-dba228ad24a1/master.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "25",
         "Rivels": "Essendon Bombers vs Brisbane Lions",
         "Title": "AFL Aussie Rules 03:35",
         "Link": "http://193.47.62.191/hls/AAAA.m3u8|referer=http://www.fawanews.sc/"
