@@ -1,86 +1,104 @@
 [
     {
         "Id": "1",
-        "Rivels": "Chelsea vs Nottingham Forest --- CH 1",
+        "Rivels": "Chelsea vs Nottingham Forest --- ENG 1",
         "Title": "English Premier League 15:00",
-        "Link": "https://b.kdcsara.shop/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://c.kirfesa.shop/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Chelsea vs Nottingham Forest --- CH 2",
+        "Rivels": "Chelsea vs Nottingham Forest --- ENG HD",
+        "Title": "English Premier League 15:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Jy1s4uPoDtLow.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "3",
+        "Rivels": "Chelsea vs Nottingham Forest --- ENG 2",
         "Title": "English Premier League 15:00",
         "Link": "http://193.47.62.192/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "3",
-        "Rivels": "Chelsea vs Nottingham Forest --- HD",
+        "Id": "4",
+        "Rivels": "Chelsea vs Nottingham Forest --- SWE",
         "Title": "English Premier League 15:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dbb9d09b-2b52-4741-bdf4-5de29475f388/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://d.koltcddqqq.shop/hls/ZZZZR.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "5",
+        "Rivels": "Chelsea vs Nottingham Forest --- HD",
+        "Title": "English Premier League 15:00",
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dbb9d09b-2b52-4741-bdf4-5de29475f388/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "6",
+        "Rivels": "KooKoo vs Tappara",
+        "Title": "Finland Hockey Liiga 16:30",
+        "Link": "http://193.47.62.194/hls/TFFF.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
+        "Rivels": "Radnik vs Vojvodina",
+        "Title": "Serbia Super Liga 16:00",
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/ehhhqqq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Rukh Lviv vs FK Zorya Luhansk",
+        "Title": "Ukraine Premier League 16:00",
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/ehhhqq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Qarabag vs Turan Tovuz",
+        "Title": "Azerbaijan Premier League 16:00",
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/ehhhq.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Nasaf Qarshi vs Navbahor Namangan",
+        "Title": "Uzbekistan Super League 16:00",
+        "Link": "https://a.faradasaaaaaaaa.shop/hls/ehhh.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
         "Rivels": "Unirea Slobozia vs FC Hermannstadt",
         "Title": "Romania Superliga 15:30",
         "Link": "https://a.faradasaaaaaaaa.shop/hls/jvvvqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "12",
         "Rivels": "Punjab Kings vs Rajasthan Royals",
         "Title": "Cricket IPL League 15:00",
-        "Link": "https://a.faradasaaaaaaaaa.shop/hls/rtrtrt.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaa.shop/hls/rtrtrt.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "13",
         "Rivels": "Odisha FC vs Bengaluru FC",
         "Title": "India ISL 15:00",
-        "Link": "https://a.faradasaaaaaa.shop/hls/jvvvqqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/jvvvqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "14",
         "Rivels": "Pharco vs Arab Contractors",
         "Title": "Egypt Premier League 15:00",
-        "Link": "https://a.faradasaaaaaaaaa.shop/hls/jvvvqq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaaaa.shop/hls/jvvvqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "15",
         "Rivels": "Xorazm Urganch vs Andijan",
         "Title": "Uzbekistan Super League 15:00",
-        "Link": "https://a.faradasaaaaaa.shop/hls/jvvvq.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/jvvvq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "16",
         "Rivels": "Lokomotiv Tashkent vs Qizilqum",
         "Title": "Uzbekistan Super League 15:00",
         "Link": "https://a.faradasaaaaaa.shop/hls/jvvv.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "17",
         "Rivels": "Tanzania Prisons vs Mbeya City",
         "Title": "Tanzania Ligi Kuu Bara 14:00",
-        "Link": "http://193.47.62.190/hls/BABABAQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Aston Villa W vs West Ham W",
-        "Title": "English Women Super League 13:00",
-        "Link": "https://a.jyulkil.shop/hls/BABABAQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Persijap Jepara vs Persija Jakarta",
-        "Title": "Indonesia Liga 1 13:00",
-        "Link": "http://193.47.62.190/hls/BABABAQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Albirex Niigata vs Young Lions",
-        "Title": "Singapore Premier League 12:30",
-        "Link": "http://193.47.62.190/hls/BABABAQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Mashujaa vs TRA United",
-        "Title": "Tanzania Ligi Kuu Bara 12:00",
         "Link": "http://193.47.62.190/hls/BABABAQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
