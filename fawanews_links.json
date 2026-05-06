@@ -1,44 +1,104 @@
 [
     {
         "Id": "1",
-        "Rivels": "Boxing : Tszyu vs Diaz",
+        "Rivels": "Boxing : Tszyu vs Diaz --- CH 1",
         "Title": "Boxing 09:00",
         "Link": "http://193.47.62.194/hls/aaaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Boxing : Tszyu vs Diaz --- HD",
+        "Rivels": "Boxing : Tszyu vs Diaz --- CH 2",
         "Title": "Boxing 09:00",
-        "Link": "https://601.sraspers.org/ppv.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://a.faradasaaaaaaaaa.shop/hls/aaaa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Kawasaki Frontale vs Tokyo Verdy",
-        "Title": "Japan J League 09:00",
-        "Link": "http://193.47.62.193/hls/BKJJQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Kinondoni MC vs Young Africans",
+        "Title": "Tanzania Ligi Kuu Bara 14:00",
+        "Link": "http://193.47.62.194/hls/KTTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Machida vs Yokohama F Marinos",
-        "Title": "Japan J League 08:00",
-        "Link": "http://193.47.62.193/hls/BKJJ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Nairobi United vs Tusker",
+        "Title": "Kenya Premier League 14:00",
+        "Link": "http://193.47.62.190/hls/TAAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Kashima Antlers vs Mito",
-        "Title": "Japan J League 08:00",
-        "Link": "http://193.47.62.193/hls/YMMMQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Selangor vs Nam Dinh",
+        "Title": "ASEAN Club Championship 14:00",
+        "Link": "http://193.47.62.190/hls/TAAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "FC Tokyo vs Chiba",
-        "Title": "Japan J League 07:00",
-        "Link": "http://193.47.62.193/hls/YMMMQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Johor DT vs Buriram",
+        "Title": "ASEAN Club Championship 13:00",
+        "Link": "http://193.47.62.190/hls/TAAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Sanfrecce Hiroshima vs Vissel Kobe",
-        "Title": "Japan J League 07:00",
-        "Link": "http://193.47.62.193/hls/YMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Yunnan Yukun vs Zhejiang Professional",
+        "Title": "China Super League 13:00",
+        "Link": "http://193.47.62.190/hls/TAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "8",
+        "Rivels": "Shanghai Port vs Shenzhen Xinpengcheng",
+        "Title": "China Super League 12:35",
+        "Link": "http://193.47.62.190/hls/TAAAAQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Beijing Guoan vs Dalian Yingbo",
+        "Title": "China Super League 12:35",
+        "Link": "http://193.47.62.190/hls/TAAAAQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Wuhan Three Towns vs Qingdao Hainiu",
+        "Title": "China Super League 12:00",
+        "Link": "http://193.47.62.190/hls/TAAAAQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
+        "Rivels": "Police FC vs Muranga",
+        "Title": "Kenya Premier League 12:00",
+        "Link": "http://193.47.62.190/hls/TAAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Kashiwa Reysol vs Urawa Reds",
+        "Title": "Japan J League 11:00",
+        "Link": "http://193.47.62.190/hls/GKKKK.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
+        "Rivels": "Tennis ATP/WTA Roma --- CH 1",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.190/hls/nnnnQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "14",
+        "Rivels": "Tennis ATP/WTA Roma --- CH 2",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.190/hls/nnnnQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
+        "Rivels": "Tennis ATP/WTA Roma --- CH 3",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.190/hls/nnnnQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "16",
+        "Rivels": "Tennis ATP/WTA Roma --- CH 4",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.190/hls/nnnn.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Kawasaki Frontale vs Tokyo Verdy",
+        "Title": "Japan J League 09:00",
+        "Link": "http://193.47.62.193/hls/BKJJQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
