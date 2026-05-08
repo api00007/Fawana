@@ -1,110 +1,74 @@
 [
     {
         "Id": "1",
-        "Rivels": "Crusaders vs Blues",
-        "Title": "Super Rugby 08:05",
-        "Link": "http://193.47.62.194/hls/FOOO.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Port Adelaide Power vs Western Bulldogs",
+        "Title": "AFL Aussie Rules 11:10",
+        "Link": "https://v.zgdyoqa.shop/hls/KTTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Bangladesh vs Pakistan",
-        "Title": "Cricket 05:00",
-        "Link": "http://193.47.62.194/hls/FOOOq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "NQ Cowboys vs Parramatta Eels",
+        "Title": "NRL 11:00",
+        "Link": "https://v.zgetjykyt.shop/hls/FOOOqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Oklahoma City Thunder vs Los Angeles Lakers --- ENG 1",
-        "Title": "NBA Basketball 02:30",
-        "Link": "http://193.47.62.193/hls/prrr.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Brisbane Lions vs Carlton Blues",
+        "Title": "AFL Aussie Rules 10:30",
+        "Link": "https://v.ukurvf.shop/hls/KTTTF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Oklahoma City Thunder vs Los Angeles Lakers --- ENG 2",
-        "Title": "NBA Basketball 02:30",
-        "Link": "https://v.zgdyoqa.shop/hls/prrr.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 1",
+        "Title": "Tennis Masters 10:00",
+        "Link": "https://v.ukluktrv.shop/hls/nnnnQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Oklahoma City Thunder vs Los Angeles Lakers --- ENG HD",
-        "Title": "NBA Basketball 02:30",
-        "Link": "http://193.47.62.192/hls/prrr.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 2",
+        "Title": "Tennis Masters 10:00",
+        "Link": "https://v.ukluktrv.shop/hls/nnnnQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Oklahoma City Thunder vs Los Angeles Lakers --- ENG HD 2",
-        "Title": "NBA Basketball 02:30",
-        "Link": "https://daffodil.lphone.support/nba.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 3",
+        "Title": "Tennis Masters 10:00",
+        "Link": "https://v.zgetjykyt.shop/hls/nnnnQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Oklahoma City Thunder vs Los Angeles Lakers --- RU HD",
-        "Title": "NBA Basketball 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9cac77d5-937a-4cea-a478-a4c37acdb021/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 4",
+        "Title": "Tennis Masters 10:00",
+        "Link": "https://v.ukluktrv.shop/hls/nnnn.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Philadelphia Flyers vs Carolina Hurricanes --- ENG 1",
-        "Title": "NHL Hockey 01:00",
-        "Link": "http://193.47.62.193/hls/ZAZAZAT.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Semen Padang vs Persik Kediri",
+        "Title": "Indonesia Liga 1 09:30",
+        "Link": "https://v.zgdyoqa.shop/hls/KTTTFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Philadelphia Flyers vs Carolina Hurricanes --- ENG 2",
-        "Title": "NHL Hockey 01:00",
-        "Link": "https://v.zgdyoqa.shop/hls/ZAZAZAT.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Sydney Roosters vs Gold Coast Titans",
+        "Title": "NRL 09:00",
+        "Link": "https://v.vzcecza.shop/hls/FOOOqQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "10",
-        "Rivels": "Philadelphia Flyers vs Carolina Hurricanes --- ENG HD",
-        "Title": "NHL Hockey 01:00",
-        "Link": "http://193.47.62.192/hls/ZAZAZAT.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Crusaders vs Blues",
+        "Title": "Super Rugby 08:05",
+        "Link": "https://v.vzcecza.shop/hls/FOOO.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Philadelphia Flyers vs Carolina Hurricanes --- ENG HD 2",
-        "Title": "NHL Hockey 01:00",
-        "Link": "https://daffodil.lphone.support/nhl.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "MotoGP Grand Prix Circuit Of France",
+        "Title": "MotoGP 08:00",
+        "Link": "https://v.vzcecza.shop/hls/KTTTFQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Philadelphia Flyers vs Carolina Hurricanes --- RU HD",
-        "Title": "NHL Hockey 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b2a0de88-8925-43de-ba4f-1e68b88391e7/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "San Diego Padres vs St Louis Cardinals",
-        "Title": "MLB Baseball 03:10",
-        "Link": "https://v.ukluktrv.shop/hls/SRRRQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Junior vs Cerro Porteno",
-        "Title": "Copa Libertadores 03:00",
-        "Link": "https://v.zgdyoqa.shop/hls/SRRR.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Bucaramanga vs Real Santander",
-        "Title": "Colombia Cup 02:00",
-        "Link": "https://v.ukluktrv.shop/hls/gvvv.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Blooming vs Bragantino",
-        "Title": "Copa Sudamericana 01:30",
-        "Link": "https://v.ukurvf.shop/hls/KSSSQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Carabobo vs River Plate",
-        "Title": "Copa Sudamericana 01:30",
-        "Link": "https://v.zgdyoqa.shop/hls/KSSSQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Ind Medellin vs Flamengo RJ",
-        "Title": "Copa Libertadores 01:30",
-        "Link": "https://v.zgdyoqa.shop/hls/KSSSQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Bangladesh vs Pakistan",
+        "Title": "Cricket 05:00",
+        "Link": "https://v.zgetjykyt.shop/hls/FOOOq.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
