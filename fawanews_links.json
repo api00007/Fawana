@@ -1,128 +1,50 @@
 [
     {
         "Id": "1",
-        "Rivels": "Minnesota Timberwolves vs San Antonio Spurs --- ENG 1",
-        "Title": "NBA Basketball 00:30",
-        "Link": "http://193.47.62.190/hls/KFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Pari NN vs CSKA Moscow",
+        "Title": "Russia Premier League 13:15",
+        "Link": "http://193.47.62.194/hls/ATTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Minnesota Timberwolves vs San Antonio Spurs --- ENG 2",
-        "Title": "NBA Basketball 00:30",
-        "Link": "https://v.ukurvf.shop/hls/KFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Akron Togliatti vs FK Rostov",
+        "Title": "Russia Premier League 11:00",
+        "Link": "http://193.47.62.194/hls/ATTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Minnesota Timberwolves vs San Antonio Spurs --- ENG HD",
-        "Title": "NBA Basketball 00:30",
-        "Link": "http://193.47.62.193/hls/KFFF.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 1",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.194/hls/nnnnQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Minnesota Timberwolves vs San Antonio Spurs --- RU HD",
-        "Title": "NBA Basketball 00:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2f2dcf46-ac90-4adc-bedc-ba038ea60fe1/master.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 2",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.194/hls/nnnnQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Anaheim Ducks vs Vegas Golden Knights --- ENG 1",
-        "Title": "NHL Hockey 02:30",
-        "Link": "http://193.47.62.190/hls/bababa.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 3",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.194/hls/nnnnQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Anaheim Ducks vs Vegas Golden Knights --- ENG 2",
-        "Title": "NHL Hockey 02:30",
-        "Link": "https://v.zgetjykyt.shop/hls/bababa.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 4",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.194/hls/nnnn.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Anaheim Ducks vs Vegas Golden Knights --- ENG HD",
-        "Title": "NHL Hockey 02:30",
-        "Link": "http://193.47.62.193/hls/bababa.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP/WTA Roma --- CH 5",
+        "Title": "Tennis Masters 10:00",
+        "Link": "http://193.47.62.194/hls/nnnnB.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Anaheim Ducks vs Vegas Golden Knights --- RU HD",
-        "Title": "NHL Hockey 02:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ec8fcc34-00c3-4fde-ab49-9d9b778f78e5/master.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Boxing : Mosley Jr vs Serhii Bohachuk",
-        "Title": "Boxing 00:00",
-        "Link": "https://v.ukluktrv.shop/hls/DOOOU.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Kansas City Royals vs Detroit Tigers",
-        "Title": "MLB Baseball 00:20",
-        "Link": "https://v.zgdyoqa.shop/hls/HCCCQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "UNAM Pumas vs Club America",
-        "Title": "Mexico Liga MX 02:15",
-        "Link": "https://v.ukluktrv.shop/hls/ARARARQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Los Angeles FC vs Houston Dynamo",
-        "Title": "MLS League 02:00",
-        "Link": "https://v.ukluktrv.shop/hls/HCCCQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Golden State Valkyries W vs Phoenix Mercury W",
-        "Title": "WNBA Basketball 01:30",
-        "Link": "https://v.vzcecza.shop/hls/AQAQAQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "Velez Sarsfield vs Gimnasia LP",
-        "Title": "Argentina Liga Profesional 01:30",
-        "Link": "https://v.uliyyrer.shop/hls/HCCCQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "OHiggins vs Everton",
-        "Title": "Chile Liga de Primera 01:00",
-        "Link": "https://v.zgetjykyt.shop/hls/HCCCQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Vasco vs Athletico-PR",
-        "Title": "Brazil Serie A 00:30",
-        "Link": "https://v.ukurvf.shop/hls/HCCCQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Blooming vs Bolivar",
-        "Title": "Bolivia Division Profesional 00:30",
-        "Link": "https://v.uliyyrer.shop/hls/HCCC.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Once Caldas vs Junior",
-        "Title": "Colombia Primera A 00:10",
-        "Link": "https://v.zgdyoqa.shop/hls/ARARARQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Manta vs Macara",
-        "Title": "Ecuador Liga Pro 00:10",
-        "Link": "https://v.zgdyoqa.shop/hls/ARARARQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Minnesota United vs Austin FC",
-        "Title": "MLS League 00:00",
-        "Link": "https://v.ukluktrv.shop/hls/ARARARQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Seattle Reign W vs Washington Spirit W",
-        "Title": "NWSL League 00:00",
-        "Link": "https://v.zgetjykyt.shop/hls/ARARAR.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Bangladesh vs Pakistan",
+        "Title": "Cricket 05:00",
+        "Link": "http://193.47.62.194/hls/FOOOq.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
