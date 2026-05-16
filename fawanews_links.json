@@ -3,7 +3,7 @@
         "Id": "1",
         "Rivels": "Celtic vs Hearts",
         "Title": "Scottish Premiership 12:30",
-        "Link": "http://193.47.62.55/hls/TMMMMZZ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://193.47.62.43/hls/TMMMMZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
@@ -109,62 +109,50 @@
     },
     {
         "Id": "19",
-        "Rivels": "Metalist 1925 vs Epitsentr",
-        "Title": "Ukraine Premier League 11:00",
-        "Link": "http://193.47.62.58/hls/TTTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
         "Rivels": "Incheon vs Gwangju FC",
         "Title": "South Korea K League 11:00",
         "Link": "http://193.47.62.58/hls/TTTT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "20",
         "Rivels": "Parramatta Eels vs Melbourne Storm",
         "Title": "NRL 10:45",
         "Link": "http://193.47.62.59/hls/CCCCZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "21",
         "Rivels": "Newcastle Jets vs Sydney FC",
         "Title": "Australia A-League 10:40",
         "Link": "http://193.47.62.59/hls/UHHH.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "22",
         "Rivels": "Western Force vs Reds",
         "Title": "Super Rugby 10:35",
         "Link": "http://193.47.62.59/hls/CCCCZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "23",
         "Rivels": "Carlton Blues vs Western Bulldogs",
         "Title": "AFL Aussie Rules 10:30",
         "Link": "http://193.47.62.59/hls/UHHHQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
+        "Id": "24",
         "Rivels": "Persik Kediri vs Persija Jakarta",
         "Title": "Indonesia Liga 1 09:30",
         "Link": "http://193.47.62.59/hls/gfffFQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "26",
+        "Id": "25",
         "Rivels": "Yokohama F Marinos vs Kashiwa Reysol",
         "Title": "Japan J League 09:00",
         "Link": "http://193.47.62.59/hls/gfffFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
+        "Id": "26",
         "Rivels": "Sepsi Sf Gheorghe vs Chindia Targoviste",
         "Title": "Romania Liga 2 09:00",
         "Link": "http://193.47.62.59/hls/gfffF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "28",
-        "Rivels": "Bangladesh vs Pakistan",
-        "Title": "Cricket 05:00",
-        "Link": "http://193.47.62.59/hls/GUUUQqQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
