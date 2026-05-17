@@ -1,159 +1,159 @@
 [
     {
         "Id": "1",
-        "Rivels": "Sevilla vs Real Madrid",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.57/hls/GPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FC Barcelona vs Real Betis --- ENG",
+        "Title": "Spanish La Liga 20:15",
+        "Link": "http://193.47.62.49/hls/GPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Sevilla vs Real Madrid --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYd5pk84Z2WoqP.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FC Barcelona vs Real Betis --- SWE",
+        "Title": "Spanish La Liga 20:15",
+        "Link": "http://193.47.62.57/hls/GPPPQQQT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Newcastle United vs West Ham United",
-        "Title": "English Premier League 17:30",
-        "Link": "http://193.47.62.49/hls/GPPPQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "FC Barcelona vs Real Betis --- HD",
+        "Title": "Spanish La Liga 20:15",
+        "Link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358281.m3u8?txSecret=6b729b95631fd1321ed3f18ea20ff65e&txTime=6A0B65E9|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Newcastle United vs West Ham United --- HD 1",
-        "Title": "English Premier League 17:30",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7JxGiBZHQSTNwP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Newcastle United vs West Ham United --- RU HD",
-        "Title": "English Premier League 17:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/520bea89-df36-4a80-bd30-0072aeb5e7d0/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Panathinaikos vs PAOK --- CH 1",
-        "Title": "Greece Super League 17:30",
-        "Link": "http://193.47.62.53/hls/GPPPQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "Panathinaikos vs PAOK --- CH 2",
-        "Title": "Greece Super League 17:30",
-        "Link": "https://video.bqzb4.cn/live/35d79b256df5f432.m3u8?sign=478762ad27cd49292d330025b9088c97&expire=1779122079|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "Panathinaikos vs PAOK --- HD",
-        "Title": "Greece Super League 17:30",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFZW9jvAVkZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "AEK Athens vs Olympiacos --- CH 1",
-        "Title": "Greece Super League 17:30",
-        "Link": "http://193.47.62.57/hls/GPPP.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "AEK Athens vs Olympiacos --- CH 2",
-        "Title": "Greece Super League 17:30",
-        "Link": "https://video.bqzb4.cn/live/278f985c12e5c94e.m3u8?sign=a54596973220c5f9047fc331a2a5d445&expire=1779122079|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "AEK Athens vs Olympiacos --- HD",
-        "Title": "Greece Super League 17:30",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2VBFbhdcPzQuT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Club Brugge vs Royale Union SG",
-        "Title": "Belgium Pro League 17:30",
-        "Link": "http://193.47.62.42/hls/RRRR.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "Club Brugge vs Royale Union SG --- HD",
-        "Title": "Belgium Pro League 17:30",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdaX9W3jyPpgqJcd.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "14",
-        "Rivels": "FC Barcelona vs Real Betis",
-        "Title": "Spanish La Liga 20:15",
-        "Link": "http://193.47.62.57/hls/GPPPQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
         "Rivels": "Zaragoza vs Gijon",
         "Title": "Spanish Segunda Liga 20:15",
         "Link": "http://193.47.62.59/hls/YHHHQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "16",
+        "Id": "5",
         "Rivels": "Colorado Rockies vs Arizona Diamondbacks",
         "Title": "MLB Baseball 20:10",
         "Link": "http://193.47.62.59/hls/YHHHQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "17",
+        "Id": "6",
         "Rivels": "Stade Rochelais vs Stade Toulousain",
         "Title": "Rugby Top 14 20:05",
         "Link": "http://193.47.62.59/hls/YHHHQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "18",
-        "Rivels": "Strasbourg vs AS Monaco",
-        "Title": "Ligue 1 France 20:00",
-        "Link": "http://193.47.62.50/hls/VVVVQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
+        "Id": "7",
         "Rivels": "Paris FC vs PSG",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.55/hls/YYDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "20",
+        "Id": "8",
+        "Rivels": "Paris FC vs PSG --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeXjAytqH1P.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "9",
+        "Rivels": "Strasbourg vs AS Monaco",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "http://193.47.62.50/hls/VVVVQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "10",
+        "Rivels": "Strasbourg vs AS Monaco --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3Ce39vff6N1j.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "11",
         "Rivels": "Nice vs Metz",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.50/hls/VVVVQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "12",
+        "Rivels": "Nice vs Metz --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeZverNfCAH.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
         "Rivels": "Nantes vs Toulouse",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.55/hls/YYDDDQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "14",
+        "Rivels": "Nantes vs Toulouse --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeTLDEwBShb.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "15",
         "Rivels": "Marseille vs Rennes",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.50/hls/VVVVQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "16",
+        "Rivels": "Marseille vs Rennes --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeVXh7R1MrV.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
         "Rivels": "Lyon vs Lens",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.55/hls/YYDDDQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "18",
+        "Rivels": "Lyon vs Lens --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeNwFVyXcPo.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
         "Rivels": "Lorient vs Le Havre",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.50/hls/VVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
+        "Id": "20",
+        "Rivels": "Lorient vs Le Havre --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeR8jNTMXYh.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "21",
         "Rivels": "Lille vs Auxerre",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.55/hls/YYDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "26",
+        "Id": "22",
+        "Rivels": "Lille vs Auxerre --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeJYHm1sn61.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
         "Rivels": "Brest vs Angers",
         "Title": "Ligue 1 France 20:00",
         "Link": "http://193.47.62.50/hls/VVVV.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "24",
+        "Rivels": "Brest vs Angers --- HD",
+        "Title": "Ligue 1 France 20:00",
+        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuT7Y3CeLjmdVhhEu.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "25",
+        "Rivels": "Nascar Cup Series All Star Race",
+        "Title": "Nascar 20:00",
+        "Link": "http://193.47.62.59/hls/AAAY.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "26",
+        "Rivels": "Golf LPGA Kroger Queen City Championship",
+        "Title": "Golf LPGA 20:00",
+        "Link": "http://193.47.62.59/hls/GMMMQQQQQX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "27",
@@ -163,440 +163,194 @@
     },
     {
         "Id": "28",
-        "Rivels": "Cobresal vs U De Chile",
-        "Title": "Chile Liga de Primera 20:00",
-        "Link": "http://193.47.62.59/hls/YHHH.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
         "Rivels": "Botafogo RJ vs Corinthians",
         "Title": "Brazil Serie A 20:00",
         "Link": "http://193.47.62.59/hls/GMMMQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "30",
+        "Id": "29",
         "Rivels": "Bahia vs Gremio",
         "Title": "Brazil Serie A 20:00",
         "Link": "http://193.47.62.59/hls/GMMMQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
+        "Id": "30",
+        "Rivels": "Cobresal vs U De Chile",
+        "Title": "Chile Liga de Primera 20:00",
+        "Link": "http://193.47.62.59/hls/YHHH.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
         "Id": "31",
-        "Rivels": "Vila Nova FC vs Avai",
-        "Title": "Brazil Serie B 20:00",
-        "Link": "http://193.47.62.59/hls/GMMMQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Athletic Club vs Juventude",
-        "Title": "Brazil Serie B 20:00",
-        "Link": "http://193.47.62.59/hls/GMMMQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
         "Rivels": "Udinese vs Cremonese",
         "Title": "Italy Serie A 19:45",
         "Link": "http://193.47.62.59/hls/GMMMQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "34",
+        "Id": "32",
         "Rivels": "Udinese vs Cremonese --- HD",
         "Title": "Italy Serie A 19:45",
         "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj2X28KPVN6wxZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "35",
+        "Id": "33",
         "Rivels": "Sassuolo vs Lecce",
         "Title": "Italy Serie A 19:45",
         "Link": "http://193.47.62.59/hls/GMMMQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "36",
+        "Id": "34",
         "Rivels": "Sassuolo vs Lecce --- HD",
         "Title": "Italy Serie A 19:45",
         "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj2Y1syhtX9biu.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "37",
+        "Id": "35",
         "Rivels": "Cagliari vs Torino",
         "Title": "Italy Serie A 19:45",
         "Link": "http://193.47.62.59/hls/GMMM.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "38",
+        "Id": "36",
         "Rivels": "Cagliari vs Torino --- HD",
         "Title": "Italy Serie A 19:45",
         "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj2Y2J9zToEgQm.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "39",
+        "Id": "37",
         "Rivels": "Norway vs Slovenia",
         "Title": "Hockey World Championship 19:20",
         "Link": "http://193.47.62.191/hls/DKKKQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "40",
+        "Id": "38",
         "Rivels": "Germany vs Latvia",
         "Title": "Hockey World Championship 19:20",
         "Link": "http://193.47.62.191/hls/DKKKQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "41",
+        "Id": "39",
         "Rivels": "Polonia Bytom vs Slask Wroclaw",
         "Title": "Poland Division 1 19:15",
         "Link": "http://193.47.62.41/hls/DKKKQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "42",
+        "Id": "40",
         "Rivels": "Deportivo Garcilaso vs Cajamarca",
         "Title": "Peru Liga 1 Apertura 19:15",
         "Link": "http://193.47.62.42/hls/GTTTQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "43",
+        "Id": "41",
         "Rivels": "St Louis Cardinals vs Kansas City Royals",
         "Title": "MLB Baseball 19:15",
         "Link": "http://193.47.62.41/hls/DKKKQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "44",
+        "Id": "42",
         "Rivels": "Minnesota Twins vs Milwaukee Brewers",
         "Title": "MLB Baseball 19:10",
         "Link": "http://193.47.62.41/hls/DKKKQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "45",
+        "Id": "43",
         "Rivels": "Houston Astros vs Texas Rangers",
         "Title": "MLB Baseball 19:10",
         "Link": "http://193.47.62.41/hls/DKKKQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "46",
+        "Id": "44",
         "Rivels": "Chicago White Sox vs Chicago Cubs",
         "Title": "MLB Baseball 19:10",
         "Link": "http://193.47.62.41/hls/DKKK.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "47",
+        "Id": "45",
         "Rivels": "Al Shabab vs Al Ittihad",
         "Title": "Saudi Premier League 19:00",
         "Link": "http://193.47.62.41/hls/ygggQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "48",
+        "Id": "46",
         "Rivels": "Al Shabab vs Al Ittihad --- HD",
         "Title": "Saudi Premier League 19:00",
         "Link": "https://streaming.cdnx-sportnobar.xyz/live/sd-6MvXc76AHoL1rSTF3T.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "49",
+        "Id": "47",
         "Rivels": "Catanzaro vs Palermo",
         "Title": "Italy Serie B 19:00",
         "Link": "http://193.47.62.41/hls/ygggQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "50",
+        "Id": "48",
         "Rivels": "Racing Montevideo vs Cerro Largo",
         "Title": "Uruguay Liga AUF 19:00",
         "Link": "http://193.47.62.41/hls/ygggQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "51",
+        "Id": "49",
         "Rivels": "Leones del Norte vs Mushuc Runa",
         "Title": "Ecuador Liga Pro 19:00",
         "Link": "http://193.47.62.41/hls/ygggQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "52",
+        "Id": "50",
         "Rivels": "OFK Beograd vs Vojvodina",
         "Title": "Serbia Super Liga 19:00",
         "Link": "http://193.47.62.41/hls/ygggQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "53",
+        "Id": "51",
         "Rivels": "Golf PGA Championship --- ENG",
         "Title": "Golf PGA 18:00",
         "Link": "http://193.47.62.43/hls/YHHH.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "54",
+        "Id": "52",
         "Rivels": "Golf PGA Championship --- SWE",
         "Title": "Golf PGA 18:00",
         "Link": "http://193.47.62.43/hls/YHHHX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "55",
-        "Rivels": "Real Sociedad vs Valencia",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "56",
-        "Rivels": "Real Sociedad vs Valencia --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKW6rmzRwFho.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "57",
-        "Rivels": "Rayo Vallecano vs Villarreal",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "58",
-        "Rivels": "Rayo Vallecano vs Villarreal --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKW2TpFUHRQ1.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "59",
-        "Rivels": "Real Oviedo vs Alaves",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "60",
-        "Rivels": "Real Oviedo vs Alaves --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKVzGLNzTWF7.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "61",
-        "Rivels": "Osasuna vs Espanyol",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "62",
-        "Rivels": "Osasuna vs Espanyol --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKfoXnoFRryK.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "63",
-        "Rivels": "Levante vs Mallorca",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "64",
-        "Rivels": "Levante vs Mallorca --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKfmLJvmbwpR.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "65",
-        "Rivels": "Elche vs Getafe",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "66",
-        "Rivels": "Elche vs Getafe --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKfgwMBox7Wd.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "67",
-        "Rivels": "Atletico Madrid vs Girona",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDDQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "68",
-        "Rivels": "Atletico Madrid vs Girona --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcKfcYPSrJHCq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "69",
-        "Rivels": "Athletic Bilbao vs Celta Vigo",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "http://193.47.62.41/hls/RDDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "70",
-        "Rivels": "Athletic Bilbao vs Celta Vigo --- HD",
-        "Title": "Spanish La Liga 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSsYcLVpKcX79zKF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "71",
-        "Rivels": "Kasimpasa vs Galatasaray",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "http://193.47.62.41/hls/UGGGQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "72",
-        "Rivels": "Kasimpasa vs Galatasaray --- HD",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcMcFduzaWhe57s.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "73",
-        "Rivels": "Fenerbahce vs Eyupspor",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "http://193.47.62.41/hls/UGGGQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "74",
-        "Rivels": "Fenerbahce vs Eyupspor --- HD",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcMcGe5qBV8moa5.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "75",
-        "Rivels": "Trabzonspor vs Genclerbirligi",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "http://193.47.62.41/hls/UGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "76",
-        "Rivels": "Trabzonspor vs Genclerbirligi --- HD",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcMcH8vTrpEUDJM.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "77",
-        "Rivels": "Antalyaspor vs Kocaelispor",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "http://193.47.62.41/hls/UGGGQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "78",
-        "Rivels": "Antalyaspor vs Kocaelispor --- HD",
-        "Title": "Turkey Super Lig 18:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuTcMcGJo5bUwGLVj.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "79",
+        "Id": "53",
         "Rivels": "New York Mets vs New York Yankees",
         "Title": "MLB Baseball 18:40",
         "Link": "http://193.47.62.41/hls/YGGGQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "80",
+        "Id": "54",
         "Rivels": "Detroit Tigers vs Toronto Blue Jays",
         "Title": "MLB Baseball 18:40",
         "Link": "http://193.47.62.41/hls/YGGGQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "81",
+        "Id": "55",
         "Rivels": "Cleveland Guardians vs Cincinnati Reds",
         "Title": "MLB Baseball 18:40",
         "Link": "http://193.47.62.41/hls/YGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "82",
+        "Id": "56",
         "Rivels": "Washington Nationals vs Baltimore Orioles",
         "Title": "MLB Baseball 18:35",
         "Link": "http://193.47.62.41/hls/YGGGQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "83",
+        "Id": "57",
         "Rivels": "Pittsburgh Pirates vs Philadelphia Phillies",
         "Title": "MLB Baseball 18:35",
         "Link": "http://193.47.62.41/hls/YGGGQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "84",
+        "Id": "58",
         "Rivels": "Atlanta Braves vs Boston Red Sox",
         "Title": "MLB Baseball 18:35",
         "Link": "http://193.47.62.41/hls/YGGGQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "85",
-        "Rivels": "Univ Craiova vs U Cluj",
-        "Title": "Romania Superliga 18:30",
-        "Link": "http://193.47.62.41/hls/YGGGQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "86",
-        "Rivels": "Keflavik vs Stjarnan",
-        "Title": "Iceland League 18:30",
-        "Link": "http://193.47.62.41/hls/YGGG.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "87",
-        "Rivels": "Istra 1961 vs Rijeka",
-        "Title": "Croatia 1 HNL 17:45",
-        "Link": "http://193.47.62.43/hls/TAAAAQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "88",
-        "Rivels": "Radnik vs Crvena zvezda",
-        "Title": "Serbia Super Liga 17:30",
-        "Link": "http://193.47.62.42/hls/RRRRQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "89",
-        "Rivels": "Huachipato vs Union La Calera",
-        "Title": "Chile Liga de Primera 17:30",
-        "Link": "http://193.47.62.42/hls/RRRRQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "90",
-        "Rivels": "Tampa Bay Rays vs Miami Marlins",
-        "Title": "MLB Baseball 17:15",
-        "Link": "http://193.47.62.42/hls/GTTTQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "91",
-        "Rivels": "Sonderjyske vs Nordsjaelland",
-        "Title": "Denmark Superliga 17:00",
-        "Link": "http://193.47.62.42/hls/fuuuQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "92",
-        "Rivels": "Midtjylland vs Brondby",
-        "Title": "Denmark Superliga 17:00",
-        "Link": "http://193.47.62.42/hls/fuuuQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "93",
-        "Rivels": "Aarhus vs Viborg",
-        "Title": "Denmark Superliga 17:00",
-        "Link": "http://193.47.62.42/hls/fuuuQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "94",
-        "Rivels": "Atalanta vs Bologna",
-        "Title": "Italy Serie A 17:00",
-        "Link": "http://193.47.62.42/hls/fuuu.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "95",
-        "Rivels": "Atalanta vs Bologna --- HD",
-        "Title": "Italy Serie A 17:00",
-        "Link": "https://streaming.cdnx-sportnobar.xyz/live/hd-en-6MuSNj2Y2BZYrMkvx5.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "96",
-        "Rivels": "AD Tarma vs Comerciantes Unidos",
-        "Title": "Peru Liga 1 Apertura 17:00",
-        "Link": "http://193.47.62.42/hls/GTTTQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "97",
-        "Rivels": "Thor Akureyri vs Akranes",
-        "Title": "Iceland League 17:00",
-        "Link": "http://193.47.62.42/hls/GTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "98",
-        "Rivels": "Lechia Gdansk vs Legia Warsaw",
-        "Title": "Poland Ekstraklasa 16:30",
-        "Link": "http://193.47.62.43/hls/TZZZQQQfqQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "99",
-        "Rivels": "Southend United vs Wealdstone",
-        "Title": "English FA Trophy 16:15",
-        "Link": "http://193.47.62.43/hls/TZZZQQQf.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "100",
-        "Rivels": "Delhi Capitals vs Rajasthan Royals",
-        "Title": "Cricket IPL League 15:00",
-        "Link": "http://193.47.62.43/hls/QQQQZQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Id": "59",
+        "Rivels": "AEK Athens vs Olympiacos --- CH 1",
+        "Title": "Greece Super League 17:30",
+        "Link": "http://193.47.62.45/hls/GPPP.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
