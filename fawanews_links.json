@@ -1,68 +1,56 @@
 [
     {
         "Id": "1",
-        "Rivels": "Oklahoma City Thunder vs San Antonio Spurs --- ENG 1",
-        "Title": "NBA Basketball 01:30",
-        "Link": "http://193.47.62.50/hls/THHHQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Orgryte vs Goteborg",
+        "Title": "Sweden Allsvenskan 14:00",
+        "Link": "http://193.47.62.47/hls/UPPP.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Oklahoma City Thunder vs San Antonio Spurs --- ENG 2",
-        "Title": "NBA Basketball 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/6879c3a6-672b-4d99-a8f4-5d0eba81fa49/cab20b82-7cbe-4393-b769-f7c913c2adc5/480p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Chengdu Rongcheng vs Shanghai Port",
+        "Title": "China Super League 12:35",
+        "Link": "http://193.47.62.57/hls/YYYYQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Oklahoma City Thunder vs San Antonio Spurs --- ENG HD",
-        "Title": "NBA Basketball 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/6879c3a6-672b-4d99-a8f4-5d0eba81fa49/0824da4c-eb29-458f-b237-581c8f09d474/480p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tianjin Jinmen Tiger vs Henan Songshan Longmen",
+        "Title": "China Super League 12:35",
+        "Link": "http://193.47.62.57/hls/YYYYQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Bangladesh vs Pakistan",
-        "Title": "Cricket 05:00",
-        "Link": "http://193.47.62.59/hls/GUUUQqQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Shenzhen Xinpengcheng vs Dalian Yingbo",
+        "Title": "China Super League 12:35",
+        "Link": "http://193.47.62.57/hls/YYYYQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "Portland Fire W vs Connecticut Sun W",
-        "Title": "WNBA Basketball 03:00",
-        "Link": "http://193.47.62.190/hls/DDDDDq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "North East Utd vs Mohammedan",
+        "Title": "India ISL 12:30",
+        "Link": "http://193.47.62.57/hls/YYYY.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Seattle Mariners vs Chicago White Sox",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://193.47.62.43/hls/ZCCCQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Hamburg",
+        "Title": "Tennis ATP 11:00",
+        "Link": "http://193.47.62.55/hls/HVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "San Diego Padres vs Los Angeles Dodgers",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://193.47.62.43/hls/ZCCCQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Geneva",
+        "Title": "Tennis ATP 09:30",
+        "Link": "http://193.47.62.55/hls/HVVV.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Arizona Diamondbacks vs San Francisco Giants",
-        "Title": "MLB Baseball 02:40",
-        "Link": "http://193.47.62.43/hls/ZCCCQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis WTA Strasbourg",
+        "Title": "Tennis WTA 09:30",
+        "Link": "http://193.47.62.57/hls/qaqaqa.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "9",
-        "Rivels": "Los Angeles Angels vs Athletics",
-        "Title": "MLB Baseball 02:38",
-        "Link": "http://193.47.62.43/hls/ZCCC.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Colorado Rockies vs Texas Rangers",
-        "Title": "MLB Baseball 01:40",
-        "Link": "http://193.47.62.43/hls/FNNNQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Minnesota Twins vs Houston Astros",
-        "Title": "MLB Baseball 00:40",
-        "Link": "http://193.47.62.43/hls/FNNNQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Bangladesh vs Pakistan",
+        "Title": "Cricket 05:00",
+        "Link": "http://193.47.62.59/hls/GUUUQqQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
