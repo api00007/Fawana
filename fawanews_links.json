@@ -1,50 +1,20 @@
 [
     {
         "Id": "1",
-        "Rivels": "Junior vs Sporting Cristal",
-        "Title": "Copa Libertadores 03:00",
-        "Link": "http://193.47.62.55/hls/YSSSQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Hamburg",
+        "Title": "Tennis ATP 11:00",
+        "Link": "http://193.47.62.55/hls/HVVVQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Cusco vs Ind Medellin",
-        "Title": "Copa Libertadores 03:00",
-        "Link": "http://193.47.62.55/hls/YSSSQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis ATP Geneva",
+        "Title": "Tennis ATP 10:00",
+        "Link": "http://193.47.62.55/hls/HVVV.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Colorado Rapids vs San Jose Earthquakes",
-        "Title": "US Open Cup 03:00",
-        "Link": "http://193.47.62.55/hls/YSSS.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "4",
-        "Rivels": "Seattle Storm W vs Connecticut Sun W",
-        "Title": "WNBA Basketball 03:00",
-        "Link": "http://193.47.62.55/hls/YSSSQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "5",
-        "Rivels": "Los Angeles Angels vs Athletics",
-        "Title": "MLB Baseball 02:38",
-        "Link": "http://193.47.62.55/hls/UJJJJQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "6",
-        "Rivels": "Chicago Sky W vs Dallas Wings W",
-        "Title": "WNBA Basketball 02:00",
-        "Link": "http://193.47.62.55/hls/UJJJJ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "7",
-        "Rivels": "San Diego Padres vs Los Angeles Dodgers",
-        "Title": "MLB Baseball 01:40",
-        "Link": "http://193.47.62.55/hls/KSSSZQQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "8",
-        "Rivels": "New York Yankees vs Toronto Blue Jays",
-        "Title": "MLB Baseball 00:05",
-        "Link": "http://193.47.62.55/hls/UUUUFFQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis WTA Strasbourg",
+        "Title": "Tennis WTA 10:00",
+        "Link": "http://193.47.62.57/hls/qaqaqa.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
