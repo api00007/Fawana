@@ -27,7 +27,7 @@
         "Id": "5",
         "Rivels": "New York Knicks vs Cleveland Cavaliers --- RU HD",
         "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bacb8e23-cfc8-41b0-835f-ac96846e81f8/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bacb8e23-cfc8-41b0-835f-ac96846e81f8/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
@@ -57,118 +57,136 @@
         "Id": "10",
         "Rivels": "Carolina Hurricanes vs Montreal Canadiens --- RU HD",
         "Title": "NHL Hockey 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ebdfc2a1-03d3-4c25-a276-ec23939ad8c1/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ebdfc2a1-03d3-4c25-a276-ec23939ad8c1/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
+        "Rivels": "Phoenix Mercury W vs Los Angeles Sparks W",
+        "Title": "WNBA Basketball 03:00",
+        "Link": "http://193.47.62.41/hls/OHHHFQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
         "Rivels": "Cruz Azul vs UNAM Pumas",
         "Title": "Mexico Liga MX 03:00",
         "Link": "http://193.47.62.41/hls/OHHHF.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "13",
         "Rivels": "Macara vs Alianza Atl",
         "Title": "Copa Sudamericana 03:00",
         "Link": "http://193.47.62.41/hls/OHHH.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
-        "Rivels": "U Catolica vs Barcelona SC",
-        "Title": "Copa Libertadores 01:30",
-        "Link": "http://193.47.62.41/hls/FFFQZZQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
         "Id": "14",
-        "Rivels": "Penarol vs Corinthians",
-        "Title": "Copa Libertadores 01:30",
-        "Link": "http://193.47.62.40/hls/YZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Cartagena vs Barranquilla",
-        "Title": "Colombia Primera B 01:30",
-        "Link": "http://193.47.62.41/hls/FFFQZZQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Blooming vs Carabobo",
-        "Title": "Copa Sudamericana 01:30",
-        "Link": "http://193.47.62.41/hls/FFFQZZQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Racing Club vs Caracas",
-        "Title": "Copa Sudamericana 01:00",
-        "Link": "http://193.47.62.40/hls/YZZZQQQX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
         "Rivels": "Arizona Diamondbacks vs Colorado Rockies",
         "Title": "MLB Baseball 02:40",
         "Link": "http://193.47.62.41/hls/FFFQZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "19",
+        "Id": "15",
         "Rivels": "Los Angeles Angels vs Athletics",
         "Title": "MLB Baseball 02:38",
         "Link": "http://193.47.62.41/hls/FFFQZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
+        "Id": "16",
+        "Rivels": "U Catolica vs Barcelona SC",
+        "Title": "Copa Libertadores 01:30",
+        "Link": "http://193.47.62.41/hls/FFFQZZQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "17",
+        "Rivels": "Penarol vs Corinthians",
+        "Title": "Copa Libertadores 01:30",
+        "Link": "http://193.47.62.40/hls/YZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "18",
+        "Rivels": "Cartagena vs Barranquilla",
+        "Title": "Colombia Primera B 01:30",
+        "Link": "http://193.47.62.41/hls/FFFQZZQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "19",
+        "Rivels": "Blooming vs Carabobo",
+        "Title": "Copa Sudamericana 01:30",
+        "Link": "http://193.47.62.41/hls/FFFQZZQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
         "Id": "20",
+        "Rivels": "Racing Club vs Caracas",
+        "Title": "Copa Sudamericana 01:00",
+        "Link": "http://193.47.62.40/hls/YZZZQQQX.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "21",
+        "Rivels": "New York Liberty W vs Golden State Valkyries W",
+        "Title": "WNBA Basketball 01:00",
+        "Link": "http://193.47.62.41/hls/OHHHFQQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "22",
+        "Rivels": "Minnesota Lynx W vs Toronto Tempo W",
+        "Title": "WNBA Basketball 01:00",
+        "Link": "http://193.47.62.41/hls/OHHHFQ.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "23",
         "Rivels": "New York Yankees vs Toronto Blue Jays",
         "Title": "MLB Baseball 00:05",
         "Link": "http://193.47.62.41/hls/FFFQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "21",
+        "Id": "24",
         "Rivels": "Miami Marlins vs Atlanta Braves",
         "Title": "MLB Baseball 23:40",
         "Link": "http://193.47.62.40/hls/YZZZQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "22",
+        "Id": "25",
         "Rivels": "La Guaira vs Ind Rivadavia",
         "Title": "Copa Libertadores 23:00",
         "Link": "http://193.47.62.40/hls/YZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "23",
+        "Id": "26",
         "Rivels": "Puerto Cabello vs Juventud",
         "Title": "Copa Sudamericana 23:00",
         "Link": "http://193.47.62.40/hls/YZZZQQQX.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "24",
+        "Id": "27",
         "Rivels": "Atletico-MG vs Cienciano",
         "Title": "Copa Sudamericana 23:00",
         "Link": "http://193.47.62.40/hls/YZZZQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "25",
+        "Id": "28",
         "Rivels": "U Magdalena vs Bogota",
         "Title": "Colombia Primera B 22:00",
         "Link": "http://193.47.62.40/hls/YZZZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "26",
+        "Id": "29",
         "Rivels": "Jaguares de Cordoba vs Ind Yumbo",
         "Title": "Colombia Copa 22:00",
         "Link": "http://193.47.62.40/hls/YZZZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "27",
+        "Id": "30",
         "Rivels": "Aguilas vs Pereira",
         "Title": "Colombia Copa 21:30",
         "Link": "http://193.47.62.40/hls/YZZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "28",
+        "Id": "31",
         "Rivels": "Washington Nationals vs New York Mets",
         "Title": "MLB Baseball 21:05",
         "Link": "http://193.47.62.44/hls/TNNNNQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "29",
+        "Id": "32",
         "Rivels": "Golf PGA The CJ Cup Byron Nelson",
         "Title": "Golf PGA 13:30",
         "Link": "http://193.47.62.54/hls/CCCCQ.m3u8|referer=http://www.fawanews.sc/"
