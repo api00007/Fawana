@@ -27,7 +27,7 @@
         "Id": "5",
         "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- RU HD",
         "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d96fa180-e6a7-48ba-9f09-31d43e0ad3b6/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d96fa180-e6a7-48ba-9f09-31d43e0ad3b6/master.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
@@ -57,96 +57,30 @@
         "Id": "10",
         "Rivels": "Vegas Golden Knights vs Colorado Avalanche --- RU HD",
         "Title": "NHL Hockey 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30117f4a-8cce-4d00-a297-36bb9b3b37da/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30117f4a-8cce-4d00-a297-36bb9b3b37da/master.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "11",
-        "Rivels": "Inter Miami vs Philadelphia Union --- SD",
-        "Title": "MLS League 00:00",
-        "Link": "http://193.47.62.43/hls/KMMMZ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "UNAM Pumas vs Cruz Azul --- SD",
+        "Title": "Mexico Liga MX 02:00",
+        "Link": "http://193.47.62.43/hls/KMMMZZZQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
-        "Rivels": "Inter Miami vs Philadelphia Union --- HD",
-        "Title": "MLS League 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/4d7f28dc-cdb8-4ee6-9945-bfdffbb3c0c9/720p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "UNAM Pumas vs Cruz Azul --- HD",
+        "Title": "Mexico Liga MX 02:00",
+        "Link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/7f694f92-e0b2-435d-8174-2e54e4754439/720p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "13",
-        "Rivels": "Los Angeles FC vs Seattle Sounders",
+        "Rivels": "Los Angeles FC vs Seattle Sounders --- SD",
         "Title": "MLS League 02:15",
         "Link": "http://193.47.62.43/hls/KMMMZZZQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
-        "Rivels": "UNAM Pumas vs Cruz Azul",
-        "Title": "Mexico Liga MX 02:00",
-        "Link": "http://193.47.62.43/hls/KMMMZZZQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Vasco vs Bragantino",
-        "Title": "Brazil Serie A 00:30",
-        "Link": "http://193.47.62.43/hls/KMMMZZZQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Operario-PR vs Criciuma",
-        "Title": "Brazil Serie B 00:30",
-        "Link": "http://193.47.62.43/hls/KMMMZZZQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Los Angeles Angels vs Texas Rangers",
-        "Title": "MLB Baseball 00:20",
-        "Link": "http://193.47.62.43/hls/KMMMZZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Delfin vs Barcelona SC",
-        "Title": "Ecuador Liga Pro 00:10",
-        "Link": "http://193.47.62.43/hls/KMMMZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "San Diego Wave W vs Orlando Pride W",
-        "Title": "NWSL League 00:00",
-        "Link": "http://193.47.62.43/hls/KMMM.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Nascar Cup Series Coca-Cola 600",
-        "Title": "Nascar 23:00",
-        "Link": "http://193.47.62.43/hls/joooQF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Baltimore Orioles vs Detroit Tigers",
-        "Title": "MLB Baseball 23:05",
-        "Link": "http://193.47.62.43/hls/joooQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Seattle Storm W vs Washington Mystics W",
-        "Title": "WNBA Basketball 23:00",
-        "Link": "http://193.47.62.43/hls/jooo.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "U Catolica vs Colo Colo",
-        "Title": "Chile Liga de Primera 23:00",
-        "Link": "http://193.47.62.43/hls/hcccqqqqqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "Avai vs Goias",
-        "Title": "Brazil Serie B 23:00",
-        "Link": "http://193.47.62.43/hls/hcccqqqqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "25",
-        "Rivels": "Atlanta Braves vs Washington Nationals",
-        "Title": "MLB Baseball 21:10",
-        "Link": "http://193.47.62.43/hls/jfffqqqQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Los Angeles FC vs Seattle Sounders --- HD",
+        "Title": "MLS League 02:15",
+        "Link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/4d7f28dc-cdb8-4ee6-9945-bfdffbb3c0c9/720p/media.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
