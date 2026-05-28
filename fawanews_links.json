@@ -1,242 +1,104 @@
 [
     {
         "Id": "1",
-        "Rivels": "Darts Premier League",
-        "Title": "Darts 19:10",
-        "Link": "http://193.47.62.43/hls/tiiiqqQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "2",
-        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG",
+        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG 1",
         "Title": "NBA Basketball 01:00",
         "Link": "http://193.47.62.48/hls/VAVAVAT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
+        "Id": "2",
+        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG 2",
+        "Title": "NBA Basketball 01:00",
+        "Link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/378bab39-b2e8-4800-a741-8cd7cd3f562c/480p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
         "Id": "3",
-        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG HD",
+        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG 1 HD",
+        "Title": "NBA Basketball 01:00",
+        "Link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/ff13372a-7206-40a6-8a06-0b325fa2649c/720p/media.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "4",
+        "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- ENG 2 HD",
         "Title": "NBA Basketball 01:00",
         "Link": "http://193.47.62.52/hls/VAVAVAT.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "4",
+        "Id": "5",
         "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- RU HD",
-        "Title": "NBA Basketball 01:30",
+        "Title": "NBA Basketball 01:00",
         "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/323926e0-6d81-44ae-8f0c-4ad293303417/master.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Boca Juniors vs U Catolica",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "7",
         "Rivels": "Cruzeiro vs Barcelona SC",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://193.47.62.43/hls/EJJJZZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "8",
         "Rivels": "Tigre vs Alianza Atl",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://193.47.62.43/hls/EJJJZZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "9",
         "Rivels": "America De Cali vs Macara",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "10",
         "Rivels": "Texas Rangers vs Houston Astros",
         "Title": "MLB Baseball 01:05",
         "Link": "http://193.47.62.43/hls/EJJJZZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "11",
+        "Rivels": "Golden State Valkyries W vs Indiana Fever W",
+        "Title": "WNBA Basketball 03:0",
+        "Link": "http://193.47.62.43/hls/HHHHHE.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "12",
+        "Rivels": "Dallas Wings W vs Las Vegas Aces W",
+        "Title": "WNBA Basketball 01:00",
+        "Link": "http://193.47.62.43/hls/HHHHH.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "13",
         "Rivels": "Pittsburgh Pirates vs Chicago Cubs",
         "Title": "MLB Baseball 23:40",
         "Link": "http://193.47.62.43/hls/EJJJZ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "14",
         "Rivels": "Baltimore Orioles vs Toronto Blue Jays",
         "Title": "MLB Baseball 23:35",
         "Link": "http://193.47.62.43/hls/EJJJ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "15",
         "Rivels": "Palmeiras vs Junior",
         "Title": "Copa Libertadores 23:00",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "13",
+        "Id": "16",
         "Rivels": "Cerro Porteno vs Sporting Cristal",
         "Title": "Copa Libertadores 23:00",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "14",
+        "Id": "17",
         "Rivels": "Boston Red Sox vs Atlanta Braves",
         "Title": "MLB Baseball 21:10",
         "Link": "http://193.47.62.43/hls/ennnnQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Morocco U17 vs Senegal U17",
-        "Title": "Africa Cup of Nations U17 20:00",
-        "Link": "http://193.47.62.59/hls/sasasasaQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Strasbourg vs Paris",
-        "Title": "France Basketball LNB 20:00",
-        "Link": "https://pull.livecdn.cc/live/3921486.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Casa Pia vs Torreense --- CH 1",
-        "Title": "Portugal Primeira Liga 20:00",
-        "Link": "http://193.47.62.43/hls/ennnnQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Casa Pia vs Torreense --- CH 2",
-        "Title": "Portugal Primeira Liga 20:00",
-        "Link": "https://pull.livecdn.cc/live/4543654.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Vannes vs US Oyonnax",
-        "Title": "France Rugby Pro D2 20:00",
-        "Link": "http://193.47.62.43/hls/ennnnQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "Ireland vs Qatar --- CH 1",
-        "Title": "Friendly Match 19:45",
-        "Link": "http://193.47.62.43/hls/ennnnQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "21",
-        "Rivels": "Ireland vs Qatar --- CH 2",
-        "Title": "Friendly Match 19:45",
-        "Link": "https://pull.livecdn.cc/live/4517778.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "22",
-        "Rivels": "Wieczysta Krakow vs Polonia Warszawa",
-        "Title": "Poland Division 1 19:30",
-        "Link": "http://193.47.62.43/hls/ennnn.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "23",
-        "Rivels": "Switzerland vs Sweden --- SD",
-        "Title": "Hockey World Championship 19:20",
-        "Link": "http://193.47.62.51/hls/TTTTD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "24",
-        "Rivels": "Switzerland vs Sweden --- HD",
-        "Title": "Hockey World Championship 19:20",
-        "Link": "http://193.47.62.51/hls/TTTTDX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "25",
-        "Rivels": "Norway vs Latvia --- SD",
-        "Title": "Hockey World Championship 19:20",
-        "Link": "http://193.47.62.51/hls/TTTT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "26",
-        "Rivels": "Norway vs Latvia --- HD",
-        "Title": "Hockey World Championship 19:20",
-        "Link": "http://193.47.62.51/hls/TTTTX.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "27",
-        "Rivels": "Chicago White Sox vs Minnesota Twins",
-        "Title": "MLB Baseball 19:10",
-        "Link": "http://193.47.62.43/hls/tiiiqqQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "28",
-        "Rivels": "Egypt vs Russia --- CH 1",
-        "Title": "Friendly Match 19:00",
-        "Link": "http://193.47.62.43/hls/tiiiqqQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "29",
-        "Rivels": "Egypt vs Russia --- CH 2",
-        "Title": "Friendly Match 19:00",
-        "Link": "https://pull.livecdn.cc/live/4541818.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "30",
-        "Rivels": "England W vs India W",
-        "Title": "Cricket 18:30",
-        "Link": "http://193.47.62.59/hls/tiiiqqQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "31",
-        "Rivels": "Detroit Tigers vs Los Angeles Angels",
-        "Title": "MLB Baseball 18:10",
-        "Link": "http://193.47.62.59/hls/tiiiqq.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "32",
-        "Rivels": "Football Women World Sevens Tournament",
-        "Title": "Friendly Match 15:30",
-        "Link": "http://193.47.62.55/hls/ssssFF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "33",
-        "Rivels": "Golf PGA Charles Schwab Challenge",
-        "Title": "Golf PGA 13:00",
-        "Link": "http://193.47.62.55/hls/GTGTGTGT.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "34",
-        "Rivels": "Tennis Roland Garros --- CH 7",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA234567.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "35",
-        "Rivels": "Tennis Roland Garros --- CH 1",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "36",
-        "Rivels": "Tennis Roland Garros --- CH 2",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA2.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "37",
-        "Rivels": "Tennis Roland Garros --- CH 3",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA23.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "38",
-        "Rivels": "Tennis Roland Garros --- CH 4",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA234.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "39",
-        "Rivels": "Tennis Roland Garros --- CH 5",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA2345.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "40",
-        "Rivels": "Tennis Roland Garros --- CH 6",
-        "Title": "Tennis Masters 10:00",
-        "Link": "http://193.47.62.44/hls/SAAA23456.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
