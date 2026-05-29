@@ -27,43 +27,43 @@
         "Id": "5",
         "Rivels": "San Antonio Spurs vs Oklahoma City Thunder --- RU HD",
         "Title": "NBA Basketball 01:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/323926e0-6d81-44ae-8f0c-4ad293303417/master.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/323926e0-6d81-44ae-8f0c-4ad293303417/1080p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
+        "Rivels": "Golden State Valkyries W vs Indiana Fever W",
+        "Title": "WNBA Basketball 03:00",
+        "Link": "http://193.47.62.43/hls/HHHHHE.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "7",
         "Rivels": "Boca Juniors vs U Catolica",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "8",
         "Rivels": "Cruzeiro vs Barcelona SC",
         "Title": "Copa Libertadores 01:30",
         "Link": "http://193.47.62.43/hls/EJJJZZQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "9",
         "Rivels": "Tigre vs Alianza Atl",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://193.47.62.43/hls/EJJJZZQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "10",
         "Rivels": "America De Cali vs Macara",
         "Title": "Copa Sudamericana 01:30",
         "Link": "http://193.47.62.43/hls/ennnnQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "11",
         "Rivels": "Texas Rangers vs Houston Astros",
         "Title": "MLB Baseball 01:05",
         "Link": "http://193.47.62.43/hls/EJJJZZ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "Golden State Valkyries W vs Indiana Fever W",
-        "Title": "WNBA Basketball 03:0",
-        "Link": "http://193.47.62.43/hls/HHHHHE.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "12",
@@ -82,23 +82,5 @@
         "Rivels": "Baltimore Orioles vs Toronto Blue Jays",
         "Title": "MLB Baseball 23:35",
         "Link": "http://193.47.62.43/hls/EJJJ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "15",
-        "Rivels": "Palmeiras vs Junior",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://193.47.62.43/hls/ennnnQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "16",
-        "Rivels": "Cerro Porteno vs Sporting Cristal",
-        "Title": "Copa Libertadores 23:00",
-        "Link": "http://193.47.62.43/hls/ennnnQQQQQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "17",
-        "Rivels": "Boston Red Sox vs Atlanta Braves",
-        "Title": "MLB Baseball 21:10",
-        "Link": "http://193.47.62.43/hls/ennnnQQQQ.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
