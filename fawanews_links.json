@@ -1,15 +1,15 @@
 [
     {
         "Id": "1",
-        "Rivels": "BKFC 90 : Tierney vs Franco",
+        "Rivels": "BKFC 90 : Tierney vs Franco --- CH 1",
         "Title": "MMA BKFC --:--",
         "Link": "http://193.47.62.56/hls/gagaga.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Boxing : Bivol vs Eifert",
-        "Title": "Boxing --:--",
-        "Link": "http://193.47.62.41/hls/goooqq.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "BKFC 90 : Tierney vs Franco --- CH 2",
+        "Title": "MMA BKFC --:--",
+        "Link": "https://live.kinescopecdn.net/on-air/ea73f5c1-195a-4244-af39-a091d2f4b23d/b23042db-8d33-4058-b66f-671083fa070b/360p/media.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
@@ -333,24 +333,24 @@
         "Id": "56",
         "Rivels": "PSG vs Arsenal --- ENG 1",
         "Title": "UEFA Champions League 17:00",
-        "Link": "http://193.47.62.50/hls/TATATA.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://193.47.62.40/hls/TATATA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "57",
         "Rivels": "PSG vs Arsenal --- SWE",
         "Title": "UEFA Champions League 17:00",
-        "Link": "http://193.47.62.46/hls/TATATAQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://193.47.62.40/hls/TATATAQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "58",
         "Rivels": "PSG vs Arsenal --- CYP",
         "Title": "UEFA Champions League 17:00",
-        "Link": "http://193.47.62.46/hls/TATATAQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "http://193.47.62.56/hls/TATATAQQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "59",
         "Rivels": "PSG vs Arsenal --- CN HD",
         "Title": "UEFA Champions League 17:00",
-        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=dd1a2ca473bb33504e252d9c7fd0cd16|referer=http://www.fawanews.sc/"
+        "Link": "https://b365cf61a574808030887b0b8706ebf1.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=03c3f98277ba20a92b685ee720909acb|referer=http://www.fawanews.sc/"
     }
 ]
