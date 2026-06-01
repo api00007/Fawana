@@ -1,74 +1,50 @@
 [
     {
         "Id": "1",
-        "Rivels": "Palestino vs Audax Italiano",
-        "Title": "Chile Liga de Primera 01:00",
-        "Link": "http://193.47.62.42/hls/FDFDFDQQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis Roland Garros --- CH 1",
+        "Title": "Tennis Masters --:--",
+        "Link": "http://193.47.62.44/hls/SAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "2",
-        "Rivels": "Cruzeiro vs Fluminense",
-        "Title": "Brazil Serie A 00:30",
-        "Link": "http://193.47.62.42/hls/FDFDFDQQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Tennis Roland Garros --- CH 2",
+        "Title": "Tennis Masters --:--",
+        "Link": "http://193.47.62.44/hls/SAAA2.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "3",
-        "Rivels": "Remo vs Sao Paulo",
-        "Title": "Brazil Serie A 00:30",
-        "Link": "http://193.47.62.42/hls/FDFDFDQQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Al Masry vs ZED",
+        "Title": "Egypt Premier League 15:00",
+        "Link": "http://193.47.62.42/hls/ebbbqqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
-        "Rivels": "Cuiaba vs CRB",
-        "Title": "Brazil Serie B 00:30",
-        "Link": "http://193.47.62.42/hls/FDFDFDQQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Japan U20 vs Ivory Coast U20",
+        "Title": "Friendly Match 14:00",
+        "Link": "http://193.47.62.42/hls/deee.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "5",
-        "Rivels": "St Louis Cardinals vs Chicago Cubs",
-        "Title": "MLB Baseball 00:20",
-        "Link": "http://193.47.62.42/hls/FDFDFDQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "France U17 vs Montenegro U17",
+        "Title": "Euro U17 12:30",
+        "Link": "http://193.47.62.42/hls/ebbbqqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "6",
-        "Rivels": "Emelec vs U Catolica",
-        "Title": "Ecuador Liga Pro 00:10",
-        "Link": "http://193.47.62.42/hls/FDFDFDQ.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Denmark U17 vs Italy U17",
+        "Title": "Euro U17 12:30",
+        "Link": "http://193.47.62.42/hls/ebbbqq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "7",
-        "Rivels": "Angel City W vs North Carolina Courage W",
-        "Title": "NWSL League 00:00",
-        "Link": "http://193.47.62.42/hls/FDFDFD.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Pakistan vs Bangladesh U23",
+        "Title": "Friendly Match 12:00",
+        "Link": "http://193.47.62.42/hls/ebbbq.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "8",
-        "Rivels": "Cienciano vs Sporting Cristal",
-        "Title": "Peru Liga 1 Apertura 23:00",
-        "Link": "http://193.47.62.44/hls/TIIIF.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "9",
-        "Rivels": "Racing Club vs Defensa y Justicia",
-        "Title": "Argentina Copa 23:00",
-        "Link": "http://193.47.62.41/hls/SVVVV.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "10",
-        "Rivels": "Maldonado vs Nacional",
-        "Title": "Uruguay Liga AUF 22:30",
-        "Link": "http://193.47.62.42/hls/TYTYTYDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "11",
-        "Rivels": "O Higgins vs Everton",
-        "Title": "Chile Liga de Primera 22:30",
-        "Link": "http://193.47.62.42/hls/TYTYTYD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "12",
-        "Rivels": "Los Angeles Dodgers vs Philadelphia Phillies",
-        "Title": "MLB Baseball 21:10",
-        "Link": "http://193.47.62.42/hls/TATATADDD.m3u8|referer=http://www.fawanews.sc/"
+        "Rivels": "Vanraure vs Fukushima Utd",
+        "Title": "Japan J2 League 11:00",
+        "Link": "http://193.47.62.42/hls/ebbb.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
