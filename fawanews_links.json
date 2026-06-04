@@ -13,69 +13,69 @@
     },
     {
         "Id": "3",
-        "Rivels": "San Antonio Spurs vs New York Knicks --- RU HD",
+        "Rivels": "San Antonio Spurs vs New York Knicks --- ENG 3 HD",
         "Title": "NBA Basketball 01:30",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/707be7e3-3967-4f87-b379-11bdf242957c/1080p/media.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.egmdispatch.com/live/70505022_d145d73344212c81a6c8271740e95867.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "4",
+        "Rivels": "San Antonio Spurs vs New York Knicks --- RU HD",
+        "Title": "NBA Basketball 01:30",
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/707be7e3-3967-4f87-b379-11bdf242957c/master.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+        "Id": "5",
         "Rivels": "Seattle Storm W vs Phoenix Mercury W",
         "Title": "WNBA Basketball 03:00",
         "Link": "http://193.47.62.42/hls/YAAADDDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "5",
+        "Id": "6",
         "Rivels": "Arizona Diamondbacks vs Los Angeles Dodgers",
         "Title": "MLB Baseball 02:40",
         "Link": "http://193.47.62.42/hls/YAAADD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "6",
+        "Id": "7",
         "Rivels": "Los Angeles Angels vs Colorado Rockies",
         "Title": "MLB Baseball 02:38",
         "Link": "http://193.47.62.42/hls/YAAAD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "7",
+        "Id": "8",
         "Rivels": "South Korea vs El Salvador",
         "Title": "Friendly Match 02:00",
         "Link": "http://193.47.62.42/hls/UAAAAQ.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "8",
+        "Id": "9",
         "Rivels": "Panama vs Dominican Republic",
         "Title": "Friendly Match 01:45",
         "Link": "http://193.47.62.42/hls/UAAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "9",
+        "Id": "10",
         "Rivels": "Houston Astros vs Pittsburgh Pirates",
         "Title": "MLB Baseball 01:10",
         "Link": "http://193.47.62.42/hls/YAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "10",
+        "Id": "11",
         "Rivels": "Chicago Cubs vs Athletics",
         "Title": "MLB Baseball 01:05",
         "Link": "http://193.47.62.42/hls/TAAADDDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "11",
+        "Id": "12",
         "Rivels": "St Louis Cardinals vs Texas Rangers",
         "Title": "MLB Baseball 00:45",
         "Link": "http://193.47.62.42/hls/TAAADDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-        "Id": "12",
+        "Id": "13",
         "Rivels": "Milwaukee Brewers vs San Francisco Giants",
         "Title": "MLB Baseball 00:40",
         "Link": "http://193.47.62.42/hls/TAAADDD.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "13",
-        "Rivels": "New York Liberty W vs Toronto Tempo W",
-        "Title": "WNBA Basketball 00:30",
-        "Link": "http://193.47.62.42/hls/YAAADDDD.m3u8|referer=http://www.fawanews.sc/"
     },
     {
         "Id": "14",
@@ -99,24 +99,6 @@
         "Id": "17",
         "Rivels": "Toronto Marlies vs Wilkes-Barre Scranton",
         "Title": "Hockey AHL 00:00",
-        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0e64c9fc-e103-42cd-8f9c-a466fd069466/1080p/media.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "18",
-        "Rivels": "Boston Red Sox vs Baltimore Orioles",
-        "Title": "MLB Baseball 23:45",
-        "Link": "http://193.47.62.42/hls/QGGGQ.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "19",
-        "Rivels": "Philadelphia Phillies vs San Diego Padres",
-        "Title": "MLB Baseball 23:40",
-        "Link": "http://193.47.62.43/hls/QGGG.m3u8|referer=http://www.fawanews.sc/"
-    },
-    {
-        "Id": "20",
-        "Rivels": "West Indies vs Sri Lanka",
-        "Title": "Cricket 15:30",
-        "Link": "http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/"
+        "Link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0e64c9fc-e103-42cd-8f9c-a466fd069466/master.m3u8|referer=http://www.fawanews.sc/"
     }
 ]
