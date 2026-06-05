@@ -1,21 +1,18 @@
-name: Auto Scraper
+name: Fawna Auto Scraper
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
-  workflow_dispatch:      # Manual trigger
-
-# --- EI PART TA NOTUN JUKTO KORA HOLO (FIX) ---
-permissions:
-  contents: write
-# ----------------------------------------------
+    - cron: '*/20 * * * *' # প্রতি ২০ মিনিট পরপর চলবে (গিটহাবের ব্যাকআপ শিডিউলার)
+  workflow_dispatch: 
+  repository_dispatch:
+    types: [external-trigger] # এক্সটার্নাল ট্র্রিগারের জন্য
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -25,18 +22,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright
-          playwright install chromium
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run Scraper
-        env:
-          FAWA_URL: ${{ secrets.FAWA_URL }}
-        run: python main.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add fawanews_links.json
-          # Change ache kina check korbe, thakle commit korbe natoba error dibe na
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update links" && git push)
+        run: python fawna.py
