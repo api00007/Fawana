@@ -4,12 +4,14 @@ import json
 import random
 import time
 import os
+import shutil
 from datetime import datetime
 import pytz
 from collections import OrderedDict
 
 # --- সেটিংস ---
-BASE_URL = "http://www.fawanews.sc/"
+# কোনো হার্ডকোডেড ইউআরএল রাখা হয়নি, সরাসরি গিটহাব সিক্রেট থেকে আসবে
+BASE_URL = os.getenv("BASE_URL")
 OUTPUT_FILE = "fawna.json" 
 
 HEADERS = {
@@ -26,17 +28,50 @@ def get_ist_time():
     return datetime.now(ist).strftime('%d/%m/%y %H:%M:%S IST')
 
 def push_to_github():
-    print(f"[-] একই GitHub রিপোজিটরিতে {OUTPUT_FILE} আপডেট করা হচ্ছে...")
+    print(f"[-] অন্য GitHub রিপোজিটরিতে {OUTPUT_FILE} আপডেট করা হচ্ছে...")
+    GITHUB_TOKEN = os.getenv("GH_TOKEN")
+    GITHUB_USER = os.getenv("TGITHUB_USER")
+    GITHUB_REPO = os.getenv("TGITHUB_REPO")
+    GITHUB_EMAIL = os.getenv("TGITHUB_EMAIL")
+    
+    # একটি আলাদা অস্থায়ী ডিরেক্টরি নাম
+    temp_dir = "temp_external_repo"
+    remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USER}/{GITHUB_REPO}.git"
+
     try:
-        # রানারের অটোমেটিক বিল্ট-ইন গিট ট্র্যাকিং ব্যবহার করা হচ্ছে
-        os.system('git config user.name "github-actions[bot]"')
-        os.system('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"')
+        # ১. আগের কোনো টেম্পোরারি ফোল্ডার থাকলে তা মুছে ফেলা
+        if os.path.exists(temp_dir):
+            shutil.rmtree(temp_dir)
+            
+        # ২. অন্য রিপোজিটরিটি একদম নতুনভাবে ক্লোন করা
+        clone_status = os.system(f"git clone {remote_url} {temp_dir}")
+        if clone_status != 0:
+            raise Exception("Git Clone ব্যর্থ হয়েছে। দয়া করে টোকেন ও রিপোজিটরি নাম চেক করুন।")
         
+        # ৩. সদ্য স্ক্র্যাপ করা fawna.json ফাইলটি ক্লোন করা ফোল্ডারে কপি করা
+        shutil.copy(OUTPUT_FILE, os.path.join(temp_dir, OUTPUT_FILE))
+        
+        # ৪. ক্লোন ফোল্ডারের ভেতর প্রবেশ করে কনফিগার, কমিট ও পুশ করা
+        current_dir = os.getcwd()
+        os.chdir(temp_dir)
+        
+        os.system(f'git config user.email "{GITHUB_EMAIL}"')
+        os.system(f'git config user.name "{GITHUB_USER}"')
         os.system(f"git add {OUTPUT_FILE}")
-        os.system(f'git commit -m "Update {OUTPUT_FILE} only: {get_ist_time()}" || echo "No changes"')
-        os.system("git push origin main")
+        os.system(f'git commit -m "Auto Update: {get_ist_time()}" || echo "No changes"')
+        push_status = os.system("git push origin main")
         
-        print(f"[SUCCESS] একই রিপোজিটরিতে {OUTPUT_FILE} আপডেট সম্পন্ন।")
+        # ৫. কাজ শেষে আবার আগের প্রধান ডিরেক্টরিতে ফিরে আসা
+        os.chdir(current_dir)
+        
+        # অস্থায়ী ফোল্ডারটি মুছে ফেলা
+        shutil.rmtree(temp_dir)
+        
+        if push_status == 0:
+            print(f"[SUCCESS] অন্য রিপোজিটরিতে {OUTPUT_FILE} সফলভাবে আপডেট সম্পন্ন।")
+        else:
+            print("[ERROR] পুশ কমান্ড সফল হয়নি।")
+            
     except Exception as e:
         print(f"[ERROR] পুশ ফেইল: {e}")
 
@@ -87,18 +122,17 @@ def run_automation():
                             
                             try:
                                 m_res = session.get(full_url, timeout=5)
-                                # এখানে কোটেশনের সিনট্যাক্স এররটি সংশোধন করা হয়েছে
                                 m3u8_links = list(dict.fromkeys(re.findall(r'["\']([^"\']+\.m3u8[^"\']*)["\']', m_res.text)))
                                 if m3u8_links:
-                                        for idx, m3u8 in enumerate(m3u8_links, 1):
-                                            match_list.append({
-                                                "Id": str(len(match_list) + 1),
-                                                "Rivels": rivals,
-                                                "Title": f"{title} (S-{idx})",
-                                                "Link": f"{m3u8}|referer={BASE_URL}"
-                                            })
-                                        seen_links.add(href)
-                                        found_any = True
+                                    for idx, m3u8 in enumerate(m3u8_links, 1):
+                                        match_list.append({
+                                            "Id": str(len(match_list) + 1),
+                                            "Rivels": rivals,
+                                            "Title": f"{title} (S-{idx})",
+                                            "Link": f"{m3u8}|referer={BASE_URL}"
+                                        })
+                                    seen_links.add(href)
+                                    found_any = True
                                 time.sleep(random.uniform(0.1, 0.5))
                             except: continue
                 if found_any: break
@@ -125,9 +159,12 @@ def run_automation():
         print("[!] কোনো ডাটা পাওয়া যায়নি।")
 
 if __name__ == "__main__":
-    try:
-        print(f"\n[!] Fawna স্ক্র্যাপ শুরু: {get_ist_time()}")
-        run_automation()
-        print("[-] কাজ শেষ।")
-    except Exception as e:
-        print(f"Error: {e}")
+    if not BASE_URL:
+        print("[ERROR] BASE_URL পাওয়া যায়নি! দয়া করে গিটহাব সিক্রেট চেক করুন।")
+    else:
+        try:
+            print(f"\n[!] Fawna স্ক্র্যাপ শুরু: {get_ist_time()}")
+            run_automation()
+            print("[-] কাজ শেষ।")
+        except Exception as e:
+            print(f"Error: {e}")
