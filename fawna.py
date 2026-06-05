@@ -87,17 +87,19 @@ def run_automation():
                             
                             try:
                                 m_res = session.get(full_url, timeout=5)
-                                m3u8_links = list(dict.fromkeys(re.findall(r'["\']([^"\']+\.m3u8[^'\"]*)['\"]', m_res.text)))
+                                # এখানে কোটেশনের সিনট্যাক্স এররটি সংশোধন করা হয়েছে
+                                m3u8_links = list(dict.fromkeys(re.findall(r'["\']([^"\']+\.m3u8[^"\']*)["\']', m_res.text)))
                                 if m3u8_links:
-                                    for idx, m3u8 in enumerate(m3u8_links, 1):
-                                        match_list.append({
-                                            "Id": str(len(match_list) + 1),
-                                            "Rivels": rivals,
-                                            "Title": f"{title} (S-{idx})",
-                                            "Link": f"{m3u8}|referer={BASE_URL}"
-                                        })
-                                    seen_links.add(href)
-                                    found_any = True
+                                        for idx, m3u8 in enumerate(m3u8_links, 1):
+                                            match_list.append({
+                                                "Id": str(len(match_list) + 1),
+                                                "Rivels": rivals,
+                                                "Title": f"{title} (S-{idx})",
+                                                "Link": f"{m3u8}|referer={BASE_URL}"
+                                            })
+                                        seen_links.add(href)
+                                        found_any = True
+                                time.sleep(random.uniform(0.1, 0.5))
                             except: continue
                 if found_any: break
         except: continue
