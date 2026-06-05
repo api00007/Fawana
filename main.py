@@ -1,195 +1,131 @@
+import requests
+import re
 import json
+import random
 import time
-import os  # Secret key read korar jonno
-from playwright.sync_api import sync_playwright
+import os
+from datetime import datetime
+import pytz
+from collections import OrderedDict
 
-# --- SECRET URL SETUP ---
-# GitHub Secret theke link nibe. Jodi local e chalano hoy tobe error dibe na, default link nibe.
-BASE_URL = os.environ.get("FAWA_URL")
-if not BASE_URL:
-    BASE_URL = "http://www.fawanews.sc/" # Backup jodi secret na pay
+# --- সেটিংস ---
+BASE_URL = "http://www.fawanews.sc/"
+OUTPUT_FILE = "fawna.json" 
 
-OUTPUT_FILE = "fawanews_links.json"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Referer": "https://www.google.com/"
+}
 
-# --- SMART FILTER SETTINGS ---
-NEWS_KEYWORDS = [
-    "announce", "admit", "difficult", "retirement", "chief", 
-    "report", "confirm", "interview", "says", "warns", "exit", 
-    "driver", "reserve", "statement", "suspension", "injury"
-]
+# কি-ওয়ার্ড
+NEWS_KEYWORDS = ["announce", "retirement", "chief", "report", "confirm", "interview", "says", "warns", "exit", "driver", "reserve", "statement", "suspension", "injury"]
+MATCH_KEYWORDS = [" vs ", " v ", "cup", "league", "atp", "wta", "golf", "sport", "cricket", "football", "tennis", "tour", "nba", "basketball", "race", "prix", "match", "live"]
 
-MATCH_KEYWORDS = [
-    " vs ", " v ", "cup", "league", "atp", "wta", "golf", 
-    "sport", "cricket", "football", "tennis", "tour", "nba", 
-    "basketball", "race", "prix", "games", "olympic", "match", "live"
-]
+def get_ist_time():
+    ist = pytz.timezone('Asia/Kolkata')
+    return datetime.now(ist).strftime('%d/%m/%y %H:%M:%S IST')
 
-def run():
-    with sync_playwright() as p:
-        print("[-] Launching Browser...")
+def push_to_github():
+    print(f"[-] একই GitHub রিপোজিটরিতে {OUTPUT_FILE} আপডেট করা হচ্ছে...")
+    try:
+        # রানারের অটোমেটিক বিল্ট-ইন গিট ট্র্যাকিং ব্যবহার করা হচ্ছে
+        os.system('git config user.name "github-actions[bot]"')
+        os.system('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"')
         
-        browser = p.chromium.launch(
-            headless=True,
-            args=[
-                '--disable-blink-features=AutomationControlled',
-                '--no-sandbox',
-                '--disable-setuid-sandbox'
-            ]
-        )
+        os.system(f"git add {OUTPUT_FILE}")
+        os.system(f'git commit -m "Update {OUTPUT_FILE} only: {get_ist_time()}" || echo "No changes"')
+        os.system("git push origin main")
         
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            ignore_https_errors=True,
-            viewport={"width": 1280, "height": 720}
-        )
-        
-        page = context.new_page()
+        print(f"[SUCCESS] একই রিপোজিটরিতে {OUTPUT_FILE} আপডেট সম্পন্ন।")
+    except Exception as e:
+        print(f"[ERROR] পুশ ফেইল: {e}")
 
-        # --- PART 1: ACCESS SITE ---
-        print(f"[-] Accessing Site...") # URL print korchi na security er jonno
-        site_loaded = False
-        
-        for attempt in range(1, 4):
-            try:
-                page.goto(BASE_URL, timeout=40000, wait_until="domcontentloaded")
-                if page.locator("body").is_visible():
-                    print(f"[SUCCESS] Page loaded.")
-                    site_loaded = True
-                    break
-            except Exception as e:
-                print(f"[RETRY] Attempt {attempt}: {e}")
-                time.sleep(2)
+def fetch_proxies():
+    print("[-] প্রক্সি সংগ্রহ করা হচ্ছে...")
+    try:
+        url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=2000&country=us,gb&ssl=all&anonymity=all"
+        res = requests.get(url, timeout=5)
+        return [p.strip() for p in res.text.strip().split('\n') if p.strip()]
+    except: return []
 
-        if not site_loaded:
-            print("[FATAL] Site not loading.")
-            browser.close()
-            return
+def run_automation():
+    proxies = fetch_proxies()
+    random.shuffle(proxies)
+    
+    trial_proxies = proxies[:5] + [None] 
+    match_list = []
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    found_any = False
 
-        # --- PART 2: GET MATCHES ---
-        print("[-] Scanning for matches...")
-        matches_to_scan = []
-        try:
-            page.wait_for_timeout(3000)
-            all_links = page.locator("a").all()
-        except:
-            all_links = []
-
-        for link in all_links:
-            try:
-                # Parent Text Logic (Jate Title + Team Name duto e ase)
-                parent_element = link.locator("xpath=..")
-                full_text = parent_element.inner_text().strip()
-                
-                href = link.get_attribute("href")
-                
-                if not href or len(full_text) < 4: continue
-                if "domain" in full_text.lower(): continue 
-                
-                text_lower = full_text.lower()
-                
-                # News Filter
-                if any(bad_word in text_lower for bad_word in NEWS_KEYWORDS):
-                    continue
-                
-                # Match Confirm
-                is_match = False
-                if " vs " in text_lower or " v " in text_lower:
-                    is_match = True
-                elif any(k in text_lower for k in MATCH_KEYWORDS):
-                    is_match = True
-                
-                if is_match:
-                    # Line split logic
-                    lines = [line.strip() for line in full_text.split('\n') if line.strip()]
-                    
-                    if len(lines) >= 2:
-                        rivels_text = lines[0] # Top Line
-                        title_text = lines[1]  # Bottom Line
-                    else:
-                        rivels_text = lines[0]
-                        title_text = "Live Match"
-
-                    full_url = href if href.startswith("http") else BASE_URL.rstrip("/") + "/" + href.lstrip("/")
-                    
-                    matches_to_scan.append({
-                        "Rivels": rivels_text, 
-                        "Title": title_text, 
-                        "Link": full_url
-                    })
-            except:
-                continue
-
-        unique_matches = list({v['Link']: v for v in matches_to_scan}.values())
-        print(f"[-] Processing {len(unique_matches)} matches.")
-
-        # --- PART 3: EXTRACT LINKS ---
-        final_data = []
-        
-        for index, match in enumerate(unique_matches):
-            print(f"[{index+1}/{len(unique_matches)}] Scrape: {match['Rivels']}")
-            
-            match_page = context.new_page()
-            m3u8_found = None
-            
-            def handle(req):
-                nonlocal m3u8_found
-                url = req.url
-                if ".m3u8" in url and "favicon" not in url:
-                    m3u8_found = url
-
-            match_page.on("request", handle)
-            
-            try:
-                match_page.goto(match['Link'], timeout=30000, wait_until="domcontentloaded")
-                time.sleep(6) 
-                
-                try:
-                    match_page.evaluate("document.elementFromPoint(640, 360).click()")
-                except:
-                    try:
-                        match_page.mouse.click(640, 360)
-                    except:
-                        pass
-                
-                for _ in range(8):
-                    if m3u8_found: break
-                    time.sleep(1)
-                
-                if m3u8_found:
-                    print(f"   -> [FOUND] Success")
-                    
-                    match_id = str(len(final_data) + 1)
-                    
-                    # Secret URL referer hisebe add kora holo
-                    formatted_link = f"{m3u8_found}|referer={BASE_URL}"
-
-                    entry = {
-                        "Id": match_id,
-                        "Rivels": match['Rivels'],
-                        "Title": match['Title'],
-                        "Link": formatted_link
-                    }
-                    final_data.append(entry)
-                else:
-                    print("   -> [FAIL] No video link.")
-            
-            except Exception as e:
-                print(f"   -> [ERROR] {e}")
-            finally:
-                match_page.close()
-
-        # --- PART 4: SAVE JSON ---
-        with open(OUTPUT_FILE, "w") as f:
-            json.dump(final_data, f, indent=4)
-        
-        if final_data:
-            print(f"[DONE] Saved {len(final_data)} matches to {OUTPUT_FILE}")
+    for proxy in trial_proxies:
+        if proxy:
+            session.proxies = {"http": f"http://{proxy}", "https": f"http://{proxy}"}
+            timeout_val = 6
         else:
-            print("[DONE] No live streams found.")
-            with open(OUTPUT_FILE, "w") as f:
-                json.dump([], f)
+            session.proxies = {}
+            timeout_val = 10
+            print("[-] সরাসরি সংযোগ (Direct Connection) চেষ্টা করা হচ্ছে...")
 
-        browser.close()
+        try:
+            res = session.get(BASE_URL, timeout=timeout_val)
+            if res.status_code == 200 and "fawanews" in res.text.lower():
+                links_data = re.findall(r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', res.text, re.S)
+                seen_links = set()
+                for href, full_text in links_data:
+                    clean_text = re.sub('<[^<]+?>', '', full_text).strip()
+                    text_lower = clean_text.lower()
+                    
+                    if any(bad in text_lower for bad in NEWS_KEYWORDS): continue
+                    
+                    if any(k in text_lower for k in MATCH_KEYWORDS) or " vs " in text_lower:
+                        if href not in seen_links:
+                            full_url = href if href.startswith("http") else BASE_URL.rstrip("/") + "/" + href.lstrip("/")
+                            lines = [line.strip() for line in clean_text.split('\n') if line.strip()]
+                            rivals = lines[0] if lines else "Match"
+                            title = lines[1] if len(lines) >= 2 else "Live"
+                            
+                            try:
+                                m_res = session.get(full_url, timeout=5)
+                                m3u8_links = list(dict.fromkeys(re.findall(r'["\']([^"\']+\.m3u8[^'\"]*)['\"]', m_res.text)))
+                                if m3u8_links:
+                                    for idx, m3u8 in enumerate(m3u8_links, 1):
+                                        match_list.append({
+                                            "Id": str(len(match_list) + 1),
+                                            "Rivels": rivals,
+                                            "Title": f"{title} (S-{idx})",
+                                            "Link": f"{m3u8}|referer={BASE_URL}"
+                                        })
+                                    seen_links.add(href)
+                                    found_any = True
+                            except: continue
+                if found_any: break
+        except: continue
+
+    if found_any:
+        final_package = OrderedDict([
+            ("Owner", "Ivan-FluX"),
+            ("Telegram", "https://t.me/iVan_flux"),
+            ("App name", "fawna-auto-scrape-api"),
+            ("Last update", get_ist_time()),
+            ("Total_Matches", len(match_list)),
+            ("Live_Data", match_list)
+        ])
+        
+        try:
+            with open(OUTPUT_FILE, "w") as f:
+                json.dump(final_package, f, indent=4)
+            print(f"[+] {OUTPUT_FILE} আপডেট হয়েছে।")
+            push_to_github()
+        except Exception as e:
+            print(f"[ERROR] ফাইল সেভ ফেইল: {e}")
+    else:
+        print("[!] কোনো ডাটা পাওয়া যায়নি।")
 
 if __name__ == "__main__":
-    run()
+    try:
+        print(f"\n[!] Fawna স্ক্র্যাপ শুরু: {get_ist_time()}")
+        run_automation()
+        print("[-] কাজ শেষ।")
+    except Exception as e:
+        print(f"Error: {e}")
