@@ -5,7 +5,7 @@ on:
     - cron: '*/20 * * * *' # প্রতি ২০ মিনিট পরপর চলবে (গিটহাবের ব্যাকআপ শিডিউলার)
   workflow_dispatch: 
   repository_dispatch:
-    types: [external-trigger] # এক্সটার্নাল ট্র্রিগারের জন্য
+    types: [external-trigger] # এক্সটার্নাল ক্রন ট্রিগারের জন্য
 
 jobs:
   build:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false # ক্যাশ করা ক্রেডেনশিয়াল নিষ্ক্রিয় করা হলো
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,4 +28,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Scraper
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TGITHUB_EMAIL: ${{ secrets.TGITHUB_EMAIL }}
+          TGITHUB_REPO: ${{ secrets.TGITHUB_REPO }}
+          TGITHUB_USER: ${{ secrets.TGITHUB_USER }}
         run: python fawna.py
